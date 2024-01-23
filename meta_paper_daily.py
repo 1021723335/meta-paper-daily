@@ -164,7 +164,7 @@ def json_to_md(data):
         if not content:
             data = {}
         else:
-            data = json.load(content)
+            data = json.loads(content)
 
     md_filename = "README.md"
 
@@ -217,7 +217,7 @@ def update_history_data(data):
             print("history not exist")
             history = {}
         else:
-            history = json.loads(f)
+            history = json.loads(content)
     f.close()
     for k in data.keys():
         if k not in history:
