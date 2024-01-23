@@ -11,7 +11,7 @@ import time
 import shutil
 import traceback
 
-KEYS = ['source-free', "object detection", "domain adaptation", "domain generalization","vision language"]
+KEYS = ['source-free', "object detection", "domain adaptation", "domain generalization", "vision language"]
 data, papers = {}, {}
 DateNow = datetime.date.today()
 DateNow = str(DateNow)
@@ -24,10 +24,12 @@ def sort_papers(papers):
     output = dict()
     # keys = list(papers.keys())
     pattern = re.compile(u'\|\*\*(.*?)\*\*\|')
-    sort_dict = sorted(papers.items(), key=lambda x:datetime.datetime.strptime(re.match(pattern,x[1]).group(0).replace("*","").replace("|",""), '%Y-%m-%d'), reverse=True)
+    sort_dict = sorted(papers.items(), key=lambda x: datetime.datetime.strptime(
+        re.match(pattern, x[1]).group(0).replace("*", "").replace("|", ""), '%Y-%m-%d'), reverse=True)
     for key, value in sort_dict:
         output[key] = papers[key]
     return output
+
 
 # 参考连接 https://zhuanlan.zhihu.com/p/425670267
 # 转换日期为标准格式 https://blog.csdn.net/weixin_43751840/article/details/89947528
@@ -63,7 +65,8 @@ def get_paper_from_arxiv(key):
             if code_url == "-":
                 code_url = re.search(pattern, comments)
                 code_url = code_url.group() if code_url else "-"
-            comments = comments.replace(";", ".").split(",")[0].split(".")[0].replace("Comments:", "").replace("Accepted at ", "").replace("Accepted to ", "")
+            comments = comments.replace(";", ".").split(",")[0].split(".")[0].replace("Comments:", "").replace(
+                "Accepted at ", "").replace("Accepted to ", "")
             if "pages" in comments:
                 comments = "-"
         else:
@@ -74,11 +77,13 @@ def get_paper_from_arxiv(key):
         if title not in papers:
             # 会议相关折叠
             comments = f"<details><summary>detail</summary>{comments}</details>" if comments != "-" else "-"
-            #comments = f"<details>{comments}</details>" if comments != "-" else "-"
-            if code_url[-1] == '.': 
+            # comments = f"<details>{comments}</details>" if comments != "-" else "-"
+            if code_url[-1] == '.':
                 code_url = code_url[:-1]
-            papers[key][title] = f"|**{format_date}**|**{title}**|{author}|[paper]({paper_url})|" + code_url + f"{comments}|\n"
-            data[key][title] = {'date':format_date, 'author':author, 'paper_url':paper_url, 'code_url':code_url, 'comments':comments}
+            papers[key][
+                title] = f"|**{format_date}**|**{title}**|{author}|[paper]({paper_url})|" + code_url + f"{comments}|\n"
+            data[key][title] = {'date': format_date, 'author': author, 'paper_url': paper_url, 'code_url': code_url,
+                                'comments': comments}
         # print(code_url)
         count += 1
 
@@ -96,13 +101,13 @@ def get_paper_from_google(key):
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36',
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50',
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4346.0 Safari/537.36 Edg/89.0.731.0',
-        ]
+    ]
     query_key = key.replace(" ", "+")
-    query_domain = random.choice(["scholar.lanfanshu.cn"]) # "scholar.google.com.hk",
+    query_domain = random.choice(["scholar.lanfanshu.cn"])  # "scholar.google.com.hk",
     url = f"https://{query_domain}/scholar?as_vis=0&q=allintitle:+{query_key}&hl=zh-CN&scisbd=1&as_sdt=0,5"
     header = random.choice(headers)
-    print(url,header)
-    #url = f"https://sc.panda321.com/scholar?as_vis=0&q=allintitle:+{query_key}&hl=zh-CN&scisbd=1&as_sdt=0,5"
+    print(url, header)
+    # url = f"https://sc.panda321.com/scholar?as_vis=0&q=allintitle:+{query_key}&hl=zh-CN&scisbd=1&as_sdt=0,5"
     res = requests.get(url, headers={"User-Agent": header}, timeout=10)
     content = BeautifulSoup(res.text, 'html.parser')
     body = content.find(id="gs_res_ccl_mid")
@@ -142,14 +147,15 @@ def get_paper_from_google(key):
         if title not in papers:
             # 会议相关折叠
             comment = f"<details><summary>detail</summary>{comment}</details>" if comment != "-" else "-"
-            if code_url[-1] == '.': 
+            if code_url[-1] == '.':
                 code_url = code_url[:-1]
             code_url = f"[code]({code_url})|" if code_url != "-" else "-|"
-            papers[key][title] = f"|**{format_date}**|**{title}**|{author}|[paper]({paper_url})|" + code_url + f"{comment}|\n"
-            data[key][title] = {'date': format_date, 'author': author, 'paper_url': paper_url, 'code_url': code_url, 'comments': comment}
+            papers[key][
+                title] = f"|**{format_date}**|**{title}**|{author}|[paper]({paper_url})|" + code_url + f"{comment}|\n"
+            data[key][title] = {'date': format_date, 'author': author, 'paper_url': paper_url, 'code_url': code_url,
+                                'comments': comment}
         print(code_url)
         count += 1
-
 
 
 def json_to_md(data):
@@ -165,23 +171,23 @@ def json_to_md(data):
     # clean README.md if daily already exist else create it
     with open(md_filename, "w+", encoding='utf_8') as f:
         f.write(f"## CV Papers Daily\n")
-        #f.write("<details>\n")
-        #f.write("  <summary>Table of Contents</summary>\n")
-        #f.write("  <ol>\n")
+        # f.write("<details>\n")
+        # f.write("  <summary>Table of Contents</summary>\n")
+        # f.write("  <ol>\n")
         for keyword in data.keys():
             day_content = data[keyword]
             if not day_content:
                 continue
             kw = keyword.replace(" ", "-")
             f.write(f"- [{keyword}](#{kw})\n")
-            #f.write(f"    <li><a href=#{kw}>{keyword}</a></li>\n")
-        #f.write("  </ol>\n")
-        #f.write("</details>\n\n")
+            # f.write(f"    <li><a href=#{kw}>{keyword}</a></li>\n")
+        # f.write("  </ol>\n")
+        # f.write("</details>\n\n")
         f.write("\n\n")
         # pass
 
     # write data into README.md
-    with open(md_filename, "a+",encoding='utf_8') as f:
+    with open(md_filename, "a+", encoding='utf_8') as f:
 
         f.write("## Updated on " + DateNow + "\n\n")
 
@@ -207,7 +213,7 @@ def json_to_md(data):
 def update_history_data(data):
     with open("history.json", "r") as f:
         content = f.read()
-        if not content: #or datetime.date.today().day == 1:
+        if not content:  # or datetime.date.today().day == 1:
             print("history not exist")
             history = {}
         else:
@@ -223,7 +229,7 @@ def update_history_data(data):
 
 
 if __name__ == "__main__":
-    sleep_time = [30,35,40,45,50]
+    sleep_time = [30, 35, 40, 45, 50]
     for key in KEYS:
         try:
             get_paper_from_arxiv(key)
@@ -241,4 +247,3 @@ if __name__ == "__main__":
     except Exception as e:
         traceback.print_exc()
         print(e)
-
