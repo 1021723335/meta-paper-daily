@@ -71,6 +71,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-1-24**|**Enhancing cross-domain detection: adaptive class-aware contrastive transformer**|Ziru Zeng et.al|[paper](https://arxiv.org/abs/2401.13264)|-|<details><summary>detail</summary>Acceptd by Icassp 2024</details>|
+|**2024-1-23**|**AdCorDA: Classifier Refinement via Adversarial Correction and Domain Adaptation**|Lulan Shen et.al|[paper](https://arxiv.org/abs/2401.13212)|-|-|
 |**2024-1-23**|**UniHDA: Towards Universal Hybrid Domain Adaptation of Image Generators**|Hengjia Li et.al|[paper](https://arxiv.org/abs/2401.12596)|-|-|
 |**2024-1-23**|**Gradual Domain Adaptation via Normalizing Flows**|Shogo Sagawa et.al|[paper](https://arxiv.org/abs/2206.11492)|-|-|
 |**2024-1-22**|**AdaEmbed: Semi-supervised Domain Adaptation in the Embedding Space**|Ali Mottaghi et.al|[paper](https://arxiv.org/abs/2401.12421)|-|-|
@@ -94,13 +96,12 @@
 |**2024-1-19**|**Infrared ship target segmentation based on Adversarial Domain Adaptation**|T Zhang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0950705123000941)|-|<details><summary>detail</summary>Knowledge Based…, 2023 Elsevier</details>|
 |**2024-1-18**|**BlenDA: Domain Adaptive Object Detection through diffusion-based blending**|Tzuhsuan Huang et.al|[paper](https://arxiv.org/abs/2401.09921)|[code](https://github.com/aiiu-lab/BlenDA)|<details><summary>detail</summary>ICASSP(2024):2024 IEEE International Conference on Acoustics</details>|
 |**2024-1-18**|**Improving Domain Adaptation through Extended-Text Reading Comprehension**|Ting Jiang et.al|[paper](https://arxiv.org/abs/2401.07284)|[code](https://github.com/microsoft/LMOps.)|<details><summary>detail</summary>Work in Progress</details>|
-|**2024-1-18**|**Mean Teacher DETR with Masked Feature Alignment: A Robust Domain Adaptive Detection Transformer Framework**|Weixi Weng et.al|[paper](https://arxiv.org/abs/2310.15646)|-|<details><summary>detail</summary>AAAI2024</details>|
-|**2024-1-16**|**CEL: A Continual Learning Model for Disease Outbreak Prediction by Leveraging Domain Adaptation via Elastic Weight Consolidation**|Saba Aslam et.al|[paper](https://arxiv.org/abs/2401.08940)|-|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-1-24**|**Generative Video Diffusion for Unseen Cross-Domain Video Moment Retrieval**|Dezhao Luo et.al|[paper](https://arxiv.org/abs/2401.13329)|-|-|
 |**2024-1-23**|**UniHDA: Towards Universal Hybrid Domain Adaptation of Image Generators**|Hengjia Li et.al|[paper](https://arxiv.org/abs/2401.12596)|-|-|
 |**2024-1-22**|**Blinded by Generated Contexts: How Language Models Merge Generated and Retrieved Contexts for Open-Domain QA?**|Hexiang Tan et.al|[paper](https://arxiv.org/abs/2401.11911)|-|-|
 |**2024-1-22**|**Towards Cross Domain Generalization of Hamiltonian Representation via Meta Learning**|Yeongwoo Song et.al|[paper](https://arxiv.org/abs/2212.01168)|-|<details><summary>detail</summary>Conference paper at ICLR 2024</details>|
@@ -123,7 +124,6 @@
 |**2024-1-11**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
 |**2024-1-9**|**ANGO: A Next-Level Evaluation Benchmark For Generation-Oriented Language Models In Chinese Domain**|Bingchao Wang et.al|[paper](https://arxiv.org/abs/2401.04898)|-|-|
 |**2024-1-9**|**Meta-forests: Domain generalization on random forests with meta-learning**|Yuyang Sun et.al|[paper](https://arxiv.org/abs/2401.04425)|-|<details><summary>detail</summary>This paper is accepted by ACML2023</details>|
-|**2024-1-9**|**Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation**|Zhixiang Wei et.al|[paper](https://arxiv.org/abs/2312.04265)|[code](https://github.com/w1oves/Rein.git.)|-|
 |**2024-1-9**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|D Zhang et.al|[paper](https://arxiv.org/abs/2302.02350)|[code](https://paperswithcode.com/paper/aggregation-of-disentanglement-reconsidering)|-|
 |**2024-1-7**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
 
@@ -131,6 +131,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-1-24**|**VELMA: Verbalization Embodiment of LLM Agents for Vision and Language Navigation in Street View**|Raphael Schumann et.al|[paper](https://arxiv.org/abs/2307.06082)|-|<details><summary>detail</summary>AAAI 2024</details>|
 |**2024-1-23**|**Small Language Model Meets with Reinforced Vision Vocabulary**|Haoran Wei et.al|[paper](https://arxiv.org/abs/2401.12503)|-|-|
 |**2024-1-22**|**The Neglected Tails of Vision-Language Models**|Shubham Parashar et.al|[paper](https://arxiv.org/abs/2401.12425)|[code](https://shubhamprshr27.github.io/neglected-tails-of-vlms/)|<details><summary>detail</summary>Project Page: https://shubhamprshr27</details>|
 |**2024-1-22**|**SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities**|Boyuan Chen et.al|[paper](https://arxiv.org/abs/2401.12168)|[code](https://spatial-vlm.github.io/)|-|
@@ -152,7 +153,6 @@
 |**2024-1-18**|**Towards Universal Vision-language Omni-supervised Segmentation**|B Dong et.al|[paper](https://arxiv.org/abs/2303.06547)|[code](https://paperswithcode.com/paper/towards-universal-vision-language-omni)|-|
 |**2024-1-17**|**SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model**|Yang Zhan et.al|[paper](https://arxiv.org/abs/2401.09712)|[code](https://github.com/ZhanYang-nwpu/SkyEyeGPT.)|-|
 |**2024-1-17**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al|[paper](https://arxiv.org/abs/2312.12379)|-|-|
-|**2024-1-17**|**CognitiveDog: Large Multimodal Model Based System to Translate Vision and Language into Action of Quadruped Robot**|Artem Lykov et.al|[paper](https://arxiv.org/abs/2401.09388)|-|<details><summary>detail</summary>This paper has been accepted for publication at the HRI2024 conference</details>|
 |**2024-1-17**|**Learning Grounded Vision-Language Representation for Versatile Understanding in Untrimmed Videos**|T Wang et.al|[paper](https://arxiv.org/abs/2303.06378)|[code](https://github.com/zjr2000/gvl)|-|
 |**2024-1-16**|**Tag2Text: Guiding Vision-Language Model via Image Tagging**|X Huang et.al|[paper](https://arxiv.org/abs/2303.05657)|[code](https://github.com/xinyu1205/recognize-anything)|-|
 |**2024-1-16**|**Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors**|K Kawaharazuka et.al|[paper](https://arxiv.org/abs/2303.05674)|-|-|
