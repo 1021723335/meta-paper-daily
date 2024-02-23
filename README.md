@@ -42,6 +42,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-2-22**|**YOLO-World: Real-Time Open-Vocabulary Object Detection**|Tianheng Cheng et.al|[paper](https://arxiv.org/abs/2401.17270)|[code](https://github.com/AILab-CVC/YOLO-World)|<details><summary>detail</summary>Work still in progress</details>|
+|**2024-2-22**|**AQD: Towards Accurate Fully-Quantized Object Detection**|Peng Chen et.al|[paper](https://arxiv.org/abs/2007.06919)|[code](https://github.com/ziplab/QTool)|<details><summary>detail</summary>CVPR 2021 Oral</details>|
+|**2024-2-22**|**Spatial Transform Decoupling for Oriented Object Detection**|Hongtian Yu et.al|[paper](https://arxiv.org/abs/2308.10561)|[code](https://github.com/yuhongtian17/Spatial-Transform-Decoupling.)|<details><summary>detail</summary>Accepted by AAAI 2024</details>|
+|**2024-2-22**|**YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5**|Peng Gao et.al|[paper](https://arxiv.org/abs/2402.14309)|-|-|
+|**2024-2-21**|**Towards Generalized Few-Shot Open-Set Object Detection**|Binyi Su et.al|[paper](https://arxiv.org/abs/2210.15996)|[code](https://github.com/binyisu/food)|-|
 |**2024-2-21**|**Exploring Inconsistent Knowledge Distillation for Object Detection with Data Augmentation**|Jiawei Liang et.al|[paper](https://arxiv.org/abs/2209.09841)|[code](https://github.com/JWLiang007/IKD.git)|<details><summary>detail</summary>ACMMM 2023 Oral</details>|
 |**2024-2-20**|**Unsupervised learning based object detection using Contrastive Learning**|Chandan Kumar et.al|[paper](https://arxiv.org/abs/2402.13465)|-|-|
 |**2024-2-20**|**ProxyDet: Synthesizing Proxy Novel Classes via Classwise Mixup for Open-Vocabulary Object Detection**|Joonhyun Jeong et.al|[paper](https://arxiv.org/abs/2312.07266)|[code](https://github.com/clovaai/ProxyDet.)|<details><summary>detail</summary>Accepted in AAAI24</details>|
@@ -53,9 +58,6 @@
 |**2024-2-19**|**mBEST: Realtime Deformable Linear Object Detection Through Minimal Bending Energy Skeleton Pixel Traversals**|Andrew Choi et.al|[paper](https://arxiv.org/abs/2302.09444)|[code](https://youtu.be/q84I9i0DOK4)|<details><summary>detail</summary>IEEE Robotics and Automation Letters (RA-L 2023)</details>|
 |**2024-2-19**|**Efficient Parameter Mining and Freezing for Continual Object Detection**|Angelo G. Menezes et.al|[paper](https://arxiv.org/abs/2402.12624)|-|<details><summary>detail</summary>In Proceedings of the 19th International Joint Conference on Computer Vision</details>|
 |**2024-2-19**|**RaTrack: Moving Object Detection and Tracking with 4D Radar Point Cloud**|Zhijun Pan et.al|[paper](https://arxiv.org/abs/2309.09737)|[code](https://github.com/LJacksonPan/RaTrack.)|<details><summary>detail</summary>ICRA 2024</details>|
-|**2024-2-19**|**UncertaintyTrack: Exploiting Detection and Localization Uncertainty in Multi-Object Tracking**|Chang Won Lee et.al|[paper](https://arxiv.org/abs/2402.12303)|[code](https://github.com/TRAILab/UncertaintyTrack)|<details><summary>detail</summary>ICRA 2024</details>|
-|**2024-2-19**|**Weakly Supervised Object Detection in Chest X-Rays with Differentiable ROI Proposal Networks and Soft ROI Pooling**|Philip Müller et.al|[paper](https://arxiv.org/abs/2402.11985)|[code](https://github.com/philip-mueller/wsrpn)|-|
-|**2024-2-19**|**Joint Counting, Detection and Re-Identification for Multi-Object Tracking**|Weihong Ren et.al|[paper](https://arxiv.org/abs/2212.05861)|-|-|
 |**2024-2-19**|**…Simultaneous Defects Visualizing Algorithm for Both Macro and Micro Defects Based on Nonlinear Lamb Wave with an Application of Faster R-Cnn Object Detection**|Y Lee et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4362451)|-|<details><summary>detail</summary>Available at SSRN 4362451 papers.ssrn.com</details>|
 |**2024-2-19**|**YOGA: Deep Object Detection in the Wild with Lightweight Feature Learning and Multiscale Attention**|R Sunkara et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0031320323001516)|[code](https://paperswithcode.com/paper/yoga-deep-object-detection-in-the-wild-with)|<details><summary>detail</summary>Pattern Recognition, 2023 Elsevier</details>|
 |**2024-2-19**|**Spectral-Spatial Feature Enhancement Algorithm for Nighttime Object Detection and Tracking**|Y Lv et.al|[paper](https://www.mdpi.com/2073-8994/15/2/546)|-|<details><summary>detail</summary>Symmetry, 2023 mdpi.com</details>|
@@ -65,8 +67,6 @@
 |**2024-2-19**|**Hierarchical Cross-modal Transformer for RGB-D Salient Object Detection**|H Chen et.al|[paper](https://arxiv.org/abs/2302.08052)|[code](https://github.com/liuzywen/swinnet)|-|
 |**2024-2-19**|**3M3D: Multi-view, Multi-path, Multi-representation for 3D Object Detection**|J Park et.al|[paper](https://arxiv.org/abs/2302.08231)|[code](https://paperswithcode.com/paper/3m3d-multi-view-multi-path-multi)|-|
 |**2024-2-19**|**Research on road object detection algorithm based on improved YOLOX**|T Yang et.al|[paper](https://arxiv.org/abs/2302.08156)|[code](https://paperswithcode.com/paper/research-on-road-object-detection-algorithm)|-|
-|**2024-2-18**|**LiRaFusion: Deep Adaptive LiDAR-Radar Fusion for 3D Object Detection**|Jingyu Song et.al|[paper](https://arxiv.org/abs/2402.11735)|-|<details><summary>detail</summary>ICRA 2024</details>|
-|**2024-2-18**|**MultiCorrupt: A Multi-Modal Robustness Dataset and Benchmark of LiDAR-Camera Fusion for 3D Object Detection**|Till Beemelmanns et.al|[paper](https://arxiv.org/abs/2402.11677)|[code](https://github.com/ika-rwth-aachen/MultiCorrupt.)|<details><summary>detail</summary>Code: https://github</details>|
 
 ## domain adaptation
 
@@ -102,6 +102,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-2-22**|**Domain Generalization via Causal Adjustment for Cross-Domain Sentiment Analysis**|Siyin Wang et.al|[paper](https://arxiv.org/abs/2402.14536)|-|-|
 |**2024-2-21**|**Towards Context-Aware Domain Generalization: Understanding the Benefits and Limits of Marginal Transfer Learning**|Jens Müller et.al|[paper](https://arxiv.org/abs/2312.10107)|-|-|
 |**2024-2-21**|**ANGO: A Next-Level Evaluation Benchmark For Generation-Oriented Language Models In Chinese Domain**|Bingchao Wang et.al|[paper](https://arxiv.org/abs/2401.04898)|-|-|
 |**2024-2-20**|**GOOD: Towards Domain Generalized Orientated Object Detection**|Qi Bi et.al|[paper](https://arxiv.org/abs/2402.12765)|-|-|
@@ -121,7 +122,6 @@
 |**2024-2-15**|**Domain Generalization for Medical Image Analysis: A Survey**|Jee Seok Yoon et.al|[paper](https://arxiv.org/abs/2310.08598)|-|-|
 |**2024-2-15**|**Cross-corpora spoken language identification with domain diversification and generalization**|S Dey et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0885230823000086)|[code](https://paperswithcode.com/paper/cross-corpora-spoken-language-identification)|<details><summary>detail</summary>Computer Speech & Language, 2023 Elsevier</details>|
 |**2024-2-14**|**Quantified Task Misalignment to Inform PEFT: An Exploration of Domain Generalization and Catastrophic Forgetting in CLIP**|Laura Niss et.al|[paper](https://arxiv.org/abs/2402.09613)|-|-|
-|**2024-2-14**|**AdvST: Revisiting Data Augmentations for Single Domain Generalization**|Guangtao Zheng et.al|[paper](https://arxiv.org/abs/2312.12720)|[code](https://github.com/gtzheng/AdvST.)|<details><summary>detail</summary>AAAI 2024</details>|
 |**2024-2-13**|**Domain-Conditioned Normalization for Test-Time Domain Generalization**|Y Jiang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25085-9_17)|[code](https://github.com/ucsfncl/dmri-swin)|<details><summary>detail</summary>Computer Vision–ECCV…, 2023 Springer</details>|
 |**2024-2-12**|**Domain Generalization by Functional Regression**|M Holzleitner et.al|[paper](https://arxiv.org/abs/2302.04724)|[code](https://github.com/wzell/funcregr4domgen)|-|
 |**2024-2-9**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
@@ -132,6 +132,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-2-22**|**VLPose: Bridging the Domain Gap in Pose Estimation with Language-Vision Tuning**|Jingyao Li et.al|[paper](https://arxiv.org/abs/2402.14456)|-|-|
+|**2024-2-22**|**Uncertainty-Aware Evaluation for Vision-Language Models**|Vasily Kostumov et.al|[paper](https://arxiv.org/abs/2402.14418)|-|-|
+|**2024-2-22**|**Vision-Language Navigation with Embodied Intelligence: A Survey**|Peng Gao et.al|[paper](https://arxiv.org/abs/2402.14304)|-|-|
+|**2024-2-21**|**Multimodal Healthcare AI: Identifying and Designing Clinically Relevant Vision-Language Applications for Radiology**|Nur Yildirim et.al|[paper](https://arxiv.org/abs/2402.14252)|-|<details><summary>detail</summary>to appear at CHI 2024</details>|
+|**2024-2-21**|**Vision-Language Models as a Source of Rewards**|Kate Baumli et.al|[paper](https://arxiv.org/abs/2312.09187)|-|-|
+|**2024-2-21**|**Exposing and Addressing Cross-Task Inconsistency in Unified Vision-Language Models**|Adyasha Maharana et.al|[paper](https://arxiv.org/abs/2303.16133)|[code](https://adymaharana.github.io/cococon/)|<details><summary>detail</summary>TMLR 2024</details>|
 |**2024-2-21**|**A Unified Framework and Dataset for Assessing Gender Bias in Vision-Language Models**|Ashutosh Sathe et.al|[paper](https://arxiv.org/abs/2402.13636)|-|-|
 |**2024-2-21**|**BBA: Bi-Modal Behavioral Alignment for Reasoning with Large Vision-Language Models**|Xueliang Zhao et.al|[paper](https://arxiv.org/abs/2402.13577)|-|<details><summary>detail</summary>Preprint</details>|
 |**2024-2-21**|**Test-Time Adaptation with CLIP Reward for Zero-Shot Generalization in Vision-Language Models**|Shuai Zhao et.al|[paper](https://arxiv.org/abs/2305.18010)|[code](https://github.com/mzhaoshuai/RLCF.)|<details><summary>detail</summary>accepted by ICLR 2024</details>|
@@ -141,12 +147,6 @@
 |**2024-2-20**|**CoLLaVO: Crayon Large Language and Vision mOdel**|Byung-Kwan Lee et.al|[paper](https://arxiv.org/abs/2402.11248)|-|-|
 |**2024-2-20**|**GRAFFORD: A Benchmark Dataset for Testing the Knowledge of Object Affordances of Language and Vision Models**|Sayantan Adak et.al|[paper](https://arxiv.org/abs/2402.12881)|[code](https://github.com/sayantan11995/Affordance)|-|
 |**2024-2-19**|**Vision-Language Interpreter for Robot Task Planning**|Keisuke Shirai et.al|[paper](https://arxiv.org/abs/2311.00967)|[code](https://github.com/omron-sinicx/ViLaIn.)|<details><summary>detail</summary>ICRA 2024</details>|
-|**2024-2-19**|**Your Vision-Language Model Itself Is a Strong Filter: Towards High-Quality Instruction Tuning with Data Selection**|Ruibo Chen et.al|[paper](https://arxiv.org/abs/2402.12501)|-|-|
-|**2024-2-19**|**Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models**|Christian Schlarmann et.al|[paper](https://arxiv.org/abs/2402.12336)|[code](https://github.com/chs20/RobustVLM)|-|
-|**2024-2-19**|**DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models**|Xiaoyu Tian et.al|[paper](https://arxiv.org/abs/2402.12289)|[code](https://tsinghua-mars-lab.github.io/DriveVLM/)|<details><summary>detail</summary>Project Page: https://tsinghua-mars-lab</details>|
-|**2024-2-19**|**ScreenAI: A Vision-Language Model for UI and Infographics Understanding**|Gilles Baechler et.al|[paper](https://arxiv.org/abs/2402.04615)|-|<details><summary>detail</summary>Revision notes: 1) In Appendix I</details>|
-|**2024-2-19**|**Evaluating Image Review Ability of Vision Language Models**|Shigeki Saito et.al|[paper](https://arxiv.org/abs/2402.12121)|-|-|
-|**2024-2-19**|**Scaffolding Coordinates to Promote Vision-Language Coordination in Large Multi-Modal Models**|Xuanyu Lei et.al|[paper](https://arxiv.org/abs/2402.12058)|[code](https://github.com/leixy20/Scaffold.)|-|
 |**2024-2-18**|**Weakly-Supervised HOI Detection from Interaction Labels Only and Language/Vision-Language Priors**|M Erhan Unal et.al|[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230305546E/abstract)|[code](https://paperswithcode.com/paper/weakly-supervised-hoi-detection-from)|-|
 |**2024-2-18**|**Scaling Vision-Language Models with Sparse Mixture of Experts**|S Shen et.al|[paper](https://arxiv.org/abs/2303.07226)|[code](https://github.com/google-research/vmoe)|-|
 |**2024-2-18**|**Vision-Language Models as Success Detectors**|Y Du et.al|[paper](https://arxiv.org/abs/2303.07280)|[code](https://github.com/dyabel/detpro)|-|
