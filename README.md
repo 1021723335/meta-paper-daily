@@ -42,6 +42,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-2-25**|**Semi-supervised Open-World Object Detection**|Sahal Shaji Mullappilly et.al|[paper](https://arxiv.org/abs/2402.16013)|[code](https://github.com/sahalshajim/SS-OWFormer)|<details><summary>detail</summary>AAAI 2024 (Main Track)</details>|
+|**2024-2-24**|**RaTrack: Moving Object Detection and Tracking with 4D Radar Point Cloud**|Zhijun Pan et.al|[paper](https://arxiv.org/abs/2309.09737)|[code](https://github.com/LJacksonPan/RaTrack.)|<details><summary>detail</summary>ICRA 2024</details>|
 |**2024-2-24**|**E-detector: Asynchronous Spatio-temporal for Event-based Object Detection in Intelligent Transportation System**|S Zhang et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3584361)|-|<details><summary>detail</summary>ACM Transactions on Multimedia…, 2023 dl.acm.org</details>|
 |**2024-2-23**|**AccessLens: Auto-detecting Inaccessibility of Everyday Objects**|Nahyun Kwon et.al|[paper](https://arxiv.org/abs/2401.15996)|-|<details><summary>detail</summary>CHI2024</details>|
 |**2024-2-23**|**Outlier detection by ensembling uncertainty with negative objectness**|Anja Delić et.al|[paper](https://arxiv.org/abs/2402.15374)|-|-|
@@ -65,8 +67,6 @@
 |**2024-2-20**|**ProxyDet: Synthesizing Proxy Novel Classes via Classwise Mixup for Open-Vocabulary Object Detection**|Joonhyun Jeong et.al|[paper](https://arxiv.org/abs/2312.07266)|[code](https://github.com/clovaai/ProxyDet.)|<details><summary>detail</summary>Accepted in AAAI24</details>|
 |**2024-2-20**|**GraphKD: Exploring Knowledge Distillation Towards Document Object Detection with Structured Graph Creation**|Ayan Banerjee et.al|[paper](https://arxiv.org/abs/2402.11401)|[code](https://github.com/ayanban011/GraphKD.)|-|
 |**2024-2-20**|**OBMO: One Bounding Box Multiple Objects for Monocular 3D Object Detection**|Chenxi Huang et.al|[paper](https://arxiv.org/abs/2212.10049)|[code](https://github.com/mrsempress/OBMO)|-|
-|**2024-2-20**|**GOOD: Towards Domain Generalized Orientated Object Detection**|Qi Bi et.al|[paper](https://arxiv.org/abs/2402.12765)|-|-|
-|**2024-2-19**|**InstaGen: Enhancing Object Detection by Training on Synthetic Dataset**|Chengjian Feng et.al|[paper](https://arxiv.org/abs/2402.05937)|-|<details><summary>detail</summary>Tech report</details>|
 
 ## domain adaptation
 
@@ -102,6 +102,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-2-24**|**Domain Generalization In Robust Invariant Representation**|Gauri Gupta et.al|[paper](https://arxiv.org/abs/2304.03431)|-|-|
 |**2024-2-24**|**Domain Generalization with Global Sample Mixup**|Y Lu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_35)|-|<details><summary>detail</summary>European Conference on Computer…, 2023 Springer</details>|
 |**2024-2-24**|**Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions**|Q Li et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0951832023000868)|-|<details><summary>detail</summary>Reliability Engineering &…, 2023 Elsevier</details>|
 |**2024-2-23**|**GS-EMA: Integrating Gradient Surgery Exponential Moving Average with Boundary-Aware Contrastive Learning for Enhanced Domain Generalization in Aneurysm Segmentation**|Fengming Lin et.al|[paper](https://arxiv.org/abs/2402.15239)|-|<details><summary>detail</summary>Accepted by ISBI 2024</details>|
@@ -123,7 +124,6 @@
 |**2024-2-15**|**Prompting-based Temporal Domain Generalization**|Sepidehsadat Hosseini et.al|[paper](https://arxiv.org/abs/2310.02473)|-|-|
 |**2024-2-15**|**Generalizing across Temporal Domains with Koopman Operators**|Qiuhao Zeng et.al|[paper](https://arxiv.org/abs/2402.07834)|-|-|
 |**2024-2-15**|**Out-Of-Domain Unlabeled Data Improves Generalization**|Amir Hossein Saberi et.al|[paper](https://arxiv.org/abs/2310.00027)|-|<details><summary>detail</summary>Published at ICLR 2024 (Spotlight)</details>|
-|**2024-2-15**|**Predictors from causal features do not generalize better to new domains**|Vivian Y. Nastl et.al|[paper](https://arxiv.org/abs/2402.09891)|-|-|
 |**2024-2-13**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
 |**2024-2-11**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|D Zhang et.al|[paper](https://arxiv.org/abs/2302.02350)|[code](https://paperswithcode.com/paper/aggregation-of-disentanglement-reconsidering)|-|
 |**2024-2-9**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
@@ -132,6 +132,14 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-2-24**|**NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**|Jiazhao Zhang et.al|[paper](https://arxiv.org/abs/2402.15852)|-|-|
+|**2024-2-24**|**Uncertainty-Aware Evaluation for Vision-Language Models**|Vasily Kostumov et.al|[paper](https://arxiv.org/abs/2402.14418)|-|-|
+|**2024-2-24**|**CLIPose: Category-Level Object Pose Estimation with Pre-trained Vision-Language Knowledge**|Xiao Lin et.al|[paper](https://arxiv.org/abs/2402.15726)|-|-|
+|**2024-2-24**|**Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models**|Chaoya Jiang et.al|[paper](https://arxiv.org/abs/2402.15721)|-|-|
+|**2024-2-23**|**COPA: Efficient Vision-Language Pre-training Through Collaborative Object- and Patch-Text Alignment**|Chaoya Jiang et.al|[paper](https://arxiv.org/abs/2308.03475)|-|<details><summary>detail</summary>Accepted on ACM MM2023</details>|
+|**2024-2-23**|**BUS:Efficient and Effective Vision-language Pre-training with Bottom-Up Patch Summarization**|Chaoya Jiang et.al|[paper](https://arxiv.org/abs/2307.08504)|-|<details><summary>detail</summary>Accepted on ICCV2023</details>|
+|**2024-2-23**|**TiMix: Text-aware Image Mixing for Effective Vision-Language Pre-training**|Chaoya Jiang et.al|[paper](https://arxiv.org/abs/2312.08846)|-|<details><summary>detail</summary>Accepted on AAAI2024</details>|
+|**2024-2-23**|**Selective "Selective Prediction": Reducing Unnecessary Abstention in Vision-Language Reasoning**|Tejas Srinivasan et.al|[paper](https://arxiv.org/abs/2402.15610)|-|-|
 |**2024-2-23**|**RoboLLM: Robotic Vision Tasks Grounded on Multimodal Large Language Models**|Zijun Long et.al|[paper](https://arxiv.org/abs/2310.10221)|[code](https://github.com/longkukuhi/armbench.)|-|
 |**2024-2-23**|**AutoMMLab: Automatically Generating Deployable Models from Language Instructions for Computer Vision Tasks**|Zekang Yang et.al|[paper](https://arxiv.org/abs/2402.15351)|-|-|
 |**2024-2-23**|**Representing Online Handwriting for Recognition in Large Vision-Language Models**|Anastasiia Fadeeva et.al|[paper](https://arxiv.org/abs/2402.15307)|-|-|
@@ -139,18 +147,10 @@
 |**2024-2-22**|**CLoVe: Encoding Compositional Language in Contrastive Vision-Language Models**|Santiago Castro et.al|[paper](https://arxiv.org/abs/2402.15021)|[code](https://github.com/netflix/clove.)|-|
 |**2024-2-22**|**Demographic Bias of Expert-Level Vision-Language Foundation Models in Medical Imaging**|Yuzhe Yang et.al|[paper](https://arxiv.org/abs/2402.14815)|[code](https://github.com/YyzHarry/vlm-fairness)|<details><summary>detail</summary>Code and data are available at https://github</details>|
 |**2024-2-22**|**VLPose: Bridging the Domain Gap in Pose Estimation with Language-Vision Tuning**|Jingyao Li et.al|[paper](https://arxiv.org/abs/2402.14456)|-|-|
-|**2024-2-22**|**Uncertainty-Aware Evaluation for Vision-Language Models**|Vasily Kostumov et.al|[paper](https://arxiv.org/abs/2402.14418)|-|-|
-|**2024-2-22**|**Vision-Language Navigation with Embodied Intelligence: A Survey**|Peng Gao et.al|[paper](https://arxiv.org/abs/2402.14304)|-|-|
 |**2024-2-22**|**Weakly-Supervised HOI Detection from Interaction Labels Only and Language/Vision-Language Priors**|M Erhan Unal et.al|[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230305546E/abstract)|[code](https://paperswithcode.com/paper/weakly-supervised-hoi-detection-from)|-|
 |**2024-2-22**|**Scaling Vision-Language Models with Sparse Mixture of Experts**|S Shen et.al|[paper](https://arxiv.org/abs/2303.07226)|[code](https://github.com/google-research/vmoe)|-|
 |**2024-2-22**|**Vision-Language Models as Success Detectors**|Y Du et.al|[paper](https://arxiv.org/abs/2303.07280)|[code](https://github.com/dyabel/detpro)|-|
 |**2024-2-22**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|N Bitton-Guetta et.al|[paper](https://arxiv.org/abs/2303.07274)|[code](https://paperswithcode.com/paper/breaking-common-sense-whoops-a-vision-and)|-|
-|**2024-2-21**|**Multimodal Healthcare AI: Identifying and Designing Clinically Relevant Vision-Language Applications for Radiology**|Nur Yildirim et.al|[paper](https://arxiv.org/abs/2402.14252)|-|<details><summary>detail</summary>to appear at CHI 2024</details>|
-|**2024-2-21**|**Vision-Language Models as a Source of Rewards**|Kate Baumli et.al|[paper](https://arxiv.org/abs/2312.09187)|-|-|
-|**2024-2-21**|**Exposing and Addressing Cross-Task Inconsistency in Unified Vision-Language Models**|Adyasha Maharana et.al|[paper](https://arxiv.org/abs/2303.16133)|[code](https://adymaharana.github.io/cococon/)|<details><summary>detail</summary>TMLR 2024</details>|
-|**2024-2-21**|**A Unified Framework and Dataset for Assessing Gender Bias in Vision-Language Models**|Ashutosh Sathe et.al|[paper](https://arxiv.org/abs/2402.13636)|-|-|
-|**2024-2-21**|**BBA: Bi-Modal Behavioral Alignment for Reasoning with Large Vision-Language Models**|Xueliang Zhao et.al|[paper](https://arxiv.org/abs/2402.13577)|-|<details><summary>detail</summary>Preprint</details>|
-|**2024-2-21**|**Test-Time Adaptation with CLIP Reward for Zero-Shot Generalization in Vision-Language Models**|Shuai Zhao et.al|[paper](https://arxiv.org/abs/2305.18010)|[code](https://github.com/mzhaoshuai/RLCF.)|<details><summary>detail</summary>accepted by ICLR 2024</details>|
 |**2024-2-20**|**Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models**|Z Zheng et.al|[paper](https://arxiv.org/abs/2303.06628)|[code](https://github.com/thunderbeee/zscl)|-|
 |**2024-2-20**|**Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models**|J Li et.al|[paper](https://arxiv.org/abs/2303.06571)|[code](https://paperswithcode.com/paper/gradient-regulated-meta-prompt-learning-for)|-|
 |**2024-2-20**|**Towards Universal Vision-language Omni-supervised Segmentation**|B Dong et.al|[paper](https://arxiv.org/abs/2303.06547)|[code](https://paperswithcode.com/paper/towards-universal-vision-language-omni)|-|
