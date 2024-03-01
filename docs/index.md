@@ -42,6 +42,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-2-29**|**Boosting Semi-Supervised Object Detection in Remote Sensing Images With Active Teaching**|Boxuan Zhang et.al|[paper](https://arxiv.org/abs/2402.18958)|-|<details><summary>detail</summary>Journal ref:in IEEE Geoscience and Remote Sensing Letters</details>|
+|**2024-2-29**|**A Simple yet Effective Network based on Vision Transformer for Camouflaged Object and Salient Object Detection**|Chao Hao et.al|[paper](https://arxiv.org/abs/2402.18922)|[code](https://github.com/linuxsino/SENet.)|<details><summary>detail</summary>submitted to IEEE TIP</details>|
+|**2024-2-28**|**Spatial Coherence Loss for Salient and Camouflaged Object Detection and Beyond**|Ziyun Yang et.al|[paper](https://arxiv.org/abs/2402.18698)|-|-|
 |**2024-2-27**|**Removal and Selection: Improving RGB-Infrared Object Detection via Coarse-to-Fine Fusion**|Tianyi Zhao et.al|[paper](https://arxiv.org/abs/2401.10731)|-|-|
 |**2024-2-27**|**SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection**|Junsu Kim et.al|[paper](https://arxiv.org/abs/2402.17323)|-|<details><summary>detail</summary>CVPR 2024</details>|
 |**2024-2-27**|**E-detector: Asynchronous Spatio-temporal for Event-based Object Detection in Intelligent Transportation System**|S Zhang et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3584361)|-|<details><summary>detail</summary>ACM Transactions on Multimedia…, 2023 dl.acm.org</details>|
@@ -64,9 +67,6 @@
 |**2024-2-23**|**EMIFF: Enhanced Multi-scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection**|Zhe Wang et.al|[paper](https://arxiv.org/abs/2402.15272)|-|-|
 |**2024-2-22**|**YOLO-World: Real-Time Open-Vocabulary Object Detection**|Tianheng Cheng et.al|[paper](https://arxiv.org/abs/2401.17270)|[code](https://github.com/AILab-CVC/YOLO-World)|<details><summary>detail</summary>Work still in progress</details>|
 |**2024-2-22**|**AQD: Towards Accurate Fully-Quantized Object Detection**|Peng Chen et.al|[paper](https://arxiv.org/abs/2007.06919)|[code](https://github.com/ziplab/QTool)|<details><summary>detail</summary>CVPR 2021 Oral</details>|
-|**2024-2-22**|**Spatial Transform Decoupling for Oriented Object Detection**|Hongtian Yu et.al|[paper](https://arxiv.org/abs/2308.10561)|[code](https://github.com/yuhongtian17/Spatial-Transform-Decoupling.)|<details><summary>detail</summary>Accepted by AAAI 2024</details>|
-|**2024-2-22**|**YOLO-TLA: An Efficient and Lightweight Small Object Detection Model based on YOLOv5**|Peng Gao et.al|[paper](https://arxiv.org/abs/2402.14309)|-|-|
-|**2024-2-21**|**Towards Generalized Few-Shot Open-Set Object Detection**|Binyi Su et.al|[paper](https://arxiv.org/abs/2210.15996)|[code](https://github.com/binyisu/food)|-|
 
 ## domain adaptation
 
@@ -102,6 +102,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-2-29**|**Rethinking Multi-domain Generalization with A General Learning Objective**|Zhaorui Tan et.al|[paper](https://arxiv.org/abs/2402.18853)|-|<details><summary>detail</summary>Accepted by CVPR24</details>|
 |**2024-2-27**|**Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners**|Yazhou Xing et.al|[paper](https://arxiv.org/abs/2402.17723)|[code](https://yzxing87.github.io/Seeing-and-Hearing/)|<details><summary>detail</summary>CVPR 2024</details>|
 |**2024-2-27**|**An Empirical Study of the Generalization Ability of Lidar 3D Object Detectors to Unseen Domains**|George Eskandar et.al|[paper](https://arxiv.org/abs/2402.17562)|-|-|
 |**2024-2-27**|**Domain Generalization with Global Sample Mixup**|Y Lu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_35)|-|<details><summary>detail</summary>European Conference on Computer…, 2023 Springer</details>|
@@ -123,7 +124,6 @@
 |**2024-2-19**|**A synthetic data approach for domain generalization of NLI models**|Mohammad Javad Hosseini et.al|[paper](https://arxiv.org/abs/2402.12368)|-|-|
 |**2024-2-19**|**Domain Generalization by Functional Regression**|M Holzleitner et.al|[paper](https://arxiv.org/abs/2302.04724)|[code](https://github.com/wzell/funcregr4domgen)|-|
 |**2024-2-17**|**G-MAP: General Memory-Augmented Pre-trained Language Model for Domain Tasks**|Zhongwei Wan et.al|[paper](https://arxiv.org/abs/2212.03613)|-|<details><summary>detail</summary>EMNLP 2022</details>|
-|**2024-2-17**|**Blinded by Generated Contexts: How Language Models Merge Generated and Retrieved Contexts for Open-Domain QA?**|Hexiang Tan et.al|[paper](https://arxiv.org/abs/2401.11911)|-|-|
 |**2024-2-16**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
 |**2024-2-14**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|D Zhang et.al|[paper](https://arxiv.org/abs/2302.02350)|[code](https://paperswithcode.com/paper/aggregation-of-disentanglement-reconsidering)|-|
 |**2024-2-12**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
@@ -132,6 +132,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-2-29**|**HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models**|Tianrui Guan et.al|[paper](https://arxiv.org/abs/2310.14566)|[code](https://github.com/tianyi-lab/HallusionBench.)|-|
+|**2024-2-29**|**Physically Grounded Vision-Language Models for Robotic Manipulation**|Jensen Gao et.al|[paper](https://arxiv.org/abs/2309.02561)|[code](https://iliad.stanford.edu/pg-vlm/.)|<details><summary>detail</summary>Updated version for ICRA 2024</details>|
 |**2024-2-27**|**NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**|Jiazhao Zhang et.al|[paper](https://arxiv.org/abs/2402.15852)|-|-|
 |**2024-2-27**|**Consistency-guided Prompt Learning for Vision-Language Models**|Shuvendu Roy et.al|[paper](https://arxiv.org/abs/2306.01195)|[code](https://github.com/ShuvenduRoy/CoPrompt.)|<details><summary>detail</summary>Published as a conference paper at ICLR 2024</details>|
 |**2024-2-27**|**Demonstrating and Reducing Shortcuts in Vision-Language Representation Learning**|Maurits Bleeker et.al|[paper](https://arxiv.org/abs/2402.17510)|-|-|
@@ -149,8 +151,6 @@
 |**2024-2-25**|**Scaling Vision-Language Models with Sparse Mixture of Experts**|S Shen et.al|[paper](https://arxiv.org/abs/2303.07226)|[code](https://github.com/google-research/vmoe)|-|
 |**2024-2-25**|**Vision-Language Models as Success Detectors**|Y Du et.al|[paper](https://arxiv.org/abs/2303.07280)|[code](https://github.com/dyabel/detpro)|-|
 |**2024-2-25**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|N Bitton-Guetta et.al|[paper](https://arxiv.org/abs/2303.07274)|[code](https://paperswithcode.com/paper/breaking-common-sense-whoops-a-vision-and)|-|
-|**2024-2-24**|**Uncertainty-Aware Evaluation for Vision-Language Models**|Vasily Kostumov et.al|[paper](https://arxiv.org/abs/2402.14418)|-|-|
-|**2024-2-24**|**CLIPose: Category-Level Object Pose Estimation with Pre-trained Vision-Language Knowledge**|Xiao Lin et.al|[paper](https://arxiv.org/abs/2402.15726)|-|-|
 |**2024-2-23**|**Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models**|Z Zheng et.al|[paper](https://arxiv.org/abs/2303.06628)|[code](https://github.com/thunderbeee/zscl)|-|
 |**2024-2-23**|**Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models**|J Li et.al|[paper](https://arxiv.org/abs/2303.06571)|[code](https://paperswithcode.com/paper/gradient-regulated-meta-prompt-learning-for)|-|
 |**2024-2-23**|**Towards Universal Vision-language Omni-supervised Segmentation**|B Dong et.al|[paper](https://arxiv.org/abs/2303.06547)|[code](https://paperswithcode.com/paper/towards-universal-vision-language-omni)|-|
