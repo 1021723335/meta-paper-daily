@@ -42,6 +42,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-3-2**|**Run-time Introspection of 2D Object Detection in Automated Driving Systems Using Learning Representations**|Hakan Yekta Yatbaz et.al|[paper](https://arxiv.org/abs/2403.01172)|-|<details><summary>detail</summary>Submitted to IEEE Transactions on Intelligent Vehicles</details>|
+|**2024-3-2**|**Influence of Camera-LiDAR Configuration on 3D Object Detection for Autonomous Driving**|Ye Li et.al|[paper](https://arxiv.org/abs/2310.05245)|-|-|
+|**2024-3-2**|**Removal and Selection: Improving RGB-Infrared Object Detection via Coarse-to-Fine Fusion**|Tianyi Zhao et.al|[paper](https://arxiv.org/abs/2401.10731)|-|-|
 |**2024-3-2**|**E-detector: Asynchronous Spatio-temporal for Event-based Object Detection in Intelligent Transportation System**|S Zhang et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3584361)|-|<details><summary>detail</summary>ACM Transactions on Multimedia…, 2023 dl.acm.org</details>|
 |**2024-3-1**|**Learning Causal Features for Incremental Object Detection**|Zhenwei He et.al|[paper](https://arxiv.org/abs/2403.00591)|-|-|
 |**2024-3-1**|**Zero-Shot Aerial Object Detection with Visual Description Regularization**|Zhengqing Zang et.al|[paper](https://arxiv.org/abs/2402.18233)|-|-|
@@ -63,15 +66,14 @@
 |**2024-2-28**|**Sunshine to Rainstorm: Cross-Weather Knowledge Distillation for Robust 3D Object Detection**|Xun Huang et.al|[paper](https://arxiv.org/abs/2402.18493)|-|<details><summary>detail</summary>Accepted by AAAI2024</details>|
 |**2024-2-28**|**Objective and Interpretable Breast Cosmesis Evaluation with Attention Guided Denoising Diffusion Anomaly Detection Model**|Sangjoon Park et.al|[paper](https://arxiv.org/abs/2402.18362)|-|-|
 |**2024-2-27**|**Domain Generalization of 3D Object Detection by Density-Resampling**|Shuangzhi Li et.al|[paper](https://arxiv.org/abs/2311.10845)|-|-|
-|**2024-2-27**|**Removal and Selection: Improving RGB-Infrared Object Detection via Coarse-to-Fine Fusion**|Tianyi Zhao et.al|[paper](https://arxiv.org/abs/2401.10731)|-|-|
 |**2024-2-27**|**SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection**|Junsu Kim et.al|[paper](https://arxiv.org/abs/2402.17323)|-|<details><summary>detail</summary>CVPR 2024</details>|
-|**2024-2-26**|**Deployment Prior Injection for Run-time Calibratable Object Detection**|Mo Zhou et.al|[paper](https://arxiv.org/abs/2402.17207)|-|-|
-|**2024-2-26**|**Fusion is Not Enough: Single Modal Attacks on Fusion Models for 3D Object Detection**|Zhiyuan Cheng et.al|[paper](https://arxiv.org/abs/2304.14614)|-|<details><summary>detail</summary>ICLR'2024</details>|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-3-1**|**Pairwise Alignment Improves Graph Domain Adaptation**|Shikun Liu et.al|[paper](https://arxiv.org/abs/2403.01092)|[code](https://github.com/Graph-COM/Pair-Align)|<details><summary>detail</summary>Our code and data are available at: https://github</details>|
+|**2024-3-1**|**Approximately optimal domain adaptation with Fisher's Linear Discriminant**|Hayden S. Helm et.al|[paper](https://arxiv.org/abs/2302.14186)|-|-|
 |**2024-3-1**|**Kurcuma: a kitchen utensil recognition collection for unsupervised domain adaptation**|A Rosello et.al|[paper](https://link.springer.com/article/10.1007/s10044-023-01147-x)|-|<details><summary>detail</summary>Mas, AJ Gallego… Pattern Analysis and…, 2023 Springer</details>|
 |**2024-3-1**|**An improved multi-source domain adaptation network for inter-subject mental fatigue detection based on DANN**|K Chen et.al|[paper](https://www.degruyter.com/document/doi/10.1515/bmt-2022-0354/html)|-|<details><summary>detail</summary>Biomedical Engineering…, 2023 degruyter.com</details>|
 |**2024-3-1**|**A multi-source transfer learning model based on LSTM and domain adaptation for building energy prediction**|H Lu et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0142061523000819)|-|<details><summary>detail</summary>International Journal of…, 2023 Elsevier</details>|
@@ -95,8 +97,6 @@
 |**2024-2-23**|**High Resolution Guitar Transcription via Domain Adaptation**|Xavier Riley et.al|[paper](https://arxiv.org/abs/2402.15258)|-|<details><summary>detail</summary>ICASSP 2024</details>|
 |**2024-2-23**|**Unsupervised Domain Adaptation for Brain Vessel Segmentation through Transwarp Contrastive Learning**|Fengming Lin et.al|[paper](https://arxiv.org/abs/2402.15237)|-|<details><summary>detail</summary>Accepted by ISBI 2024</details>|
 |**2024-2-22**|**Unsupervised Domain Adaptation within Deep Foundation Latent Spaces**|Dmitry Kangin et.al|[paper](https://arxiv.org/abs/2402.14976)|-|-|
-|**2024-2-20**|**PANDA: Preference Adaptation for Enhancing Domain-Specific Abilities of LLMs**|An Liu et.al|[paper](https://arxiv.org/abs/2402.12835)|-|-|
-|**2024-2-18**|**Parameter Efficient Finetuning for Speech Emotion Recognition and Domain Adaptation**|Nineli Lashkarashvili et.al|[paper](https://arxiv.org/abs/2402.11747)|-|-|
 
 ## domain generalization
 
@@ -132,6 +132,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-3-1**|**RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback**|Yufei Wang et.al|[paper](https://arxiv.org/abs/2402.03681)|[code](https://rlvlmf2024.github.io/)|-|
 |**2024-3-1**|**Pushing Large Language Models to the 6G Edge: Vision, Challenges, and Opportunities**|Zheng Lin et.al|[paper](https://arxiv.org/abs/2309.16739)|-|-|
 |**2024-3-1**|**EVE: Efficient Vision-Language Pre-training with Masked Prediction and Modality-Aware MoE**|Junyi Chen et.al|[paper](https://arxiv.org/abs/2308.11971)|-|<details><summary>detail</summary>Accepted by AAAI 2024</details>|
 |**2024-3-1**|**Invariant Test-Time Adaptation for Vision-Language Model Generalization**|Huan Ma et.al|[paper](https://arxiv.org/abs/2403.00376)|-|-|
@@ -150,7 +151,6 @@
 |**2024-2-29**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|N Bitton-Guetta et.al|[paper](https://arxiv.org/abs/2303.07274)|[code](https://paperswithcode.com/paper/breaking-common-sense-whoops-a-vision-and)|-|
 |**2024-2-28**|**IBD: Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding**|Lanyun Zhu et.al|[paper](https://arxiv.org/abs/2402.18476)|-|-|
 |**2024-2-28**|**Controlling Vision-Language Models for Multi-Task Image Restoration**|Ziwei Luo et.al|[paper](https://arxiv.org/abs/2310.01018)|[code](https://github.com/Algolzw/daclip-uir.)|<details><summary>detail</summary>Accepted by ICLR 2024</details>|
-|**2024-2-28**|**A Joint Study of Phrase Grounding and Task Performance in Vision and Language Models**|Noriyuki Kojima et.al|[paper](https://arxiv.org/abs/2309.02691)|[code](https://github.com/lil-lab/phrase_grounding.)|<details><summary>detail</summary>This was published in TMLR in 2024</details>|
 |**2024-2-27**|**Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models**|Z Zheng et.al|[paper](https://arxiv.org/abs/2303.06628)|[code](https://github.com/thunderbeee/zscl)|-|
 |**2024-2-27**|**Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models**|J Li et.al|[paper](https://arxiv.org/abs/2303.06571)|[code](https://paperswithcode.com/paper/gradient-regulated-meta-prompt-learning-for)|-|
 |**2024-2-27**|**Towards Universal Vision-language Omni-supervised Segmentation**|B Dong et.al|[paper](https://arxiv.org/abs/2303.06547)|[code](https://paperswithcode.com/paper/towards-universal-vision-language-omni)|-|
