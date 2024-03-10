@@ -3,6 +3,7 @@
 - [object detection](#object-detection)
 - [domain adaptation](#domain-adaptation)
 - [domain generalization](#domain-generalization)
+- [vision language](#vision-language)
 
 
 ## Updated on 2024.03.10
@@ -126,4 +127,34 @@
 |**2024-2-25**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
 |**2024-2-23**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|D Zhang et.al|[paper](https://arxiv.org/abs/2302.02350)|[code](https://paperswithcode.com/paper/aggregation-of-disentanglement-reconsidering)|-|
 |**2024-2-21**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
+
+## vision language
+
+|Date|Title|Authors|PDF|Code|Comments|
+|:------|:---------------------|:---|:-|:-|:---|
+|**2024-3-7**|**MedFLIP: Medical Vision-and-Language Self-supervised Fast Pre-Training with Masked Autoencoder**|Lei Li et.al|[paper](https://arxiv.org/abs/2403.04626)|-|-|
+|**2024-3-7**|**Effectiveness Assessment of Recent Large Vision-Language Models**|Yao Jiang et.al|[paper](https://arxiv.org/abs/2403.04306)|-|-|
+|**2024-3-6**|**PromptKD: Unsupervised Prompt Distillation for Vision-Language Models**|Zheng Li et.al|[paper](https://arxiv.org/abs/2403.02781)|[code](https://zhengli97.github.io/PromptKD.)|<details><summary>detail</summary>CVPR 2024</details>|
+|**2024-3-6**|**Towards Concept-based Interpretability of Skin Lesion Diagnosis using Vision-Language Models**|Cristiano Patrício et.al|[paper](https://arxiv.org/abs/2311.14339)|-|<details><summary>detail</summary>Accepted for publication in IEEE ISBI 2024</details>|
+|**2024-3-6**|**SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding**|Baoxiong Jia et.al|[paper](https://arxiv.org/abs/2401.09340)|[code](https://scene-verse.github.io.)|-|
+|**2024-3-5**|**ImgTrojan: Jailbreaking Vision-Language Models with ONE Image**|Xijia Tao et.al|[paper](https://arxiv.org/abs/2403.02910)|-|-|
+|**2024-3-5**|**Causality-based Cross-Modal Representation Learning for Vision-and-Language Navigation**|Liuyi Wang et.al|[paper](https://arxiv.org/abs/2403.03405)|-|-|
+|**2024-3-5**|**Towards Grounded Visual Spatial Reasoning in Multi-Modal Vision Language Models**|Navid Rajabi et.al|[paper](https://arxiv.org/abs/2308.09778)|-|<details><summary>detail</summary>DMLR @ ICLR 2024</details>|
+|**2024-3-5**|**Enhancing Vision-Language Pre-training with Rich Supervisions**|Yuan Gao et.al|[paper](https://arxiv.org/abs/2403.03346)|-|<details><summary>detail</summary>CVPR 2024</details>|
+|**2024-3-5**|**MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer**|Jianjian Cao et.al|[paper](https://arxiv.org/abs/2403.02991)|-|-|
+|**2024-3-5**|**Weakly-Supervised HOI Detection from Interaction Labels Only and Language/Vision-Language Priors**|M Erhan Unal et.al|[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230305546E/abstract)|[code](https://paperswithcode.com/paper/weakly-supervised-hoi-detection-from)|-|
+|**2024-3-5**|**Scaling Vision-Language Models with Sparse Mixture of Experts**|S Shen et.al|[paper](https://arxiv.org/abs/2303.07226)|[code](https://github.com/google-research/vmoe)|-|
+|**2024-3-5**|**Vision-Language Models as Success Detectors**|Y Du et.al|[paper](https://arxiv.org/abs/2303.07280)|[code](https://github.com/dyabel/detpro)|-|
+|**2024-3-5**|**Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images**|N Bitton-Guetta et.al|[paper](https://arxiv.org/abs/2303.07274)|[code](https://paperswithcode.com/paper/breaking-common-sense-whoops-a-vision-and)|-|
+|**2024-3-4**|**SynArtifact: Classifying and Alleviating Artifacts in Synthetic Images via Vision-Language Model**|Bin Cao et.al|[paper](https://arxiv.org/abs/2402.18068)|-|-|
+|**2024-3-4**|**Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review**|Iryna Hartsock et.al|[paper](https://arxiv.org/abs/2403.02469)|-|-|
+|**2024-3-4**|**RegionGPT: Towards Region Understanding Vision Language Model**|Qiushan Guo et.al|[paper](https://arxiv.org/abs/2403.02330)|-|<details><summary>detail</summary>Accepted by CVPR 2024</details>|
+|**2024-3-4**|**Contrastive Region Guidance: Improving Grounding in Vision-Language Models without Training**|David Wan et.al|[paper](https://arxiv.org/abs/2403.02325)|[code](https://contrastive-region-guidance.github.io/)|<details><summary>detail</summary>Project website: https://contrastive-region-guidance</details>|
+|**2024-3-4**|**Non-autoregressive Sequence-to-Sequence Vision-Language Models**|Kunyu Shi et.al|[paper](https://arxiv.org/abs/2403.02249)|-|<details><summary>detail</summary>CVPR 2024</details>|
+|**2024-3-3**|**Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models**|Z Zheng et.al|[paper](https://arxiv.org/abs/2303.06628)|[code](https://github.com/thunderbeee/zscl)|-|
+|**2024-3-3**|**Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models**|J Li et.al|[paper](https://arxiv.org/abs/2303.06571)|[code](https://paperswithcode.com/paper/gradient-regulated-meta-prompt-learning-for)|-|
+|**2024-3-3**|**Towards Universal Vision-language Omni-supervised Segmentation**|B Dong et.al|[paper](https://arxiv.org/abs/2303.06547)|[code](https://paperswithcode.com/paper/towards-universal-vision-language-omni)|-|
+|**2024-3-2**|**Learning Grounded Vision-Language Representation for Versatile Understanding in Untrimmed Videos**|T Wang et.al|[paper](https://arxiv.org/abs/2303.06378)|[code](https://github.com/zjr2000/gvl)|-|
+|**2024-3-1**|**Tag2Text: Guiding Vision-Language Model via Image Tagging**|X Huang et.al|[paper](https://arxiv.org/abs/2303.05657)|[code](https://github.com/xinyu1205/recognize-anything)|-|
+|**2024-3-1**|**Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors**|K Kawaharazuka et.al|[paper](https://arxiv.org/abs/2303.05674)|-|-|
 
