@@ -72,6 +72,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-3-12**|**A Fourier Transform Framework for Domain Adaptation**|Le Luo et.al|[paper](https://arxiv.org/abs/2403.07798)|-|-|
 |**2024-3-12**|**Source-Free Domain Adaptation with Frozen Multimodal Foundation Model**|Song Tang et.al|[paper](https://arxiv.org/abs/2311.16510)|-|<details><summary>detail</summary>CVPR 2024</details>|
 |**2024-3-12**|**Unified Source-Free Domain Adaptation**|Song Tang et.al|[paper](https://arxiv.org/abs/2403.07601)|[code](https://github.com/tntek/source-free-domain-adaptation.)|-|
 |**2024-3-12**|**Proxy Methods for Domain Adaptation**|Katherine Tsai et.al|[paper](https://arxiv.org/abs/2403.07442)|-|-|
@@ -95,7 +96,6 @@
 |**2024-3-8**|**High-Intensified Resemblance and Statistic-Restructured Alignment in Few-Shot Domain Adaptation for Industrial-Specialized Employment**|J Petchhan et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10045719/)|-|<details><summary>detail</summary>IEEE Transactions on Consumer…, 2023 ieeexplore.ieee.org</details>|
 |**2024-3-8**|**KRADA: Known-region-aware Domain Alignment for Open-set Domain Adaptation in Semantic Segmentation**|C Zhou et.al|[paper](https://europepmc.org/article/ppr/ppr617459)|[code](https://github.com/chenhong-zhou/krada)|<details><summary>detail</summary>2023 europepmc.org</details>|
 |**2024-3-8**|**Blade crack detection based on domain adaptation and autoencoder of multidimensional vibro-acoustic feature fusion**|J Shen et.al|[paper](https://journals.sagepub.com/doi/abs/10.1177/14759217221139134)|-|<details><summary>detail</summary>Structural Health Monitoring, 2023 journals.sagepub.com</details>|
-|**2024-3-7**|**Graph Learning under Distribution Shifts: A Comprehensive Survey on Domain Adaptation, Out-of-distribution, and Continual Learning**|Man Wu et.al|[paper](https://arxiv.org/abs/2402.16374)|-|-|
 |**2024-3-7**|**Infrared ship target segmentation based on Adversarial Domain Adaptation**|T Zhang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0950705123000941)|-|<details><summary>detail</summary>Knowledge Based…, 2023 Elsevier</details>|
 
 ## domain generalization
@@ -132,6 +132,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-3-12**|**Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation**|Shihao Zhao et.al|[paper](https://arxiv.org/abs/2403.07860)|[code](https://github.com/ShihaoZhaoZSH/LaVi-Bridge.)|-|
+|**2024-3-12**|**MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-wise Pruning Error Metric**|Haokun Lin et.al|[paper](https://arxiv.org/abs/2403.07839)|-|-|
 |**2024-3-12**|**Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Matching Framework**|Minh Hieu Phan et.al|[paper](https://arxiv.org/abs/2403.07636)|[code](https://github.com/HieuPhan33/MAVL)|<details><summary>detail</summary>CVPR2024</details>|
 |**2024-3-12**|**MoAI: Mixture of All Intelligence for Large Language and Vision Models**|Byung-Kwan Lee et.al|[paper](https://arxiv.org/abs/2403.07508)|[code](https://github.com/ByungKwanLee/MoAI)|<details><summary>detail</summary>Code available: https://github</details>|
 |**2024-3-12**|**NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning**|Bingqian Lin et.al|[paper](https://arxiv.org/abs/2403.07376)|[code](https://github.com/expectorlin/NavCoT.)|-|
@@ -145,8 +147,6 @@
 |**2024-3-10**|**RESTORE: Towards Feature Shift for Vision-Language Prompt Learning**|Yuncheng Yang et.al|[paper](https://arxiv.org/abs/2403.06136)|-|-|
 |**2024-3-10**|**In-context Prompt Learning for Test-time Vision Recognition with Frozen Vision-language Model**|Junhui Yin et.al|[paper](https://arxiv.org/abs/2403.06126)|-|-|
 |**2024-3-9**|**VLP: Vision Language Planning for Autonomous Driving**|Chenbin Pan et.al|[paper](https://arxiv.org/abs/2401.05577)|-|<details><summary>detail</summary>CVPR2024</details>|
-|**2024-3-9**|**Leveraging Vision-Language Models for Improving Domain Generalization in Image Classification**|Sravanti Addepalli et.al|[paper](https://arxiv.org/abs/2310.08255)|[code](http://val.cds.iisc.ac.in/VL2V-ADiP/)|<details><summary>detail</summary>Project page: http://val</details>|
-|**2024-3-8**|**PromptKD: Unsupervised Prompt Distillation for Vision-Language Models**|Zheng Li et.al|[paper](https://arxiv.org/abs/2403.02781)|[code](https://zhengli97.github.io/PromptKD.)|<details><summary>detail</summary>CVPR 2024</details>|
 |**2024-3-8**|**Weakly-Supervised HOI Detection from Interaction Labels Only and Language/Vision-Language Priors**|M Erhan Unal et.al|[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230305546E/abstract)|[code](https://paperswithcode.com/paper/weakly-supervised-hoi-detection-from)|-|
 |**2024-3-8**|**Scaling Vision-Language Models with Sparse Mixture of Experts**|S Shen et.al|[paper](https://arxiv.org/abs/2303.07226)|[code](https://github.com/google-research/vmoe)|-|
 |**2024-3-8**|**Vision-Language Models as Success Detectors**|Y Du et.al|[paper](https://arxiv.org/abs/2303.07280)|[code](https://github.com/dyabel/detpro)|-|
