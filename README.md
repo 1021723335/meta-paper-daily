@@ -42,6 +42,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-3-13**|**PRAGO: Differentiable Multi-View Pose Optimization From Objectness Detections**|Matteo Taiana et.al|[paper](https://arxiv.org/abs/2403.08586)|-|-|
 |**2024-3-13**|**Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning**|Yan Li et.al|[paper](https://arxiv.org/abs/2311.11646)|-|-|
 |**2024-3-13**|**Improved YOLOv5 Based on Attention Mechanism and FasterNet for Foreign Object Detection on Railway and Airway tracks**|Zongqing Qi et.al|[paper](https://arxiv.org/abs/2403.08499)|-|-|
 |**2024-3-13**|**Former: Calibrated and Complementary Transformer for RGB-Infrared Object Detection**|Maoxun Yuan et.al|[paper](https://arxiv.org/abs/2306.16175)|[code](https://github.com/yuanmaoxun/Calibrated-and-Complementary-Transformer-for-RGB-Infrared-Object-Detection.git.)|-|
@@ -56,7 +57,6 @@
 |**2024-3-12**|**Fine-Grained Prototypes Distillation for Few-Shot Object Detection**|Zichen Wang et.al|[paper](https://arxiv.org/abs/2401.07629)|[code](https://github.com/wangchen1801/FPD.)|<details><summary>detail</summary>Accepted by AAAI2024</details>|
 |**2024-3-11**|**SparseLIF: High-Performance Sparse LiDAR-Camera Fusion for 3D Object Detection**|Hongcheng Zhang et.al|[paper](https://arxiv.org/abs/2403.07284)|-|-|
 |**2024-3-11**|**Towards Zero-shot Human-Object Interaction Detection via Vision-Language Integration**|Weiying Xue et.al|[paper](https://arxiv.org/abs/2403.07246)|-|-|
-|**2024-3-11**|**Class Imbalance in Object Detection: An Experimental Diagnosis and Study of Mitigation Strategies**|Nieves Crasto et.al|[paper](https://arxiv.org/abs/2403.07113)|[code](https://github.com/craston/object_detection_cib))|-|
 |**2024-3-11**|**E-detector: Asynchronous Spatio-temporal for Event-based Object Detection in Intelligent Transportation System**|S Zhang et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3584361)|-|<details><summary>detail</summary>ACM Transactions on Multimedia…, 2023 dl.acm.org</details>|
 |**2024-3-10**|**…Simultaneous Defects Visualizing Algorithm for Both Macro and Micro Defects Based on Nonlinear Lamb Wave with an Application of Faster R-Cnn Object Detection**|Y Lee et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4362451)|-|<details><summary>detail</summary>Available at SSRN 4362451 papers.ssrn.com</details>|
 |**2024-3-10**|**YOGA: Deep Object Detection in the Wild with Lightweight Feature Learning and Multiscale Attention**|R Sunkara et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0031320323001516)|[code](https://paperswithcode.com/paper/yoga-deep-object-detection-in-the-wild-with)|<details><summary>detail</summary>Pattern Recognition, 2023 Elsevier</details>|
@@ -102,6 +102,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-3-13**|**A Causal Inspired Early-Branching Structure for Domain Generalization**|Liang Chen et.al|[paper](https://arxiv.org/abs/2403.08649)|[code](https://github.com/liangchen527/CausEB)|<details><summary>detail</summary>Accepted by IJCV</details>|
 |**2024-3-12**|**PAGE: Domain-Incremental Adaptation with Past-Agnostic Generative Replay for Smart Healthcare**|Chia-Hao Li et.al|[paper](https://arxiv.org/abs/2403.08197)|-|-|
 |**2024-3-12**|**Unknown Domain Inconsistency Minimization for Domain Generalization**|Seungjae Shin et.al|[paper](https://arxiv.org/abs/2403.07329)|[code](https://github.com/SJShin-AI/UDIM)|-|
 |**2024-3-12**|**On the Effectiveness of Large Language Models in Domain-Specific Code Generation**|Meng Chen et.al|[paper](https://arxiv.org/abs/2312.01639)|-|<details><summary>detail</summary>Preprint submitted to ACM Transactions on Software Engineering and Methodology</details>|
@@ -119,7 +120,6 @@
 |**2024-3-9**|**On the Hyperparameters influencing a PINN's generalization beyond the training domain**|A Bonfanti et.al|[paper](https://arxiv.org/abs/2302.07557)|-|-|
 |**2024-3-8**|**A Benchmark of Domain-Adapted Large Language Models for Generating Brief Hospital Course Summaries**|Asad Aali et.al|[paper](https://arxiv.org/abs/2403.05720)|-|-|
 |**2024-3-8**|**ContriMix: Scalable stain color augmentation for domain generalization without domain labels in digital pathology**|Tan H. Nguyen et.al|[paper](https://arxiv.org/abs/2306.04527)|[code](https://gitlab.com/huutan86/contrimix)|-|
-|**2024-3-8**|**Multi-Scale and Multi-Layer Contrastive Learning for Domain Generalization**|Aristotelis Ballas et.al|[paper](https://arxiv.org/abs/2308.14418)|-|<details><summary>detail</summary>Manuscript accepted in: IEEE Transactions on Artificial Intelligence</details>|
 |**2024-3-8**|**Robust Representation Learning with Self-Distillation for Domain Generalization**|A Singh et.al|[paper](https://arxiv.org/abs/2302.06874)|[code](https://github.com/tongkunguan/ccd)|-|
 |**2024-3-6**|**Cross-corpora spoken language identification with domain diversification and generalization**|S Dey et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0885230823000086)|[code](https://paperswithcode.com/paper/cross-corpora-spoken-language-identification)|<details><summary>detail</summary>Computer Speech & Language, 2023 Elsevier</details>|
 |**2024-3-4**|**Domain-Conditioned Normalization for Test-Time Domain Generalization**|Y Jiang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25085-9_17)|[code](https://github.com/ucsfncl/dmri-swin)|<details><summary>detail</summary>Computer Vision–ECCV…, 2023 Springer</details>|
