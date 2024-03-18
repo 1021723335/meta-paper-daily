@@ -42,6 +42,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-3-15**|**SimPLR: A Simple and Plain Transformer for Scaling-Efficient Object Detection and Segmentation**|Duy-Kien Nguyen et.al|[paper](https://arxiv.org/abs/2310.05920)|-|-|
 |**2024-3-15**|**SimPB: A Single Model for 2D and 3D Object Detection from Multiple Cameras**|Yingqi Tang et.al|[paper](https://arxiv.org/abs/2403.10353)|[code](https://github.com/nullmax-vision/SimPB.)|-|
 |**2024-3-15**|**Seeking Flat Minima with Mean Teacher on Semi- and Weakly-Supervised Domain Generalization for Object Detection**|Ryosuke Furuta et.al|[paper](https://arxiv.org/abs/2310.19351)|-|-|
 |**2024-3-15**|**Generative Region-Language Pretraining for Open-Ended Object Detection**|Chuang Lin et.al|[paper](https://arxiv.org/abs/2403.10191)|-|<details><summary>detail</summary>CVPR 2024</details>|
@@ -57,7 +58,6 @@
 |**2024-3-14**|**Knowledge Distillation in YOLOX-ViT for Side-Scan Sonar Object Detection**|Martin Aubard et.al|[paper](https://arxiv.org/abs/2403.09313)|[code](https://github.com/remaro-network/KD-YOLOX-ViT.)|-|
 |**2024-3-14**|**Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection?**|Rosario Leonardi et.al|[paper](https://arxiv.org/abs/2312.02672)|[code](https://iplab.dmi.unict.it/HOI-Synth/.)|-|
 |**2024-3-14**|**D-YOLO a robust framework for object detection in adverse weather conditions**|Zihan Chu et.al|[paper](https://arxiv.org/abs/2403.09233)|-|<details><summary>detail</summary>arXiv admin note: text overlap with arXiv:2209</details>|
-|**2024-3-14**|**Improving Distant 3D Object Detection Using 2D Box Supervision**|Zetong Yang et.al|[paper](https://arxiv.org/abs/2403.09230)|-|<details><summary>detail</summary>Accepted by CVPR 2024</details>|
 |**2024-3-14**|**…Simultaneous Defects Visualizing Algorithm for Both Macro and Micro Defects Based on Nonlinear Lamb Wave with an Application of Faster R-Cnn Object Detection**|Y Lee et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4362451)|-|<details><summary>detail</summary>Available at SSRN 4362451 papers.ssrn.com</details>|
 |**2024-3-14**|**YOGA: Deep Object Detection in the Wild with Lightweight Feature Learning and Multiscale Attention**|R Sunkara et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0031320323001516)|[code](https://paperswithcode.com/paper/yoga-deep-object-detection-in-the-wild-with)|<details><summary>detail</summary>Pattern Recognition, 2023 Elsevier</details>|
 |**2024-3-14**|**Spectral-Spatial Feature Enhancement Algorithm for Nighttime Object Detection and Tracking**|Y Lv et.al|[paper](https://www.mdpi.com/2073-8994/15/2/546)|-|<details><summary>detail</summary>Symmetry, 2023 mdpi.com</details>|
