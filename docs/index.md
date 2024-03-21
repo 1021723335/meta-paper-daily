@@ -12,6 +12,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-3-20**|**When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather**|Giulia Rizzoli et.al|[paper](https://arxiv.org/abs/2403.13762)|-|-|
+|**2024-3-20**|**Uncertainty-Aware Source-Free Adaptive Image Super-Resolution with Wavelet Augmentation Transformer**|Yuang Ai et.al|[paper](https://arxiv.org/abs/2303.17783)|-|-|
 |**2024-3-19**|**Semantics, Distortion, and Style Matter: Towards Source-free UDA for Panoramic Segmentation**|Xu Zheng et.al|[paper](https://arxiv.org/abs/2403.12505)|-|<details><summary>detail</summary>CVPR 2024</details>|
 |**2024-3-17**|**Source-Free Domain Adaptation for Question Answering with Masked Self-training**|M. Yin et.al|[paper](https://arxiv.org/abs/2212.09563)|-|-|
 |**2024-3-17**|**Uncertainty-Aware Pseudo-Label Filtering for Source-Free Unsupervised Domain Adaptation**|Xi Chen et.al|[paper](https://arxiv.org/abs/2403.11256)|[code](https://github.com/chenxi52/UPA.)|<details><summary>detail</summary>Neurocomputing 2024</details>|
@@ -27,8 +29,6 @@
 |**2024-3-6**|**MAP: MAsk-Pruning for Source-Free Model Intellectual Property Protection**|Boyang Peng et.al|[paper](https://arxiv.org/abs/2403.04149)|-|<details><summary>detail</summary>CVPR 2024</details>|
 |**2024-3-5**|**LEAD: Learning Decomposition for Source-free Universal Domain Adaptation**|Sanqing Qu et.al|[paper](https://arxiv.org/abs/2403.03421)|[code](https://github.com/ispc-lab/LEAD.)|<details><summary>detail</summary>To appear in CVPR 2024</details>|
 |**2024-3-4**|**Enhancing Information Maximization with Distance-Aware Contrastive Learning for Source-Free Cross-Domain Few-Shot Learning**|Huali Xu et.al|[paper](https://arxiv.org/abs/2403.01966)|-|<details><summary>detail</summary>Accepted by TIP</details>|
-|**2024-3-3**|**On the Model-Agnostic Multi-Source-Free Unsupervised Domain Adaptation**|Jiangbo Pei et.al|[paper](https://arxiv.org/abs/2403.01582)|-|-|
-|**2024-3-3**|**Collaborate to Adapt: Source-Free Graph Domain Adaptation via Bi-directional Adaptation**|Zhen Zhang et.al|[paper](https://arxiv.org/abs/2403.01467)|-|<details><summary>detail</summary>Accepted by WWW-2024</details>|
 |**2024-3-3**|**Universal source-free domain adaptation method for cross-domain fault diagnosis of machines**|Y Zhang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0888327023000663)|-|<details><summary>detail</summary>Mechanical Systems and…, 2023 Elsevier</details>|
 |**2024-3-1**|**Contrast and Clustering: Learning Neighborhood Pair Representation for Source-free Domain Adaptation**|Y Chen et.al|[paper](https://arxiv.org/abs/2301.13428)|[code](https://github.com/yukilulu/cac)|-|
 |**2024-2-26**|**TIDo: Source-free Task Incremental Learning in Non-stationary Environments**|AK Ambastha et.al|[paper](https://arxiv.org/abs/2301.12055)|[code](https://paperswithcode.com/paper/tido-source-free-task-incremental-learning-in)|-|
@@ -72,6 +72,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-3-20**|**When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather**|Giulia Rizzoli et.al|[paper](https://arxiv.org/abs/2403.13762)|-|-|
 |**2024-3-20**|**ZoDi: Zero-Shot Domain Adaptation with Diffusion-Based Image Transfer**|Hiroki Azuma et.al|[paper](https://arxiv.org/abs/2403.13652)|-|-|
 |**2024-3-20**|**High-confidence pseudo-labels for domain adaptation in COVID-19 detection**|Robert Turnbull et.al|[paper](https://arxiv.org/abs/2403.13509)|-|-|
 |**2024-3-19**|**Confusing Pair Correction Based on Category Prototype for Domain Adaptation under Noisy Environments**|Churan Zhi et.al|[paper](https://arxiv.org/abs/2403.12883)|[code](https://github.com/Hehxcf/CPC/.)|<details><summary>detail</summary>AAAI 2024</details>|
@@ -86,7 +87,6 @@
 |**2024-3-17**|**Potential of Domain Adaptation in Machine Learning in Ecology and Hydrology to Improve Model Extrapolability**|Haiyang Shi et.al|[paper](https://arxiv.org/abs/2403.11331)|-|-|
 |**2024-3-17**|**Source-Free Domain Adaptation for Question Answering with Masked Self-training**|M. Yin et.al|[paper](https://arxiv.org/abs/2212.09563)|-|-|
 |**2024-3-17**|**Uncertainty-Aware Pseudo-Label Filtering for Source-Free Unsupervised Domain Adaptation**|Xi Chen et.al|[paper](https://arxiv.org/abs/2403.11256)|[code](https://github.com/chenxi52/UPA.)|<details><summary>detail</summary>Neurocomputing 2024</details>|
-|**2024-3-17**|**Universal Semi-Supervised Domain Adaptation by Mitigating Common-Class Bias**|Wenyu Zhang et.al|[paper](https://arxiv.org/abs/2403.11234)|-|<details><summary>detail</summary>CVPR 2024</details>|
 |**2024-3-17**|**Kurcuma: a kitchen utensil recognition collection for unsupervised domain adaptation**|A Rosello et.al|[paper](https://link.springer.com/article/10.1007/s10044-023-01147-x)|-|<details><summary>detail</summary>Mas, AJ Gallego… Pattern Analysis and…, 2023 Springer</details>|
 |**2024-3-17**|**An improved multi-source domain adaptation network for inter-subject mental fatigue detection based on DANN**|K Chen et.al|[paper](https://www.degruyter.com/document/doi/10.1515/bmt-2022-0354/html)|-|<details><summary>detail</summary>Biomedical Engineering…, 2023 degruyter.com</details>|
 |**2024-3-17**|**A multi-source transfer learning model based on LSTM and domain adaptation for building energy prediction**|H Lu et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0142061523000819)|-|<details><summary>detail</summary>International Journal of…, 2023 Elsevier</details>|
@@ -132,6 +132,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-3-20**|**Bridge the Modality and Capacity Gaps in Vision-Language Model Selection**|Chao Yi et.al|[paper](https://arxiv.org/abs/2403.13797)|-|-|
+|**2024-3-20**|**Describe-and-Dissect: Interpreting Neurons in Vision Networks with Language Models**|Nicholas Bai et.al|[paper](https://arxiv.org/abs/2403.13771)|-|-|
+|**2024-3-20**|**Enhancing Gait Video Analysis in Neurodegenerative Diseases by Knowledge Augmentation in Vision Language Model**|Diwei Wang et.al|[paper](https://arxiv.org/abs/2403.13756)|-|-|
+|**2024-3-20**|**MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning**|Haozhe Zhao et.al|[paper](https://arxiv.org/abs/2309.07915)|[code](https://github.com/PKUnlp-icler/MIC)|<details><summary>detail</summary>Accepted by ICLR2024</details>|
 |**2024-3-20**|**CLIPSwarm: Generating Drone Shows from Text Prompts with Vision-Language Models**|Pablo Pueyo et.al|[paper](https://arxiv.org/abs/2403.13467)|-|-|
 |**2024-3-19**|**SC-Tune: Unleashing Self-Consistent Referential Comprehension in Large Vision Language Models**|Tongtian Yue et.al|[paper](https://arxiv.org/abs/2403.13263)|[code](https://github.com/ivattyue/SC-Tune.)|<details><summary>detail</summary>Accepted by CVPR2024</details>|
 |**2024-3-19**|**Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models**|Yangyi Chen et.al|[paper](https://arxiv.org/abs/2309.04461)|[code](https://github.com/Yangyi-Chen/CoTConsistency)|<details><summary>detail</summary>NAACL 2024 Main Conference</details>|
@@ -143,9 +147,6 @@
 |**2024-3-19**|**Towards Multimodal In-Context Learning for Vision & Language Models**|Sivan Doveh et.al|[paper](https://arxiv.org/abs/2403.12736)|-|-|
 |**2024-3-19**|**ECAMP: Entity-centered Context-aware Medical Vision Language Pre-training**|Rongsheng Wang et.al|[paper](https://arxiv.org/abs/2312.13316)|[code](https://github.com/ToniChopp/ECAMP.)|-|
 |**2024-3-19**|**Boosting Transferability in Vision-Language Attacks via Diversification along the Intersection Region of Adversarial Trajectory**|Sensen Gao et.al|[paper](https://arxiv.org/abs/2403.12445)|-|-|
-|**2024-3-18**|**Modality-Agnostic fMRI Decoding of Vision and Language**|Mitja Nikolaus et.al|[paper](https://arxiv.org/abs/2403.11771)|-|<details><summary>detail</summary>To appear at ICLR 2024 workshop on Representational Alignment (Re-Align)</details>|
-|**2024-3-18**|**Compositional Kronecker Context Optimization for Vision-Language Models**|Kun Ding et.al|[paper](https://arxiv.org/abs/2403.11631)|-|-|
-|**2024-3-18**|**EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition**|Niki Maria Foteinopoulou et.al|[paper](https://arxiv.org/abs/2310.16640)|[code](https://github.com/NickyFot/EmoCLIP.)|<details><summary>detail</summary>FG'2024</details>|
 |**2024-3-16**|**Weakly-Supervised HOI Detection from Interaction Labels Only and Language/Vision-Language Priors**|M Erhan Unal et.al|[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230305546E/abstract)|[code](https://paperswithcode.com/paper/weakly-supervised-hoi-detection-from)|-|
 |**2024-3-16**|**Scaling Vision-Language Models with Sparse Mixture of Experts**|S Shen et.al|[paper](https://arxiv.org/abs/2303.07226)|[code](https://github.com/google-research/vmoe)|-|
 |**2024-3-16**|**Vision-Language Models as Success Detectors**|Y Du et.al|[paper](https://arxiv.org/abs/2303.07280)|[code](https://github.com/dyabel/detpro)|-|
