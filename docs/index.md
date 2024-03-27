@@ -42,6 +42,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-3-26**|**Optical Flow Based Detection and Tracking of Moving Objects for Autonomous Vehicles**|MReza Alipour Sormoli et.al|[paper](https://arxiv.org/abs/2403.17779)|-|<details><summary>detail</summary>This manuscript has been accepted as a regular paper in Transactions on Intelligent Transportation Systems (DOI: 10</details>|
 |**2024-3-26**|**UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps**|Maciej K Wozniak et.al|[paper](https://arxiv.org/abs/2403.17633)|-|-|
 |**2024-3-26**|**SSF3D: Strict Semi-Supervised 3D Object Detection with Switching Filter**|Songbur Wong et.al|[paper](https://arxiv.org/abs/2403.17390)|-|-|
 |**2024-3-26**|**Decoupled Pseudo-labeling for Semi-Supervised Monocular 3D Object Detection**|Jiacheng Zhang et.al|[paper](https://arxiv.org/abs/2403.17387)|-|<details><summary>detail</summary>To appear in CVPR2024</details>|
@@ -66,7 +67,6 @@
 |**2024-3-23**|**Research on road object detection algorithm based on improved YOLOX**|T Yang et.al|[paper](https://arxiv.org/abs/2302.08156)|[code](https://paperswithcode.com/paper/research-on-road-object-detection-algorithm)|-|
 |**2024-3-22**|**IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection**|Junbo Yin et.al|[paper](https://arxiv.org/abs/2403.15241)|[code](https://github.com/yinjunbo/IS-Fusion.)|<details><summary>detail</summary>CVPR 2024</details>|
 |**2024-3-22**|**CPA-Enhancer: Chain-of-Thought Prompted Adaptive Enhancer for Object Detection under Unknown Degradations**|Yuwei Zhang et.al|[paper](https://arxiv.org/abs/2403.11220)|-|-|
-|**2024-3-22**|**Gradient-based Sampling for Class Imbalanced Semi-supervised Object Detection**|Jiaming Li et.al|[paper](https://arxiv.org/abs/2403.15127)|[code](https://github.com/nightkeepers/CI-SSOD.)|<details><summary>detail</summary>Accepted by ICCV2023</details>|
 
 ## domain adaptation
 
@@ -102,6 +102,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-3-26**|**Generator-Retriever-Generator Approach for Open-Domain Question Answering**|Abdelrahman Abdallah et.al|[paper](https://arxiv.org/abs/2307.11278)|[code](https://github.com/abdoelsayed2016/GRG.)|-|
+|**2024-3-26**|**Blinded by Generated Contexts: How Language Models Merge Generated and Retrieved Contexts for Open-Domain QA?**|Hexiang Tan et.al|[paper](https://arxiv.org/abs/2401.11911)|-|-|
 |**2024-3-25**|**DPStyler: Dynamic PromptStyler for Source-Free Domain Generalization**|Yunlong Tang et.al|[paper](https://arxiv.org/abs/2403.16697)|-|-|
 |**2024-3-25**|**TrustAI at SemEval-2024 Task 8: A Comprehensive Analysis of Multi-domain Machine Generated Text Detection Techniques**|Ashok Urlana et.al|[paper](https://arxiv.org/abs/2403.16592)|-|-|
 |**2024-3-24**|**Domain Generalization with Global Sample Mixup**|Y Lu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_35)|-|<details><summary>detail</summary>European Conference on Computer…, 2023 Springer</details>|
@@ -120,8 +122,6 @@
 |**2024-3-19**|**Cross-corpora spoken language identification with domain diversification and generalization**|S Dey et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0885230823000086)|[code](https://paperswithcode.com/paper/cross-corpora-spoken-language-identification)|<details><summary>detail</summary>Computer Speech & Language, 2023 Elsevier</details>|
 |**2024-3-18**|**Towards Generalizing to Unseen Domains with Few Labels**|Chamuditha Jayanga Galappaththige et.al|[paper](https://arxiv.org/abs/2403.11674)|-|<details><summary>detail</summary>CVPR 2024</details>|
 |**2024-3-18**|**SETA: Semantic-Aware Token Augmentation for Domain Generalization**|Jintao Guo et.al|[paper](https://arxiv.org/abs/2403.11792)|[code](https://github.com/lingeringlight/SETA.)|-|
-|**2024-3-18**|**Learning General Policies for Classical Planning Domains: Getting Beyond C$_2$**|Simon Ståhlberg et.al|[paper](https://arxiv.org/abs/2403.11734)|-|<details><summary>detail</summary>Submitted to IJCAI 2024</details>|
-|**2024-3-18**|**Depth- and Semantics-aware Multi-modal Domain Translation: Generating 3D Panoramic Color Images from LiDAR Point Clouds**|Tiago Cortinhal et.al|[paper](https://arxiv.org/abs/2302.07661)|-|-|
 |**2024-3-17**|**Domain-Conditioned Normalization for Test-Time Domain Generalization**|Y Jiang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25085-9_17)|[code](https://github.com/ucsfncl/dmri-swin)|<details><summary>detail</summary>Computer Vision–ECCV…, 2023 Springer</details>|
 |**2024-3-16**|**Domain Generalization by Functional Regression**|M Holzleitner et.al|[paper](https://arxiv.org/abs/2302.04724)|[code](https://github.com/wzell/funcregr4domgen)|-|
 |**2024-3-13**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
@@ -132,6 +132,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-3-26**|**Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models**|Minchan Kim et.al|[paper](https://arxiv.org/abs/2403.16167)|-|-|
 |**2024-3-26**|**TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**|Qinying Liu et.al|[paper](https://arxiv.org/abs/2312.14149)|[code](https://qinying-liu.github.io/Tag-Align.)|-|
 |**2024-3-26**|**Dual Memory Networks: A Versatile Adaptation Approach for Vision-Language Models**|Yabin Zhang et.al|[paper](https://arxiv.org/abs/2403.17589)|[code](https://github.com/YBZh/DMN)|<details><summary>detail</summary>CVPR2024</details>|
 |**2024-3-26**|**Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Pre-training Framework**|Vu Minh Hieu Phan et.al|[paper](https://arxiv.org/abs/2403.07636)|[code](https://github.com/HieuPhan33/MAVL.)|<details><summary>detail</summary>CVPR2024</details>|
@@ -146,7 +147,6 @@
 |**2024-3-25**|**HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models**|Tianrui Guan et.al|[paper](https://arxiv.org/abs/2310.14566)|[code](https://github.com/tianyi-lab/HallusionBench.)|<details><summary>detail</summary>CVPR 2024</details>|
 |**2024-3-24**|**OpenFMNav: Towards Open-Set Zero-Shot Object Navigation via Vision-Language Foundation Models**|Yuxuan Kuang et.al|[paper](https://arxiv.org/abs/2402.10670)|-|<details><summary>detail</summary>NAACL 2024 Findings</details>|
 |**2024-3-24**|**C-TPT: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion**|Hee Suk Yoon et.al|[paper](https://arxiv.org/abs/2403.14119)|[code](https://github.com/hee-suk-yoon/C-TPT.)|<details><summary>detail</summary>ICLR 2024</details>|
-|**2024-3-24**|**Improving Scene Graph Generation with Relation Words' Debiasing in Vision-Language Models**|Yuxuan Wang et.al|[paper](https://arxiv.org/abs/2403.16184)|-|-|
 |**2024-3-22**|**Weakly-Supervised HOI Detection from Interaction Labels Only and Language/Vision-Language Priors**|M Erhan Unal et.al|[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230305546E/abstract)|[code](https://paperswithcode.com/paper/weakly-supervised-hoi-detection-from)|-|
 |**2024-3-22**|**Scaling Vision-Language Models with Sparse Mixture of Experts**|S Shen et.al|[paper](https://arxiv.org/abs/2303.07226)|[code](https://github.com/google-research/vmoe)|-|
 |**2024-3-22**|**Vision-Language Models as Success Detectors**|Y Du et.al|[paper](https://arxiv.org/abs/2303.07280)|[code](https://github.com/dyabel/detpro)|-|
