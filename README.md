@@ -42,6 +42,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-3-28**|**OV-Uni3DETR: Towards Unified Open-Vocabulary 3D Object Detection via Cycle-Modality Propagation**|Zhenyu Wang et.al|[paper](https://arxiv.org/abs/2403.19580)|-|-|
 |**2024-3-28**|**CAT: Exploiting Inter-Class Dynamics for Domain Adaptive Object Detection**|Mikhail Kennerley et.al|[paper](https://arxiv.org/abs/2403.19278)|-|<details><summary>detail</summary>Accepted into CVPR 2024</details>|
 |**2024-3-28**|**UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps**|Maciej K Wozniak et.al|[paper](https://arxiv.org/abs/2403.17633)|-|-|
 |**2024-3-28**|**Algorithmic Ways of Seeing: Using Object Detection to Facilitate Art Exploration**|Louie Søs Meyer et.al|[paper](https://arxiv.org/abs/2403.19174)|-|-|
@@ -56,7 +57,6 @@
 |**2024-3-27**|**Tracking-Assisted Object Detection with Event Cameras**|Ting-Kang Yen et.al|[paper](https://arxiv.org/abs/2403.18330)|-|-|
 |**2024-3-27**|**Task-wise Sampling Convolutions for Arbitrary-Oriented Object Detection in Aerial Images**|Zhanchao Huang et.al|[paper](https://arxiv.org/abs/2209.02200)|-|-|
 |**2024-3-26**|**Road Obstacle Detection based on Unknown Objectness Scores**|Chihiro Noguchi et.al|[paper](https://arxiv.org/abs/2403.18207)|-|<details><summary>detail</summary>ICRA 2024</details>|
-|**2024-3-26**|**Optical Flow Based Detection and Tracking of Moving Objects for Autonomous Vehicles**|MReza Alipour Sormoli et.al|[paper](https://arxiv.org/abs/2403.17779)|-|<details><summary>detail</summary>This manuscript has been accepted as a regular paper in Transactions on Intelligent Transportation Systems (DOI: 10</details>|
 |**2024-3-26**|**E-detector: Asynchronous Spatio-temporal for Event-based Object Detection in Intelligent Transportation System**|S Zhang et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3584361)|-|<details><summary>detail</summary>ACM Transactions on Multimedia…, 2023 dl.acm.org</details>|
 |**2024-3-25**|**…Simultaneous Defects Visualizing Algorithm for Both Macro and Micro Defects Based on Nonlinear Lamb Wave with an Application of Faster R-Cnn Object Detection**|Y Lee et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4362451)|-|<details><summary>detail</summary>Available at SSRN 4362451 papers.ssrn.com</details>|
 |**2024-3-25**|**YOGA: Deep Object Detection in the Wild with Lightweight Feature Learning and Multiscale Attention**|R Sunkara et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0031320323001516)|[code](https://paperswithcode.com/paper/yoga-deep-object-detection-in-the-wild-with)|<details><summary>detail</summary>Pattern Recognition, 2023 Elsevier</details>|
