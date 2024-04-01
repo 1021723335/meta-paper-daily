@@ -42,6 +42,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-3-29**|**SeaBird: Segmentation in Bird's View with Dice Loss Improves Monocular 3D Detection of Large Objects**|Abhinav Kumar et.al|[paper](https://arxiv.org/abs/2403.20318)|[code](https://github.com/abhi1kumar/SeaBird)|<details><summary>detail</summary>CVPR 2024</details>|
 |**2024-3-29**|**MultiCorrupt: A Multi-Modal Robustness Dataset and Benchmark of LiDAR-Camera Fusion for 3D Object Detection**|Till Beemelmanns et.al|[paper](https://arxiv.org/abs/2402.11677)|[code](https://github.com/ika-rwth-aachen/MultiCorrupt.)|<details><summary>detail</summary>Code: https://github</details>|
 |**2024-3-29**|**E-detector: Asynchronous Spatio-temporal for Event-based Object Detection in Intelligent Transportation System**|S Zhang et.al|[paper](https://dl.acm.org/doi/abs/10.1145/3584361)|-|<details><summary>detail</summary>ACM Transactions on Multimedia…, 2023 dl.acm.org</details>|
 |**2024-3-28**|**OV-Uni3DETR: Towards Unified Open-Vocabulary 3D Object Detection via Cycle-Modality Propagation**|Zhenyu Wang et.al|[paper](https://arxiv.org/abs/2403.19580)|-|-|
@@ -66,7 +67,6 @@
 |**2024-3-27**|**BAM: Box Abstraction Monitors for Real-time OoD Detection in Object Detection**|Changshun Wu et.al|[paper](https://arxiv.org/abs/2403.18373)|-|-|
 |**2024-3-27**|**DODA: Diffusion for Object-detection Domain Adaptation in Agriculture**|Shuai Xiang et.al|[paper](https://arxiv.org/abs/2403.18334)|-|-|
 |**2024-3-27**|**Tracking-Assisted Object Detection with Event Cameras**|Ting-Kang Yen et.al|[paper](https://arxiv.org/abs/2403.18330)|-|-|
-|**2024-3-27**|**Task-wise Sampling Convolutions for Arbitrary-Oriented Object Detection in Aerial Images**|Zhanchao Huang et.al|[paper](https://arxiv.org/abs/2209.02200)|-|-|
 
 ## domain adaptation
 
@@ -132,6 +132,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-3-29**|**Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models**|Atsuyuki Miyai et.al|[paper](https://arxiv.org/abs/2403.20331)|[code](https://github.com/AtsuMiyai/UPD)|<details><summary>detail</summary>Code: https://github</details>|
+|**2024-3-29**|**Are We on the Right Way for Evaluating Large Vision-Language Models?**|Lin Chen et.al|[paper](https://arxiv.org/abs/2403.20330)|[code](https://mmstar-benchmark.github.io/)|<details><summary>detail</summary>Project page: https://mmstar-benchmark</details>|
+|**2024-3-29**|**Learn "No" to Say "Yes" Better: Improving Vision-Language Models via Negations**|Jaisidh Singh et.al|[paper](https://arxiv.org/abs/2403.20312)|-|-|
+|**2024-3-29**|**H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model**|Chao Pang et.al|[paper](https://arxiv.org/abs/2403.20213)|[code](https://github.com/opendatalab/H2RSVLM)|<details><summary>detail</summary>Equal contribution: Chao Pang</details>|
 |**2024-3-29**|**ConvBench: A Multi-Turn Conversation Evaluation Benchmark with Hierarchical Capability for Large Vision-Language Models**|Shuo Liu et.al|[paper](https://arxiv.org/abs/2403.20194)|-|-|
 |**2024-3-29**|**Negative Label Guided OOD Detection with Pretrained Vision-Language Models**|Xue Jiang et.al|[paper](https://arxiv.org/abs/2403.20078)|[code](https://github.com/tmlr-group/NegLabel.)|<details><summary>detail</summary>ICLR 2024 Spotlight</details>|
 |**2024-3-28**|**FairCLIP: Harnessing Fairness in Vision-Language Learning**|Yan Luo et.al|[paper](https://arxiv.org/abs/2403.19949)|[code](https://ophai.hms.harvard.edu/datasets/fairvlmed10k.)|<details><summary>detail</summary>CVPR 2024</details>|
@@ -143,10 +147,6 @@
 |**2024-3-28**|**EgoThink: Evaluating First-Person Perspective Thinking Capability of Vision-Language Models**|Sijie Cheng et.al|[paper](https://arxiv.org/abs/2311.15596)|-|-|
 |**2024-3-28**|**Can 3D Vision-Language Models Truly Understand Natural Language?**|Weipeng Deng et.al|[paper](https://arxiv.org/abs/2403.14760)|[code](https://github.com/VincentDENGP/3D-LR)|<details><summary>detail</summary>https://github</details>|
 |**2024-3-28**|**CLAP4CLIP: Continual Learning with Probabilistic Finetuning for Vision-Language Models**|Saurav Jha et.al|[paper](https://arxiv.org/abs/2403.19137)|[code](https://github.com/srvCodes/clap4clip)|<details><summary>detail</summary>Work under review</details>|
-|**2024-3-27**|**Towards Unified Multi-Modal Personalization: Large Vision-Language Models for Generative Recommendation and Beyond**|Tianxin Wei et.al|[paper](https://arxiv.org/abs/2403.10667)|-|<details><summary>detail</summary>ICLR 2024</details>|
-|**2024-3-27**|**Envisioning MedCLIP: A Deep Dive into Explainability for Medical Vision-Language Models**|Anees Ur Rehman Hashmi et.al|[paper](https://arxiv.org/abs/2403.18996)|-|-|
-|**2024-3-27**|**Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models**|Keyan Guo et.al|[paper](https://arxiv.org/abs/2403.18957)|-|<details><summary>detail</summary>To Appear in the 33rd USENIX Security Symposium</details>|
-|**2024-3-27**|**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**|Yanwei Li et.al|[paper](https://arxiv.org/abs/2403.18814)|[code](https://github.com/dvlab-research/MiniGemini.)|<details><summary>detail</summary>Code and models are available at https://github</details>|
 |**2024-3-27**|**Weakly-Supervised HOI Detection from Interaction Labels Only and Language/Vision-Language Priors**|M Erhan Unal et.al|[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230305546E/abstract)|[code](https://paperswithcode.com/paper/weakly-supervised-hoi-detection-from)|-|
 |**2024-3-27**|**Scaling Vision-Language Models with Sparse Mixture of Experts**|S Shen et.al|[paper](https://arxiv.org/abs/2303.07226)|[code](https://github.com/google-research/vmoe)|-|
 |**2024-3-27**|**Vision-Language Models as Success Detectors**|Y Du et.al|[paper](https://arxiv.org/abs/2303.07280)|[code](https://github.com/dyabel/detpro)|-|
