@@ -13,18 +13,28 @@
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
 |**2024-4-16**|**Uncertainty-guided Open-Set Source-Free Unsupervised Domain Adaptation with Target-private Class Segregation**|Mattia Litrico et.al|[paper](https://arxiv.org/abs/2404.10574)|-|-|
+|**2024-4-11**|**In Search for a Generalizable Method for Source Free Domain Adaptation**|M Boudiaf et.al|[paper](https://arxiv.org/abs/2302.06658)|[code](https://paperswithcode.com/paper/in-search-for-a-generalizable-method-for)|-|
 |**2024-4-9**|**Self-training via Metric Learning for Source-Free Domain Adaptation of Semantic Segmentation**|Ibrahim Batuhan Akkaya et.al|[paper](https://arxiv.org/abs/2212.04227)|-|<details><summary>detail</summary>This paper is under consideration at Computer Vision and Image Understanding</details>|
+|**2024-4-8**|**MAPS: A Noise-Robust Progressive Learning Approach for Source-Free Domain Adaptive Keypoint Detection**|Y Ding et.al|[paper](https://arxiv.org/abs/2302.04589)|[code](https://github.com/yuhed/maps)|-|
+|**2024-4-1**|**Universal source-free domain adaptation method for cross-domain fault diagnosis of machines**|Y Zhang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0888327023000663)|-|<details><summary>detail</summary>Mechanical Systems and…, 2023 Elsevier</details>|
+|**2024-3-30**|**Contrast and Clustering: Learning Neighborhood Pair Representation for Source-free Domain Adaptation**|Y Chen et.al|[paper](https://arxiv.org/abs/2301.13428)|[code](https://github.com/yukilulu/cac)|-|
 |**2024-3-26**|**Towards Source-free Domain Adaptive Semantic Segmentation via Importance-aware and Prototype-contrast Learning**|Yihong Cao et.al|[paper](https://arxiv.org/abs/2306.01598)|[code](https://github.com/yihong-97/Source-free-IAPC.)|<details><summary>detail</summary>IEEE Transactions on Intelligent Vehicles (T-IV)</details>|
+|**2024-3-26**|**TIDo: Source-free Task Incremental Learning in Non-stationary Environments**|AK Ambastha et.al|[paper](https://arxiv.org/abs/2301.12055)|[code](https://paperswithcode.com/paper/tido-source-free-task-incremental-learning-in)|-|
+|**2024-3-26**|**Adversarial Learning Networks: Source-free Unsupervised Domain Incremental Learning**|AK Ambastha et.al|[paper](https://arxiv.org/abs/2301.12054)|[code](https://paperswithcode.com/paper/adversarial-learning-networks-source-free)|-|
 |**2024-3-25**|**DPStyler: Dynamic PromptStyler for Source-Free Domain Generalization**|Yunlong Tang et.al|[paper](https://arxiv.org/abs/2403.16697)|-|-|
 |**2024-3-24**|**Improving Online Source-free Domain Adaptation for Object Detection by Unsupervised Data Acquisition**|Xiangyu Shi et.al|[paper](https://arxiv.org/abs/2310.19258)|-|-|
 |**2024-3-22**|**Semantics, Distortion, and Style Matter: Towards Source-free UDA for Panoramic Segmentation**|Xu Zheng et.al|[paper](https://arxiv.org/abs/2403.12505)|-|<details><summary>detail</summary>CVPR 2024</details>|
 |**2024-3-21**|**GLC++: Source-Free Universal Domain Adaptation through Global-Local Clustering and Contrastive Affinity Learning**|Sanqing Qu et.al|[paper](https://arxiv.org/abs/2403.14410)|-|<details><summary>detail</summary>This is a substantial extension of the CVPR 2023 paper "Upcycling Models under Domain and Category Shift"</details>|
+|**2024-3-21**|**Cross-platform privacy-preserving CT image COVID-19 diagnosis based on source-free domain adaptation**|Y Feng et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0950705123000746)|-|<details><summary>detail</summary>Knowledge Based Systems, 2023 Elsevier</details>|
 |**2024-3-20**|**EventDance: Unsupervised Source-free Cross-modal Adaptation for Event-based Object Recognition**|Xu Zheng et.al|[paper](https://arxiv.org/abs/2403.14082)|-|<details><summary>detail</summary>CVPR2024</details>|
 |**2024-3-20**|**When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather**|Giulia Rizzoli et.al|[paper](https://arxiv.org/abs/2403.13762)|-|-|
 |**2024-3-20**|**Uncertainty-Aware Source-Free Adaptive Image Super-Resolution with Wavelet Augmentation Transformer**|Yuang Ai et.al|[paper](https://arxiv.org/abs/2303.17783)|-|-|
+|**2024-3-18**|**Source-free Subject Adaptation for EEG-based Visual Recognition**|P Lee et.al|[paper](https://arxiv.org/abs/2301.08448)|[code](https://github.com/DeepBCI/Deep-BCI)|-|
+|**2024-3-18**|**When Source-Free Domain Adaptation Meets Label Propagation**|C Wu et.al|[paper](https://arxiv.org/abs/2301.08413)|-|-|
 |**2024-3-17**|**Source-Free Domain Adaptation for Question Answering with Masked Self-training**|M. Yin et.al|[paper](https://arxiv.org/abs/2212.09563)|-|-|
 |**2024-3-17**|**Uncertainty-Aware Pseudo-Label Filtering for Source-Free Unsupervised Domain Adaptation**|Xi Chen et.al|[paper](https://arxiv.org/abs/2403.11256)|[code](https://github.com/chenxi52/UPA.)|<details><summary>detail</summary>Neurocomputing 2024</details>|
 |**2024-3-16**|**SF(DA)$^2$: Source-free Domain Adaptation Through the Lens of Data Augmentation**|Uiwon Hwang et.al|[paper](https://arxiv.org/abs/2403.10834)|[code](https://github.com/shinyflight/SFDA2)|<details><summary>detail</summary>ICLR 2024</details>|
+|**2024-3-16**|**Source-Free Domain Adaptive Detection of Concealed Objects in Passive Millimeter-Wave Images**|H Yang et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10019315/)|-|<details><summary>detail</summary>IEEE Transactions on…, 2023 ieeexplore.ieee.org</details>|
 |**2024-3-13**|**De-Confusing Pseudo-Labels in Source-Free Domain Adaptation**|Idit Diamant et.al|[paper](https://arxiv.org/abs/2401.01650)|-|-|
 |**2024-3-13**|**Source-Free Domain Adaptation with Frozen Multimodal Foundation Model**|Song Tang et.al|[paper](https://arxiv.org/abs/2311.16510)|-|<details><summary>detail</summary>CVPR 2024</details>|
 
@@ -97,16 +107,25 @@
 |**2024-4-17**|**GLaM: Fine-Tuning Large Language Models for Domain Knowledge Graph Alignment via Neighborhood Partitioning and Generative Subgraph Encoding**|Stefan Dernbach et.al|[paper](https://arxiv.org/abs/2402.06764)|-|<details><summary>detail</summary>Published in AAAI Spring Symposium: AAAI-MAKE 2024</details>|
 |**2024-4-17**|**A2XP: Towards Private Domain Generalization**|Geunhyeok Yu et.al|[paper](https://arxiv.org/abs/2311.10339)|[code](https://github.com/AIRLABkhu/A2XP)|<details><summary>detail</summary>CVPR 2024</details>|
 |**2024-4-16**|**BDAN: Mitigating Temporal Difference Across Electrodes in Cross-Subject Motor Imagery Classification via Generative Bridging Domain**|Zhige Chen et.al|[paper](https://arxiv.org/abs/2404.10494)|-|-|
+|**2024-4-16**|**Domain Generalization with Global Sample Mixup**|Y Lu et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25075-0_35)|-|<details><summary>detail</summary>European Conference on Computer…, 2023 Springer</details>|
+|**2024-4-16**|**Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions**|Q Li et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0951832023000868)|-|<details><summary>detail</summary>Reliability Engineering &…, 2023 Elsevier</details>|
 |**2024-4-15**|**Clustering-based Image-Text Graph Matching for Domain Generalization**|Nokyung Park et.al|[paper](https://arxiv.org/abs/2310.02692)|-|-|
 |**2024-4-15**|**RanLayNet: A Dataset for Document Layout Detection used for Domain Adaptation and Generalization**|Avinash Anand et.al|[paper](https://arxiv.org/abs/2404.09530)|-|-|
 |**2024-4-14**|**Domain Generalization for Crop Segmentation with Standardized Ensemble Knowledge Distillation**|Simone Angarano et.al|[paper](https://arxiv.org/abs/2304.01029)|-|-|
+|**2024-4-14**|**On the Hyperparameters influencing a PINN's generalization beyond the training domain**|A Bonfanti et.al|[paper](https://arxiv.org/abs/2302.07557)|-|-|
 |**2024-4-13**|**PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization**|Zining Chen et.al|[paper](https://arxiv.org/abs/2404.09011)|-|<details><summary>detail</summary>CVPR2024</details>|
+|**2024-4-13**|**Robust Representation Learning with Self-Distillation for Domain Generalization**|A Singh et.al|[paper](https://arxiv.org/abs/2302.06874)|[code](https://github.com/tongkunguan/ccd)|-|
 |**2024-4-12**|**DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaptation by Combining 3D GANs and Diffusion Priors**|Biwen Lei et.al|[paper](https://arxiv.org/abs/2312.16837)|[code](https://younglbw.github.io/DiffusionGAN3D-homepage/.)|<details><summary>detail</summary>Accepted by CVPR2024</details>|
-|**2024-4-12**|**Robust Representation Learning with Self-Distillation for Domain Generalization**|Ankur Singh et.al|[paper](https://arxiv.org/abs/2302.06874)|-|-|
 |**2024-4-11**|**DGMamba: Domain Generalization via Generalized State Space Model**|Shaocong Long et.al|[paper](https://arxiv.org/abs/2404.07794)|-|-|
 |**2024-4-11**|**Generating consistent PDDL domains with Large Language Models**|Pavel Smirnov et.al|[paper](https://arxiv.org/abs/2404.07751)|-|-|
+|**2024-4-11**|**Cross-corpora spoken language identification with domain diversification and generalization**|S Dey et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0885230823000086)|[code](https://paperswithcode.com/paper/cross-corpora-spoken-language-identification)|<details><summary>detail</summary>Computer Speech & Language, 2023 Elsevier</details>|
 |**2024-4-10**|**Benchmarking Algorithms for Federated Domain Generalization**|Ruqi Bai et.al|[paper](https://arxiv.org/abs/2307.04942)|[code](https://github.com/inouye-lab/FedDG_Benchmark.)|-|
 |**2024-4-10**|**DG-TTA: Out-of-domain medical image segmentation through Domain Generalization and Test-Time Adaptation**|Christian Weihsbach et.al|[paper](https://arxiv.org/abs/2312.06275)|[code](https://github.com/multimodallearning/DG-TTA)|<details><summary>detail</summary>MSC Class:92C55 (Primary)</details>|
+|**2024-4-9**|**Domain-Conditioned Normalization for Test-Time Domain Generalization**|Y Jiang et.al|[paper](https://link.springer.com/chapter/10.1007/978-3-031-25085-9_17)|[code](https://github.com/ucsfncl/dmri-swin)|<details><summary>detail</summary>Computer Vision–ECCV…, 2023 Springer</details>|
+|**2024-4-8**|**Domain Generalization by Functional Regression**|M Holzleitner et.al|[paper](https://arxiv.org/abs/2302.04724)|[code](https://github.com/wzell/funcregr4domgen)|-|
+|**2024-4-5**|**Leveraging Domain Relations for Domain Generalization**|H Yao et.al|[paper](https://arxiv.org/abs/2302.02609)|[code](https://github.com/rusty1s/pytorch_geometric)|-|
+|**2024-4-3**|**Aggregation of Disentanglement: Reconsidering Domain Variations in Domain Generalization**|D Zhang et.al|[paper](https://arxiv.org/abs/2302.02350)|[code](https://paperswithcode.com/paper/aggregation-of-disentanglement-reconsidering)|-|
+|**2024-4-1**|**Domain Generalization Emerges from Dreaming**|H Heo et.al|[paper](https://arxiv.org/abs/2302.00980)|[code](https://paperswithcode.com/paper/domain-generalization-emerges-from-dreaming)|-|
 
 ## vision language
 
