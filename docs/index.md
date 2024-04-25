@@ -72,11 +72,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-4-23**|**Domain Adaptation for Learned Image Compression with Supervised Adapters**|Alberto Presta et.al|[paper](https://arxiv.org/abs/2404.15591)|-|-|
+|**2024-4-23**|**Adaptive Prompt Learning with Negative Textual Semantics and Uncertainty Modeling for Universal Multi-Source Domain Adaptation**|Yuxiang Yang et.al|[paper](https://arxiv.org/abs/2404.14696)|-|<details><summary>detail</summary>Accepted by ICME2024</details>|
 |**2024-4-23**|**Source-free Domain Adaptation for Video Object Detection Under Adverse Image Conditions**|Xingguang Zhang et.al|[paper](https://arxiv.org/abs/2404.15252)|-|<details><summary>detail</summary>accepted by the UG2+ workshop at CVPR 2024</details>|
 |**2024-4-23**|**DAWN: Domain-Adaptive Weakly Supervised Nuclei Segmentation via Cross-Task Interactions**|Ye Zhang et.al|[paper](https://arxiv.org/abs/2404.14956)|[code](https://github.com/zhangye-zoe/DAWN.)|-|
 |**2024-4-23**|**Domain adaptive pose estimation via multi-level alignment**|Yugan Chen et.al|[paper](https://arxiv.org/abs/2404.14885)|-|-|
 |**2024-4-22**|**Unsupervised Domain Adaptation Architecture Search with Self-Training for Land Cover Mapping**|Clifford Broni-Bediako et.al|[paper](https://arxiv.org/abs/2404.14704)|[code](https://github.com/cliffbb/UDA-NAS)|<details><summary>detail</summary>CVPRW 2024</details>|
-|**2024-4-22**|**Adaptive Prompt Learning with Negative Textual Semantics and Uncertainty Modeling for Universal Multi-Source Domain Adaptation**|Yuxiang Yang et.al|[paper](https://arxiv.org/abs/2404.14696)|-|<details><summary>detail</summary>Accepted by ICME2024</details>|
 |**2024-4-22**|**UrbanCross: Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation**|Siru Zhong et.al|[paper](https://arxiv.org/abs/2404.14241)|-|-|
 |**2024-4-21**|**Lighter, Better, Faster Multi-Source Domain Adaptation with Gaussian Mixture Models and Optimal Transport**|Eduardo Fernandes Montesuma et.al|[paper](https://arxiv.org/abs/2404.10261)|-|-|
 |**2024-4-21**|**Kurcuma: a kitchen utensil recognition collection for unsupervised domain adaptation**|A Rosello et.al|[paper](https://link.springer.com/article/10.1007/s10044-023-01147-x)|-|<details><summary>detail</summary>Mas, AJ Gallego… Pattern Analysis and…, 2023 Springer</details>|
@@ -96,7 +97,6 @@
 |**2024-4-19**|**Infrared ship target segmentation based on Adversarial Domain Adaptation**|T Zhang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0950705123000941)|-|<details><summary>detail</summary>Knowledge Based…, 2023 Elsevier</details>|
 |**2024-4-18**|**A Weight-aware-based Multi-source Unsupervised Domain Adaptation Method for Human Motion Intention Recognition**|Xiao-Yin Liu et.al|[paper](https://arxiv.org/abs/2404.15366)|-|-|
 |**2024-4-17**|**Learning from Unlabelled Data with Transformers: Domain Adaptation for Semantic Segmentation of High Resolution Aerial Images**|Nikolaos Dionelis et.al|[paper](https://arxiv.org/abs/2404.11299)|-|-|
-|**2024-4-17**|**DACAD: Domain Adaptation Contrastive Learning for Anomaly Detection in Multivariate Time Series**|Zahra Zamanzadeh Darban et.al|[paper](https://arxiv.org/abs/2404.11269)|-|-|
 
 ## domain generalization
 
