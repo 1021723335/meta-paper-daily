@@ -42,6 +42,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-5-6**|**Collecting Consistently High Quality Object Tracks with Minimal Human Involvement by Using Self-Supervised Learning to Detect Tracker Errors**|Samreen Anjum et.al|[paper](https://arxiv.org/abs/2405.03643)|-|-|
+|**2024-5-6**|**Low-light Object Detection**|Pengpeng Li et.al|[paper](https://arxiv.org/abs/2405.03519)|-|-|
+|**2024-5-6**|**Salient Object Detection From Arbitrary Modalities**|Nianchang Huang et.al|[paper](https://arxiv.org/abs/2405.03352)|-|<details><summary>detail</summary>15 Pages</details>|
+|**2024-5-6**|**Modality Prompts for Arbitrary Modality Salient Object Detection**|Nianchang Huang et.al|[paper](https://arxiv.org/abs/2405.03351)|-|-|
+|**2024-5-6**|**Generalised envelope spectrum-based signal-to-noise objectives: Formulation, optimisation and application for gear fault detection under time-varying speed conditions**|Stephan Schmidt et.al|[paper](https://arxiv.org/abs/2405.00727)|-|-|
 |**2024-5-5**|**SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**|Tushar Verma et.al|[paper](https://arxiv.org/abs/2405.01699)|-|-|
 |**2024-5-5**|**Performance Evaluation of Real-Time Object Detection for Electric Scooters**|Dong Chen et.al|[paper](https://arxiv.org/abs/2405.03039)|[code](https://zenodo.org/records/10578641))|-|
 |**2024-5-5**|**SalFAU-Net: Saliency Fusion Attention U-Net for Salient Object Detection**|Kassaw Abraham Mulat et.al|[paper](https://arxiv.org/abs/2405.02906)|-|-|
@@ -62,11 +67,6 @@
 |**2024-5-2**|**Towards Consistent Object Detection via LiDAR-Camera Synergy**|Kai Luo et.al|[paper](https://arxiv.org/abs/2405.01258)|[code](https://github.com/xifen523/COD.)|<details><summary>detail</summary>The source code will be made publicly available at https://github</details>|
 |**2024-5-2**|**Federated Learning with Heterogeneous Data Handling for Robust Vehicular Object Detection**|Ahmad Khalil et.al|[paper](https://arxiv.org/abs/2405.01108)|-|-|
 |**2024-5-2**|**Automotive Object Detection via Learning Sparse Events by Spiking Neurons**|Hu Zhang et.al|[paper](https://arxiv.org/abs/2307.12900)|-|-|
-|**2024-4-30**|**Object Detection for Automated Coronary Artery Using Deep Learning**|Hadis Keshavarz et.al|[paper](https://arxiv.org/abs/2312.12135)|-|<details><summary>detail</summary>The results in the article need fundamental corrections</details>|
-|**2024-4-30**|**Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection**|Zhanwei Zhang et.al|[paper](https://arxiv.org/abs/2404.19384)|[code](https://github.com/Zhanwei-Z/PERE.)|<details><summary>detail</summary>Accepted by CVPR2024</details>|
-|**2024-4-29**|**UncertaintyTrack: Exploiting Detection and Localization Uncertainty in Multi-Object Tracking**|Chang Won Lee et.al|[paper](https://arxiv.org/abs/2402.12303)|[code](https://github.com/TRAILab/UncertaintyTrack)|<details><summary>detail</summary>ICRA 2024</details>|
-|**2024-4-29**|**MiPa: Mixed Patch Infrared-Visible Modality Agnostic Object Detection**|Heitor R. Medeiros et.al|[paper](https://arxiv.org/abs/2404.18849)|[code](https://github.com/heitorrapela/MiPa)|-|
-|**2024-4-29**|**Illicit object detection in X-ray images using Vision Transformers**|Jorgen Cani et.al|[paper](https://arxiv.org/abs/2403.19043)|-|-|
 
 ## domain adaptation
 
@@ -132,6 +132,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-5-6**|**Exploring Interactive Semantic Alignment for Efficient HOI Detection with Vision-language Model**|Jihao Dong et.al|[paper](https://arxiv.org/abs/2404.12678)|-|<details><summary>detail</summary>There are issues with the experimental results</details>|
+|**2024-5-6**|**Quantity Matters: Towards Assessing and Mitigating Number Hallucination in Large Vision-Language Models**|Huixuan Zhang et.al|[paper](https://arxiv.org/abs/2403.01373)|-|-|
+|**2024-5-6**|**Light-VQA+: A Video Quality Assessment Model for Exposure Correction with Vision-Language Guidance**|Xunchu Zhou et.al|[paper](https://arxiv.org/abs/2405.03333)|-|-|
 |**2024-5-6**|**Adapting Dual-encoder Vision-language Models for Paraphrased Retrieval**|Jiacheng Cheng et.al|[paper](https://arxiv.org/abs/2405.03190)|-|-|
 |**2024-5-5**|**A Survey on Hallucination in Large Vision-Language Models**|Hanchao Liu et.al|[paper](https://arxiv.org/abs/2402.00253)|-|-|
 |**2024-5-5**|**Open-ended VQA benchmarking of Vision-Language models by exploiting Classification datasets and their semantic hierarchy**|Simon Ging et.al|[paper](https://arxiv.org/abs/2402.07270)|-|<details><summary>detail</summary>Accepted as Spotlight Paper for ICLR 2024</details>|
@@ -144,9 +147,6 @@
 |**2024-5-3**|**What matters when building vision-language models?**|Hugo Laurençon et.al|[paper](https://arxiv.org/abs/2405.02246)|-|-|
 |**2024-5-2**|**Improving Concept Alignment in Vision-Language Concept Bottleneck Models**|Nithish Muthuchamy Selvaraj et.al|[paper](https://arxiv.org/abs/2405.01825)|-|-|
 |**2024-5-2**|**Understanding Retrieval-Augmented Task Adaptation for Vision-Language Models**|Yifei Ming et.al|[paper](https://arxiv.org/abs/2405.01468)|-|<details><summary>detail</summary>The paper is accepted at ICML 2024</details>|
-|**2024-5-2**|**Creative Problem Solving in Large Language and Vision Models -- What Would it Take?**|Lakshmi Nair et.al|[paper](https://arxiv.org/abs/2405.01453)|[code](https://github.com/lnairGT/creative-problem-solving-LLMs)|-|
-|**2024-5-2**|**CLIP4STR: A Simple Baseline for Scene Text Recognition with Pre-trained Vision-Language Model**|Shuai Zhao et.al|[paper](https://arxiv.org/abs/2305.14014)|[code](https://github.com/VamosC/CLIP4STR)|<details><summary>detail</summary>Preprint</details>|
-|**2024-5-2**|**Few Shot Class Incremental Learning using Vision-Language models**|Anurag Kumar et.al|[paper](https://arxiv.org/abs/2405.01040)|-|<details><summary>detail</summary>under review at Pattern Recognition Letters</details>|
 |**2024-5-2**|**Weakly-Supervised HOI Detection from Interaction Labels Only and Language/Vision-Language Priors**|M Erhan Unal et.al|[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230305546E/abstract)|[code](https://paperswithcode.com/paper/weakly-supervised-hoi-detection-from)|-|
 |**2024-5-2**|**Scaling Vision-Language Models with Sparse Mixture of Experts**|S Shen et.al|[paper](https://arxiv.org/abs/2303.07226)|[code](https://github.com/google-research/vmoe)|-|
 |**2024-5-2**|**Vision-Language Models as Success Detectors**|Y Du et.al|[paper](https://arxiv.org/abs/2303.07280)|[code](https://github.com/dyabel/detpro)|-|
