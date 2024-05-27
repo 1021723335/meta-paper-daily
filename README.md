@@ -132,6 +132,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-5-24**|**LM4LV: A Frozen Large Language Model for Low-level Vision Tasks**|Boyang Zheng et.al|[paper](https://arxiv.org/abs/2405.15734)|-|-|
+|**2024-5-24**|**Disease-informed Adaptation of Vision-Language Models**|Jiajin Zhang et.al|[paper](https://arxiv.org/abs/2405.15728)|-|<details><summary>detail</summary>Early Accepted by MICCAI 2024</details>|
 |**2024-5-24**|**Exploring Interactive Semantic Alignment for Efficient HOI Detection with Vision-language Model**|Jihao Dong et.al|[paper](https://arxiv.org/abs/2404.12678)|-|-|
 |**2024-5-24**|**Align as Ideal: Cross-Modal Alignment Binding for Federated Medical Vision-Language Pre-training**|Zitao Shuai et.al|[paper](https://arxiv.org/abs/2404.03854)|-|-|
 |**2024-5-24**|**No Filter: Cultural and Socioeconomic Diversity in Contrastive Vision-Language Models**|Angéline Pouget et.al|[paper](https://arxiv.org/abs/2405.13777)|-|-|
@@ -145,8 +147,6 @@
 |**2024-5-23**|**CLAP4CLIP: Continual Learning with Probabilistic Finetuning for Vision-Language Models**|Saurav Jha et.al|[paper](https://arxiv.org/abs/2403.19137)|[code](https://github.com/srvCodes/clap4clip)|<details><summary>detail</summary>Work under review</details>|
 |**2024-5-23**|**Calibrated Self-Rewarding Vision Language Models**|Yiyang Zhou et.al|[paper](https://arxiv.org/abs/2405.14622)|[code](https://github.com/YiyangZhou/CSR.)|-|
 |**2024-5-23**|**Explaining Multi-modal Large Language Models by Analyzing their Vision Perception**|Loris Giulivi et.al|[paper](https://arxiv.org/abs/2405.14612)|-|-|
-|**2024-5-23**|**UDKAG: Augmenting Large Vision-Language Models with Up-to-Date Knowledge**|Chuanhao Li et.al|[paper](https://arxiv.org/abs/2405.14554)|-|-|
-|**2024-5-23**|**Unveiling the Tapestry of Consistency in Large Vision-Language Models**|Yuan Zhang et.al|[paper](https://arxiv.org/abs/2405.14156)|-|-|
 |**2024-5-22**|**Weakly-Supervised HOI Detection from Interaction Labels Only and Language/Vision-Language Priors**|M Erhan Unal et.al|[paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230305546E/abstract)|[code](https://paperswithcode.com/paper/weakly-supervised-hoi-detection-from)|-|
 |**2024-5-22**|**Scaling Vision-Language Models with Sparse Mixture of Experts**|S Shen et.al|[paper](https://arxiv.org/abs/2303.07226)|[code](https://github.com/google-research/vmoe)|-|
 |**2024-5-22**|**Vision-Language Models as Success Detectors**|Y Du et.al|[paper](https://arxiv.org/abs/2303.07280)|[code](https://github.com/dyabel/detpro)|-|
