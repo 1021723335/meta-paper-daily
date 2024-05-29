@@ -12,6 +12,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-5-28**|**Empowering Source-Free Domain Adaptation with MLLM-driven Curriculum Learning**|Dongjie Chen et.al|[paper](https://arxiv.org/abs/2405.18376)|[code](https://github.com/Dong-Jie-Chen/RCL.)|-|
 |**2024-5-25**|**Reliable Source Approximation: Source-Free Unsupervised Domain Adaptation for Vestibular Schwannoma MRI Segmentation**|Hongye Zeng et.al|[paper](https://arxiv.org/abs/2405.16102)|[code](https://github.com/zenghy96/Reliable-Source-Approximation.)|<details><summary>detail</summary>Early accepted by MICCAI 2024</details>|
 |**2024-5-23**|**Selection, Ensemble, and Adaptation: Advancing Multi-Source-Free Domain Adaptation via Architecture Zoo**|Jiangbo Pei et.al|[paper](https://arxiv.org/abs/2403.01582)|-|-|
 |**2024-5-23**|**SpGesture: Source-Free Domain-adaptive sEMG-based Gesture Recognition with Jaccard Attentive Spiking Neural Network**|Weiyu Guo et.al|[paper](https://arxiv.org/abs/2405.14398)|[code](https://anonymous.4open.science/r/SpGesture.)|-|
@@ -36,12 +37,12 @@
 |**2024-4-23**|**Source-free Domain Adaptation for Video Object Detection Under Adverse Image Conditions**|Xingguang Zhang et.al|[paper](https://arxiv.org/abs/2404.15252)|-|<details><summary>detail</summary>accepted by the UG2+ workshop at CVPR 2024</details>|
 |**2024-4-16**|**Uncertainty-guided Open-Set Source-Free Unsupervised Domain Adaptation with Target-private Class Segregation**|Mattia Litrico et.al|[paper](https://arxiv.org/abs/2404.10574)|-|-|
 |**2024-4-9**|**Self-training via Metric Learning for Source-Free Domain Adaptation of Semantic Segmentation**|Ibrahim Batuhan Akkaya et.al|[paper](https://arxiv.org/abs/2212.04227)|-|<details><summary>detail</summary>This paper is under consideration at Computer Vision and Image Understanding</details>|
-|**2024-3-26**|**Towards Source-free Domain Adaptive Semantic Segmentation via Importance-aware and Prototype-contrast Learning**|Yihong Cao et.al|[paper](https://arxiv.org/abs/2306.01598)|[code](https://github.com/yihong-97/Source-free-IAPC.)|<details><summary>detail</summary>IEEE Transactions on Intelligent Vehicles (T-IV)</details>|
 
 ## object detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-5-28**|**A Review and Implementation of Object Detection Models and Optimizations for Real-time Medical Mask Detection during the COVID-19 Pandemic**|Ioanna Gogou et.al|[paper](https://arxiv.org/abs/2405.18387)|-|<details><summary>detail</summary>Journal ref:2022 International Conference on INnovations in Intelligent SysTems and Applications (INISTA)</details>|
 |**2024-5-28**|**Intent3D: 3D Object Detection in RGB-D Scans Based on Human Intention**|Weitai Kang et.al|[paper](https://arxiv.org/abs/2405.18295)|-|-|
 |**2024-5-27**|**Hardness-Aware Scene Synthesis for Semi-Supervised 3D Object Detection**|Shuai Zeng et.al|[paper](https://arxiv.org/abs/2405.17422)|[code](https://github.com/wzzheng/HASS.)|<details><summary>detail</summary>Code is available at: https://github</details>|
 |**2024-5-27**|**Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection**|Feiran Li et.al|[paper](https://arxiv.org/abs/2405.09782)|[code](https://github.com/Ferry-Li/SI-SOD.)|<details><summary>detail</summary>This paper has been accepted by ICML2024</details>|
@@ -66,12 +67,13 @@
 |**2024-5-24**|**Domain Generalisation for Object Detection under Covariate and Concept Shift**|Karthik Seemakurthy et.al|[paper](https://arxiv.org/abs/2203.05294)|-|-|
 |**2024-5-24**|**Multimodal Object Detection via Probabilistic a priori Information Integration**|Hafsa El Hafyani et.al|[paper](https://arxiv.org/abs/2405.15596)|-|-|
 |**2024-5-24**|**Mask-based Invisible Backdoor Attacks on Object Detection**|Jeongjin Shin et.al|[paper](https://arxiv.org/abs/2405.09550)|-|-|
-|**2024-5-24**|**Scale-Invariant Feature Disentanglement via Adversarial Learning for UAV-based Object Detection**|Fan Liu et.al|[paper](https://arxiv.org/abs/2405.15465)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-5-28**|**Empowering Source-Free Domain Adaptation with MLLM-driven Curriculum Learning**|Dongjie Chen et.al|[paper](https://arxiv.org/abs/2405.18376)|[code](https://github.com/Dong-Jie-Chen/RCL.)|-|
+|**2024-5-28**|**Assessing Economic Viability: A Comparative Analysis of Total Cost of Ownership for Domain-Adapted Large Language Models versus State-of-the-art Counterparts in Chip Design Coding Assistance**|Amit Sharma et.al|[paper](https://arxiv.org/abs/2404.08850)|-|<details><summary>detail</summary>Paper accepted in IEEE-ACM conference: 2024 IEEE LLM-Aided Design Workshop (LAD)</details>|
 |**2024-5-28**|**SSLChange: A Self-supervised Change Detection Framework Based on Domain Adaptation**|Yitao Zhao et.al|[paper](https://arxiv.org/abs/2405.18224)|[code](https://github.com/MarsZhaoYT/SSLChange)|<details><summary>detail</summary>This manuscript has been submitted to IEEE TGRS and is under review</details>|
 |**2024-5-27**|**Gradually Vanishing Gap in Prototypical Network for Unsupervised Domain Adaptation**|Shanshan Wang et.al|[paper](https://arxiv.org/abs/2405.17774)|-|-|
 |**2024-5-27**|**Consistency Regularisation for Unsupervised Domain Adaptation in Monocular Depth Estimation**|Amir El-Ghoussani et.al|[paper](https://arxiv.org/abs/2405.17704)|[code](https://github.com/AmirMaEl/SemiSupMDE)|<details><summary>detail</summary>Conference on Lifelong Learning Agents (CoLLAs) 2024</details>|
@@ -95,8 +97,6 @@
 |**2024-5-23**|**SCMix: Stochastic Compound Mixing for Open Compound Domain Adaptation in Semantic Segmentation**|Kai Yao et.al|[paper](https://arxiv.org/abs/2405.14278)|-|-|
 |**2024-5-23**|**Infrared ship target segmentation based on Adversarial Domain Adaptation**|T Zhang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0950705123000941)|-|<details><summary>detail</summary>Knowledge Based…, 2023 Elsevier</details>|
 |**2024-5-22**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Yachan Guo et.al|[paper](https://arxiv.org/abs/2405.09682)|-|-|
-|**2024-5-21**|**AD-Aligning: Emulating Human-like Generalization for Cognitive Domain Adaptation in Deep Learning**|Zhuoying Li et.al|[paper](https://arxiv.org/abs/2405.09582)|-|<details><summary>detail</summary>Accepted by 2024 5th International Conference on Electronic Communication and Artificial Intelligence</details>|
-|**2024-5-19**|**DATR: Unsupervised Domain Adaptive Detection Transformer with Dataset-Level Adaptation and Prototypical Alignment**|Jianhong Han et.al|[paper](https://arxiv.org/abs/2405.11765)|[code](https://github.com/h751410234/DATR.)|<details><summary>detail</summary>Manuscript submitted to IEEE Transactions on Image Processing</details>|
 
 ## domain generalization
 
