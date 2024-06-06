@@ -69,6 +69,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-6-5**|**RAFT: Adapting Language Model to Domain Specific RAG**|Tianjun Zhang et.al|[paper](https://arxiv.org/abs/2403.10131)|-|-|
 |**2024-6-5**|**RadBARTsum: Domain Specific Adaption of Denoising Sequence-to-Sequence Models for Abstractive Radiology Report Summarization**|Jinge Wu et.al|[paper](https://arxiv.org/abs/2406.03062)|-|-|
 |**2024-6-5**|**RetrievalQA: Assessing Adaptive Retrieval-Augmented Generation for Short-form Open-Domain Question Answering**|Zihan Zhang et.al|[paper](https://arxiv.org/abs/2402.16457)|[code](https://github.com/hyintell/RetrievalQA)|<details><summary>detail</summary>Findings of ACL 2024</details>|
 |**2024-6-5**|**SYN2REAL: Leveraging Task Arithmetic for Mitigating Synthetic-Real Discrepancies in ASR Domain Adaptation**|Hsuan Su et.al|[paper](https://arxiv.org/abs/2406.02925)|-|-|
@@ -79,7 +80,6 @@
 |**2024-6-2**|**Unsupervised Domain Adaptation for Low-dose CT Reconstruction via Bayesian Uncertainty Alignment**|Kecheng Chen et.al|[paper](https://arxiv.org/abs/2302.13251)|-|<details><summary>detail</summary>Accepted by IEEE Transactions on Neural Networks and Learning Systems</details>|
 |**2024-6-2**|**OpenDAS: Domain Adaptation for Open-Vocabulary Segmentation**|G Yilmaz et.al|[paper](https://arxiv.org/abs/2405.20141)|[code](https://paperswithcode.com/paper/opendas-domain-adaptation-for-open-vocabulary)|-|
 |**2024-6-2**|**Domain Adaptation with Cauchy-Schwarz Divergence**|W Yin et.al|[paper](https://arxiv.org/abs/2405.19978)|[code](https://github.com/ywzcode/CS-adv)|-|
-|**2024-6-2**|**Open-Set Domain Adaptation for Semantic Segmentation**|SA Choe et.al|[paper](https://arxiv.org/abs/2405.19899)|[code](https://github.com/cityu-aim-group/simt)|-|
 |**2024-6-2**|**Automating Construction Safety Inspections using Robots and Unsupervised Deep Domain Adaptation by Backpropagation**|V Bharathi et.al|[paper](https://www.researchgate.net/profile/Borja-Garcia-De-Soto-2/publication/380908848_Automating_Construction_Safety_Inspections_using_Robots_and_Unsupervised_Deep_Domain_Adaptation_by_Backpropagation/links/665565ca0b0d2845745dfdfd/Automating-Construction-Safety-Inspections-using-Robots-and-Unsupervised-Deep-Domain-Adaptation-by-Backpropagation.pdf)|-|<details><summary>detail</summary>researchgate.net</details>|
 |**2024-6-2**|**Sim2world: few-shot domain adaptation for object detection**|MSM Hein - 2024 - dr.ntu.edu.sg et.al|[paper](https://dr.ntu.edu.sg/handle/10356/177717)|-|<details><summary>detail</summary>2024 dr.ntu.edu.sg</details>|
 |**2024-6-2**|**Multi-source refined adversarial domain adaptation with transfer complementarity infusion for IoT intrusion detection under limited samples**|K Li et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0957417424012181)|-|<details><summary>detail</summary>Expert Systems with Applications, 2024 Elsevier</details>|
@@ -87,6 +87,7 @@
 |**2024-6-2**|**Maximum Likelihood Weight Estimation for Partial Domain Adaptation**|L Wen et.al|[paper](https://www.sciencedirect.com/science/article/pii/S002002552400714X)|-|<details><summary>detail</summary>Information Sciences, 2024 Elsevier</details>|
 |**2024-6-2**|**Mind the Gap: Multi-Level Unsupervised Domain Adaptation for Cross-scene Hyperspectral Image Classification**|M Cai et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10543066/)|-|<details><summary>detail</summary>IEEE Transactions on…, 2024 ieeexplore.ieee.org</details>|
 |**2024-6-2**|**Cross-domain Land Cover Classification of Remote Sensing Images based on Full-level Domain Adaptation**|Y Meng et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10543030/)|-|<details><summary>detail</summary>IEEE Journal of…, 2024 ieeexplore.ieee.org</details>|
+|**2024-6-2**|**Open-Set Domain Adaptation for Semantic Segmentation**|SA Choe et.al|[paper](https://arxiv.org/abs/2405.19899)|[code](https://github.com/cityu-aim-group/simt)|-|
 |**2024-5-31**|**Behind Every Domain There is a Shift: Adapting Distortion-aware Vision Transformers for Panoramic Semantic Segmentation**|Jiaming Zhang et.al|[paper](https://arxiv.org/abs/2207.11860)|[code](https://github.com/jamycheung/Trans4PASS.)|<details><summary>detail</summary>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</details>|
 |**2024-5-31**|**Augmentation-based Unsupervised Cross-Domain Functional MRI Adaptation for Major Depressive Disorder Identification**|Yunling Ma et.al|[paper](https://arxiv.org/abs/2406.00085)|-|-|
 |**2024-5-31**|**Self-degraded contrastive domain adaptation for industrial fault diagnosis with bi-imbalanced data**|Gecheng Chen et.al|[paper](https://arxiv.org/abs/2405.20700)|-|-|
@@ -124,6 +125,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-6-5**|**Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models**|Christian Schlarmann et.al|[paper](https://arxiv.org/abs/2402.12336)|[code](https://github.com/chs20/RobustVLM)|<details><summary>detail</summary>ICML 2024 Oral</details>|
 |**2024-6-5**|**Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**|Xintong Wang et.al|[paper](https://arxiv.org/abs/2403.18715)|-|<details><summary>detail</summary>Findings of ACL 2024</details>|
 |**2024-6-5**|**Correctable Landmark Discovery via Large Models for Vision-Language Navigation**|Bingqian Lin et.al|[paper](https://arxiv.org/abs/2405.18721)|[code](https://github.com/expectorlin/CONSOLE.)|<details><summary>detail</summary>Accepted by TPAMI 2024</details>|
 |**2024-6-5**|**Visual-Text Cross Alignment: Refining the Similarity Score in Vision-Language Models**|Jinhao Li et.al|[paper](https://arxiv.org/abs/2406.02915)|-|-|
@@ -137,7 +139,6 @@
 |**2024-6-3**|**ED-SAM: An Efficient Diffusion Sampling Approach to Domain Generalization in Vision-Language Foundation Models**|Thanh-Dat Truong et.al|[paper](https://arxiv.org/abs/2406.01432)|-|-|
 |**2024-6-3**|**Connecting the Dots: Collaborative Fine-tuning for Black-Box Vision-Language Models**|Zhengbo Wang et.al|[paper](https://arxiv.org/abs/2402.04050)|[code](https://github.com/mrflogs/CraFT)|<details><summary>detail</summary>Accepted by ICML 2024</details>|
 |**2024-6-3**|**Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters**|Jiazuo Yu et.al|[paper](https://arxiv.org/abs/2403.11549)|[code](https://github.com/JiazuoYu/MoE-Adapters4CL)|<details><summary>detail</summary>This work is accepted by CVPR2024</details>|
-|**2024-6-3**|**UniQA: Unified Vision-Language Pre-training for Image Quality and Aesthetic Assessment**|Hantao Zhou et.al|[paper](https://arxiv.org/abs/2406.01069)|[code](https://github.com/zht8506/UniQA.)|-|
 |**2024-6-2**|**KerasCV and KerasNLP: Vision and Language Power-Ups**|M Watson et.al|[paper](https://arxiv.org/abs/2405.20247)|[code](https://paperswithcode.com/paper/kerascv-and-kerasnlp-vision-and-language)|-|
 |**2024-6-2**|**Zero-shot object detection and referring expression comprehension using vision-language models**|PA Manicka - 2024 - dr.ntu.edu.sg et.al|[paper](https://dr.ntu.edu.sg/handle/10356/177827)|-|<details><summary>detail</summary>2024 dr.ntu.edu.sg</details>|
 |**2024-6-2**|**Enhancing Large Vision Language Models with Self-Training on Image Comprehension**|Y Deng et.al|[paper](https://arxiv.org/abs/2405.19716)|[code](https://paperswithcode.com/paper/enhancing-large-vision-language-models-with)|-|
