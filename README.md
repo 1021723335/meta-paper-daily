@@ -69,6 +69,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-6-6**|**Everything to the Synthetic: Diffusion-driven Test-time Adaptation via Synthetic-Domain Alignment**|Jiayi Guo et.al|[paper](https://arxiv.org/abs/2406.04295)|[code](https://github.com/SHI-Labs/Diffusion-Driven-Test-Time-Adaptation-via-Synthetic-Domain-Alignment.)|<details><summary>detail</summary>GitHub: https://github</details>|
 |**2024-6-6**|**Improved Factorized Neural Transducer Model For text-only Domain Adaptation**|Junzhe Liu et.al|[paper](https://arxiv.org/abs/2309.09524)|-|<details><summary>detail</summary>Interspeech 2024 cameraready</details>|
 |**2024-6-6**|**Generalizability of Mixture of Domain-Specific Adapters from the Lens of Signed Weight Directions and its Application to Effective Model Pruning**|Tuc Nguyen et.al|[paper](https://arxiv.org/abs/2402.10639)|-|<details><summary>detail</summary>ACL Main 2024</details>|
 |**2024-6-5**|**Bayesian Power Steering: An Effective Approach for Domain Adaptation of Diffusion Models**|Ding Huang et.al|[paper](https://arxiv.org/abs/2406.03683)|-|-|
@@ -93,7 +94,6 @@
 |**2024-6-2**|**Unsupervised Domain Adaptation for Low-dose CT Reconstruction via Bayesian Uncertainty Alignment**|Kecheng Chen et.al|[paper](https://arxiv.org/abs/2302.13251)|-|<details><summary>detail</summary>Accepted by IEEE Transactions on Neural Networks and Learning Systems</details>|
 |**2024-5-31**|**Behind Every Domain There is a Shift: Adapting Distortion-aware Vision Transformers for Panoramic Semantic Segmentation**|Jiaming Zhang et.al|[paper](https://arxiv.org/abs/2207.11860)|[code](https://github.com/jamycheung/Trans4PASS.)|<details><summary>detail</summary>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</details>|
 |**2024-5-31**|**Augmentation-based Unsupervised Cross-Domain Functional MRI Adaptation for Major Depressive Disorder Identification**|Yunling Ma et.al|[paper](https://arxiv.org/abs/2406.00085)|-|-|
-|**2024-5-31**|**Self-degraded contrastive domain adaptation for industrial fault diagnosis with bi-imbalanced data**|Gecheng Chen et.al|[paper](https://arxiv.org/abs/2405.20700)|-|-|
 
 ## domain generalization
 
