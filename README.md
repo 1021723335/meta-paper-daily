@@ -39,6 +39,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-6-10**|**Outlier detection by ensembling uncertainty with negative objectness**|Anja Delić et.al|[paper](https://arxiv.org/abs/2402.15374)|-|-|
+|**2024-6-10**|**UEMM-Air: A Synthetic Multi-modal Dataset for Unmanned Aerial Vehicle Object Detection**|Fan Liu et.al|[paper](https://arxiv.org/abs/2406.06230)|[code](https://github.com/1e12Leon/UEMM-Air))|-|
 |**2024-6-9**|**Mamba YOLO: SSMs-Based YOLO For Object Detection**|Zeyu Wang et.al|[paper](https://arxiv.org/abs/2406.05835)|[code](https://github.com/HZAI-ZJNU/Mamba-YOLO)|-|
 |**2024-6-9**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|Muhammad Nawfal Meeran et.al|[paper](https://arxiv.org/abs/2406.05802)|[code](https://github.com/SpiderNitt/SAM-PM)|-|
 |**2024-6-9**|**A DeNoising FPN With Transformer R-CNN for Tiny Object Detection**|Hou-I Liu et.al|[paper](https://arxiv.org/abs/2406.05755)|[code](https://github.com/hoiliu-0801/DNTR)|<details><summary>detail</summary>The article is accepted by IEEE Transactions on Geoscience and Remote Sensing</details>|
@@ -62,8 +64,6 @@
 |**2024-6-5**|**Global Clipper: Enhancing Safety and Reliability of Transformer-based Object Detection Models**|Qutub Syed Sha et.al|[paper](https://arxiv.org/abs/2406.03229)|-|<details><summary>detail</summary>IJCAI-AISafety'24 Workshop</details>|
 |**2024-6-5**|**Unified-modal Salient Object Detection via Adaptive Prompt Learning**|Kunpeng Wang et.al|[paper](https://arxiv.org/abs/2311.16835)|[code](https://github.com/Angknpng/UniSOD.)|-|
 |**2024-6-5**|**Situation Monitor: Diversity-Driven Zero-Shot Out-of-Distribution Detection using Budding Ensemble Architecture for Object Detection**|Qutub Syed et.al|[paper](https://arxiv.org/abs/2406.03188)|-|<details><summary>detail</summary>Paper accepted at CVPR SAIAD Workshop</details>|
-|**2024-6-5**|**ContrastAlign: Toward Robust BEV Feature Alignment via Contrastive Learning for Multi-Modal 3D Object Detection**|Ziying Song et.al|[paper](https://arxiv.org/abs/2405.16873)|-|-|
-|**2024-6-5**|**Enhanced Automotive Object Detection via RGB-D Fusion in a DiffusionDet Framework**|Eliraz Orfaig et.al|[paper](https://arxiv.org/abs/2406.03129)|-|-|
 
 ## domain adaptation
 
@@ -100,6 +100,7 @@
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
 |**2024-6-10**|**Generalizing to Unseen Domains in Diabetic Retinopathy with Disentangled Representations**|Peng Xia et.al|[paper](https://arxiv.org/abs/2406.06384)|[code](https://github.com/richard-peng-xia/DECO.)|<details><summary>detail</summary>Early Accepted by MICCAI 2024</details>|
+|**2024-6-10**|**Fréchet Wavelet Distance: A Domain-Agnostic Metric for Image Generation**|Lokesh Veeramacheneni et.al|[paper](https://arxiv.org/abs/2312.15289)|-|-|
 |**2024-6-9**|**Causality-inspired Latent Feature Augmentation for Single Domain Generalization**|Jian Xu et.al|[paper](https://arxiv.org/abs/2406.05980)|-|-|
 |**2024-6-9**|**RE-RAG: Improving Open-Domain QA Performance and Interpretability with Relevance Estimator in Retrieval-Augmented Generation**|Kiseung Kim et.al|[paper](https://arxiv.org/abs/2406.05794)|-|-|
 |**2024-6-9**|**DomainRAG: A Chinese Benchmark for Evaluating Domain-specific Retrieval-Augmented Generation**|Shuting Wang et.al|[paper](https://arxiv.org/abs/2406.05654)|-|-|
@@ -120,7 +121,6 @@
 |**2024-6-5**|**WIDIn: Wording Image for Domain-Invariant Representation in Single-Source Domain Generalization**|J Ma et.al|[paper](https://arxiv.org/abs/2405.18405)|[code](https://paperswithcode.com/paper/widin-wording-image-for-domain-invariant)|-|
 |**2024-6-4**|**Domain Game: Disentangle Anatomical Feature for Single Domain Generalized Segmentation**|Hao Chen et.al|[paper](https://arxiv.org/abs/2406.02125)|-|-|
 |**2024-6-4**|**CSDG-FAS: Closed-Space Domain Generalization for Face Anti-spoofing**|K Wang et.al|[paper](https://link.springer.com/article/10.1007/s11263-024-02052-4)|-|<details><summary>detail</summary>International Journal of…, 2024 Springer</details>|
-|**2024-6-3**|**ParisLuco3D: A high-quality target dataset for domain generalization of LiDAR perception**|Jules Sanchez et.al|[paper](https://arxiv.org/abs/2310.16542)|[code](https://npm3d.fr/parisluco3d)|-|
 |**2024-6-3**|**Progressive Diversity Generation for Single Domain Generalization**|D Rui et.al|[paper](https://ieeexplore.ieee.org/abstract/document/10539285/)|[code](https://github.com/mxgmn/WaveFunctionCollapse)|<details><summary>detail</summary>IEEE Transactions on…, 2024 ieeexplore.ieee.org</details>|
 |**2024-6-1**|**Graph-based domain adversarial learning framework for video anomaly detection domain generalization**|X Mei et.al|[paper](https://link.springer.com/article/10.1007/s11227-024-06154-1)|-|<details><summary>detail</summary>The Journal of Supercomputing, 2024 Springer</details>|
 |**2024-6-1**|**Federated Unsupervised Domain Generalization using Global and Local Alignment of Gradients**|F Pourpanah et.al|[paper](https://arxiv.org/abs/2405.16304)|[code](https://paperswithcode.com/paper/federated-unsupervised-domain-generalization)|-|
