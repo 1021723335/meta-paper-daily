@@ -69,6 +69,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-6-13**|**Enhancing Domain Adaptation through Prompt Gradient Alignment**|Hoang Phan et.al|[paper](https://arxiv.org/abs/2406.09353)|-|-|
 |**2024-6-12**|**Evidentially Calibrated Source-Free Time-Series Domain Adaptation with Temporal Imputation**|Mohamed Ragab et.al|[paper](https://arxiv.org/abs/2406.02635)|-|-|
 |**2024-6-12**|**LayeredDoc: Domain Adaptive Document Restoration with a Layer Separation Approach**|Maria Pilligua et.al|[paper](https://arxiv.org/abs/2406.08610)|-|<details><summary>detail</summary>ICDAR 2024 (Athens</details>|
 |**2024-6-12**|**Chinese MentalBERT: Domain-Adaptive Pre-training on Social Media for Chinese Mental Health Text Analysis**|Wei Zhai et.al|[paper](https://arxiv.org/abs/2402.09151)|[code](https://github.com/zwzzzQAQ/Chinese-MentalBERT.)|-|
@@ -93,7 +94,6 @@
 |**2024-6-8**|**Probabilistic Contrastive Learning for Domain Adaptation**|Junjie Li et.al|[paper](https://arxiv.org/abs/2111.06021)|[code](https://github.com/ljjcoder/Probabilistic-Contrastive-Learning.)|<details><summary>detail</summary>Accept by IJCAI2024</details>|
 |**2024-6-8**|**MiniMax Entropy Network: Learning Category-Invariant Features for Domain Adaptation**|Chaofan Tao et.al|[paper](https://arxiv.org/abs/1904.09601)|-|-|
 |**2024-6-7**|**POND: Multi-Source Time Series Domain Adaptation with Information-Aware Prompt Tuning**|Junxiang Wang et.al|[paper](https://arxiv.org/abs/2312.12276)|-|<details><summary>detail</summary>accepted by KDD 2024</details>|
-|**2024-6-6**|**Augmentation-based Unsupervised Cross-Domain Functional MRI Adaptation for Major Depressive Disorder Identification**|Yunling Ma et.al|[paper](https://arxiv.org/abs/2406.00085)|-|-|
 
 ## domain generalization
 
