@@ -42,6 +42,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-6-17**|**V3Det Challenge 2024 on Vast Vocabulary and Open Vocabulary Object Detection: Methods and Results**|Jiaqi Wang et.al|[paper](https://arxiv.org/abs/2406.11739)|[code](https://v3det.openxlab.org.cn/challenge)|-|
+|**2024-6-17**|**Semi-Supervised Domain Adaptation Using Target-Oriented Domain Augmentation for 3D Object Detection**|Yecheol Kim et.al|[paper](https://arxiv.org/abs/2406.11313)|[code](https://github.com/rasd3/TODA.)|<details><summary>detail</summary>IEEE Transactions on Intelligent Vehicles (T-IV)</details>|
+|**2024-6-17**|**Syn-to-Real Unsupervised Domain Adaptation for Indoor 3D Object Detection**|Yunsong Wang et.al|[paper](https://arxiv.org/abs/2406.11311)|-|-|
+|**2024-6-16**|**YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images**|Chenguang Liu et.al|[paper](https://arxiv.org/abs/2404.06180)|[code](https://github.com/dawn-ech/YOLC.)|<details><summary>detail</summary>accepted to TITS</details>|
+|**2024-6-16**|**Efficient Meta-Learning Enabled Lightweight Multiscale Few-Shot Object Detection in Remote Sensing Images**|Wenbin Guan et.al|[paper](https://arxiv.org/abs/2404.18426)|-|-|
 |**2024-6-16**|**SparseDet: A Simple and Effective Framework for Fully Sparse LiDAR-based 3D Object Detection**|Lin Liu et.al|[paper](https://arxiv.org/abs/2406.10907)|-|<details><summary>detail</summary>arXiv admin note: text overlap with arXiv:2401</details>|
 |**2024-6-16**|**Domain Generalisation for Object Detection under Covariate and Concept Shift**|Karthik Seemakurthy et.al|[paper](https://arxiv.org/abs/2203.05294)|-|-|
 |**2024-6-16**|**Masked Feature Compression for Object Detection**|C Dai et.al|[paper](https://www.mdpi.com/2227-7390/12/12/1848)|[code](https://github.com/bosszhe/emiff)|<details><summary>detail</summary>Mathematics, 2024 mdpi.com</details>|
@@ -61,16 +66,16 @@
 |**2024-6-14**|**Revisiting Few-Shot Object Detection with Vision-Language Models**|Anish Madan et.al|[paper](https://arxiv.org/abs/2312.14494)|-|-|
 |**2024-6-14**|**A Three-Stage Model for Camouflaged Object Detection**|T Chen et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862341)|[code](https://github.com/rmcong/fpnet_acmmm23)|<details><summary>detail</summary>Available at SSRN 4862341 papers.ssrn.com</details>|
 |**2024-6-14**|**Multi-Scale Features Extraction and Cross-Stage Features Fusion Network for Small Object Detection (Mcfn)**|D Bian et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862981)|-|<details><summary>detail</summary>Available at SSRN… papers.ssrn.com</details>|
-|**2024-6-13**|**Detection-Rate-Emphasized Multi-objective Evolutionary Feature Selection for Network Intrusion Detection**|Zi-Hang Cheng et.al|[paper](https://arxiv.org/abs/2406.09180)|-|-|
-|**2024-6-13**|**DeTra: A Unified Model for Object Detection and Trajectory Forecasting**|Sergio Casas et.al|[paper](https://arxiv.org/abs/2406.04426)|-|-|
-|**2024-6-13**|**Transfer learning with generative models for object detection on limited datasets**|Matteo Paiano et.al|[paper](https://arxiv.org/abs/2402.06784)|-|-|
-|**2024-6-12**|**BEVSpread: Spread Voxel Pooling for Bird's-Eye-View Representation in Vision-based Roadside 3D Object Detection**|Wenjie Wang et.al|[paper](https://arxiv.org/abs/2406.08785)|-|-|
-|**2024-6-12**|**UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps**|Maciej K Wozniak et.al|[paper](https://arxiv.org/abs/2403.17633)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-6-17**|**Exploring the Benefits of Vision Foundation Models for Unsupervised Domain Adaptation**|Brunó B. Englert et.al|[paper](https://arxiv.org/abs/2406.09896)|-|<details><summary>detail</summary>CVPR 2024 Workshop Proceedings for the Second Workshop on Foundation Models</details>|
+|**2024-6-17**|**Semi-Supervised Domain Adaptation Using Target-Oriented Domain Augmentation for 3D Object Detection**|Yecheol Kim et.al|[paper](https://arxiv.org/abs/2406.11313)|[code](https://github.com/rasd3/TODA.)|<details><summary>detail</summary>IEEE Transactions on Intelligent Vehicles (T-IV)</details>|
+|**2024-6-17**|**Syn-to-Real Unsupervised Domain Adaptation for Indoor 3D Object Detection**|Yunsong Wang et.al|[paper](https://arxiv.org/abs/2406.11311)|-|-|
+|**2024-6-17**|**Development of an Adaptive Multi-Domain Artificial Intelligence System Built using Machine Learning and Expert Systems Technologies**|Jeremy Straub et.al|[paper](https://arxiv.org/abs/2406.11272)|-|-|
+|**2024-6-16**|**Domain Camera Adaptation and Collaborative Multiple Feature Clustering for Unsupervised Person Re-ID**|Yuanpeng Tu et.al|[paper](https://arxiv.org/abs/2208.08624)|-|<details><summary>detail</summary>ACMMM 2022</details>|
 |**2024-6-16**|**ExPLoRA: Parameter-Efficient Extended Pre-Training to Adapt Vision Transformers under Domain Shifts**|Samar Khanna et.al|[paper](https://arxiv.org/abs/2406.10973)|-|-|
 |**2024-6-16**|**COOL: Comprehensive Knowledge Enhanced Prompt Learning for Domain Adaptive Few-shot Fake News Detection**|Yi Ouyang et.al|[paper](https://arxiv.org/abs/2406.10870)|-|-|
 |**2024-6-16**|**Confidence sharing adaptation for out-of-domain human pose and shape estimation**|T Yue et.al|[paper](https://www.sciencedirect.com/science/article/pii/S1077314224001322)|-|<details><summary>detail</summary>Computer Vision and Image…, 2024 Elsevier</details>|
@@ -87,15 +92,10 @@
 |**2024-6-14**|**Domain Adaptive Attention Learning for Unsupervised Person Re-Identification**|Yangru Huang et.al|[paper](https://arxiv.org/abs/1905.10529)|-|-|
 |**2024-6-14**|**Multi-source Unsupervised Domain Adaptation on Graphs with Transferability Modeling**|Tianxiang Zhao et.al|[paper](https://arxiv.org/abs/2406.10425)|-|<details><summary>detail</summary>Journal ref:Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '24)</details>|
 |**2024-6-14**|**Intepretative Deep Learning using Domain Adaptation for Fluorescence Spectroscopy**|Umberto Michelucci et.al|[paper](https://arxiv.org/abs/2406.10031)|-|-|
-|**2024-6-14**|**Exploring the Benefits of Vision Foundation Models for Unsupervised Domain Adaptation**|Brunó B. Englert et.al|[paper](https://arxiv.org/abs/2406.09896)|-|<details><summary>detail</summary>CVPR 2024 Workshop Proceedings for the Second Workshop on Foundation Models</details>|
 |**2024-6-14**|**Novel Deep Learning Domain Adaptation Approach for Object Detection Using Semi-Self Building Dataset and Modified YOLOv4**|A Gomaa et.al|[paper](https://www.mdpi.com/2032-6653/15/6/255)|-|<details><summary>detail</summary>World Electric Vehicle Journal, 2024 mdpi.com</details>|
 |**2024-6-14**|**Global self-sustaining and local inheritance for source-free unsupervised domain adaptation**|L Peng et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0031320324004308)|-|<details><summary>detail</summary>Pattern Recognition, 2024 Elsevier</details>|
 |**2024-6-13**|**Towards Domain Adaptive Neural Contextual Bandits**|Ziyan Wang et.al|[paper](https://arxiv.org/abs/2406.09564)|-|-|
 |**2024-6-13**|**Enhancing Domain Adaptation through Prompt Gradient Alignment**|Hoang Phan et.al|[paper](https://arxiv.org/abs/2406.09353)|-|-|
-|**2024-6-12**|**Evidentially Calibrated Source-Free Time-Series Domain Adaptation with Temporal Imputation**|Mohamed Ragab et.al|[paper](https://arxiv.org/abs/2406.02635)|-|-|
-|**2024-6-12**|**LayeredDoc: Domain Adaptive Document Restoration with a Layer Separation Approach**|Maria Pilligua et.al|[paper](https://arxiv.org/abs/2406.08610)|-|<details><summary>detail</summary>ICDAR 2024 (Athens</details>|
-|**2024-6-12**|**Chinese MentalBERT: Domain-Adaptive Pre-training on Social Media for Chinese Mental Health Text Analysis**|Wei Zhai et.al|[paper](https://arxiv.org/abs/2402.09151)|[code](https://github.com/zwzzzQAQ/Chinese-MentalBERT.)|-|
-|**2024-6-12**|**UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps**|Maciej K Wozniak et.al|[paper](https://arxiv.org/abs/2403.17633)|-|-|
 
 ## domain generalization
 
