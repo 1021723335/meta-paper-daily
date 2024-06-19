@@ -42,6 +42,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-6-18**|**Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection**|Guowen Zhang et.al|[paper](https://arxiv.org/abs/2406.10700)|-|-|
 |**2024-6-18**|**ViDSOD-100: A New Dataset and a Baseline Model for RGB-D Video Salient Object Detection**|Junhao Lin et.al|[paper](https://arxiv.org/abs/2406.12536)|-|<details><summary>detail</summary>Journal ref:International Journal of Computer Vision (2024)</details>|
 |**2024-6-18**|**Uncertainty-Aware AB3DMOT by Variational 3D Object Detection**|Illia Oleksiienko et.al|[paper](https://arxiv.org/abs/2302.05923)|-|-|
 |**2024-6-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al|[paper](https://arxiv.org/abs/2406.12395)|-|-|
@@ -57,7 +58,6 @@
 |**2024-6-16**|**YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images**|Chenguang Liu et.al|[paper](https://arxiv.org/abs/2404.06180)|[code](https://github.com/dawn-ech/YOLC.)|<details><summary>detail</summary>accepted to TITS</details>|
 |**2024-6-16**|**Efficient Meta-Learning Enabled Lightweight Multiscale Few-Shot Object Detection in Remote Sensing Images**|Wenbin Guan et.al|[paper](https://arxiv.org/abs/2404.18426)|-|-|
 |**2024-6-16**|**SparseDet: A Simple and Effective Framework for Fully Sparse LiDAR-based 3D Object Detection**|Lin Liu et.al|[paper](https://arxiv.org/abs/2406.10907)|-|<details><summary>detail</summary>arXiv admin note: text overlap with arXiv:2401</details>|
-|**2024-6-16**|**Domain Generalisation for Object Detection under Covariate and Concept Shift**|Karthik Seemakurthy et.al|[paper](https://arxiv.org/abs/2203.05294)|-|-|
 |**2024-6-16**|**Enhanced Object Detection: A Study on Vast Vocabulary Object Detection Track for V3Det Challenge 2024**|P Wu et.al|[paper](https://arxiv.org/abs/2406.09201)|[code](https://paperswithcode.com/paper/enhanced-object-detection-a-study-on-vast)|-|
 |**2024-6-16**|**ПРИМЕНЕНИЕ MULTI-LABEL КЛАССИФИКАЦИИ И OBJECT DETECTION ДЛЯ КТ-СНИМКОВ**|ПА Сухов et.al|[paper](https://cyberleninka.ru/article/n/primenenie-multi-label-klassifikatsii-i-object-detection-dlya-kt-snimkov)|-|<details><summary>detail</summary>Вестник науки, 2024 cyberleninka.ru</details>|
 |**2024-6-16**|**Environmentally adaptive fast object detection in UAV images**|M Sang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0262885624002075)|-|<details><summary>detail</summary>Image and Vision Computing, 2024 Elsevier</details>|
