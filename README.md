@@ -60,13 +60,9 @@
 |**2024-6-17**|**Environmentally adaptive fast object detection in UAV images**|M Sang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0262885624002075)|-|<details><summary>detail</summary>Image and Vision Computing, 2024 Elsevier</details>|
 |**2024-6-17**|**Highway Abandoned Objects Recognition Based on Open Vocabulary Object Detection Approach**|S Liu et.al|[paper](https://ascelibrary.org/doi/abs/10.1061/9780784485514.045)|-|<details><summary>detail</summary>…on Transportation and…, 2024 ascelibrary.org</details>|
 |**2024-6-17**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|M Nawfal Meeran et.al|[paper](https://ui.adsabs.harvard.edu/abs/2024arXiv240605802N/abstract)|[code](https://github.com/spidernitt/sam-pm)|-|
-|**2024-6-17**|**OV-DAR: Open-Vocabulary Object Detection and Attributes Recognition**|K Chen et.al|[paper](https://link.springer.com/article/10.1007/s11263-024-02144-1)|-|<details><summary>detail</summary>International Journal of…, 2024 Springer</details>|
-|**2024-6-17**|**Advanced Object Detection and Decision Making in Autonomous Medical Response Systems**|J Needhi - 2024 - preprints.org et.al|[paper](https://www.preprints.org/manuscript/202406.0811)|-|<details><summary>detail</summary>2024 preprints.org</details>|
 |**2024-6-16**|**YOLC: You Only Look Clusters for Tiny Object Detection in Aerial Images**|Chenguang Liu et.al|[paper](https://arxiv.org/abs/2404.06180)|[code](https://github.com/dawn-ech/YOLC.)|<details><summary>detail</summary>accepted to TITS</details>|
 |**2024-6-16**|**Efficient Meta-Learning Enabled Lightweight Multiscale Few-Shot Object Detection in Remote Sensing Images**|Wenbin Guan et.al|[paper](https://arxiv.org/abs/2404.18426)|-|-|
 |**2024-6-16**|**SparseDet: A Simple and Effective Framework for Fully Sparse LiDAR-based 3D Object Detection**|Lin Liu et.al|[paper](https://arxiv.org/abs/2406.10907)|-|<details><summary>detail</summary>arXiv admin note: text overlap with arXiv:2401</details>|
-|**2024-6-16**|**A Three-Stage Model for Camouflaged Object Detection**|T Chen et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862341)|[code](https://github.com/rmcong/fpnet_acmmm23)|<details><summary>detail</summary>Available at SSRN 4862341 papers.ssrn.com</details>|
-|**2024-6-16**|**Multi-Scale Features Extraction and Cross-Stage Features Fusion Network for Small Object Detection (Mcfn)**|D Bian et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862981)|-|<details><summary>detail</summary>Available at SSRN… papers.ssrn.com</details>|
 
 ## domain adaptation
 
