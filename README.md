@@ -42,6 +42,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-6-24**|**Exploring Test-Time Adaptation for Object Detection in Continually Changing Environments**|Shilei Cao et.al|[paper](https://arxiv.org/abs/2406.16439)|-|-|
 |**2024-6-23**|**Utilizing Graph Generation for Enhanced Domain Adaptive Object Detection**|Mu Wang et.al|[paper](https://arxiv.org/abs/2406.06535)|-|-|
 |**2024-6-23**|**Masked Feature Compression for Object Detection**|C Dai et.al|[paper](https://www.mdpi.com/2227-7390/12/12/1848)|[code](https://github.com/bosszhe/emiff)|<details><summary>detail</summary>Mathematics, 2024 mdpi.com</details>|
 |**2024-6-22**|**DASSF: Dynamic-Attention Scale-Sequence Fusion for Aerial Object Detection**|Haodong Li et.al|[paper](https://arxiv.org/abs/2406.12285)|-|-|
@@ -65,12 +66,13 @@
 |**2024-6-19**|**DPO: Dual-Perturbation Optimization for Test-time Adaptation in 3D Object Detection**|Zhuoxiao Chen et.al|[paper](https://arxiv.org/abs/2406.13891)|-|-|
 |**2024-6-19**|**Semantic Enhanced Few-shot Object Detection**|Zheng Wang et.al|[paper](https://arxiv.org/abs/2406.13498)|-|<details><summary>detail</summary>Accepted by ICIP 2024</details>|
 |**2024-6-18**|**Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection**|Guowen Zhang et.al|[paper](https://arxiv.org/abs/2406.10700)|-|-|
-|**2024-6-18**|**ViDSOD-100: A New Dataset and a Baseline Model for RGB-D Video Salient Object Detection**|Junhao Lin et.al|[paper](https://arxiv.org/abs/2406.12536)|-|<details><summary>detail</summary>Journal ref:International Journal of Computer Vision (2024)</details>|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-6-24**|**Unsupervised Domain Adaptation for Pediatric Brain Tumor Segmentation**|Jingru Fu et.al|[paper](https://arxiv.org/abs/2406.16848)|[code](https://github.com/Fjr9516/DA_nnUNet.)|-|
+|**2024-6-24**|**AdaTreeFormer: Few Shot Domain Adaptation for Tree Counting from a Single High-Resolution Image**|Hamed Amini Amirkolaee et.al|[paper](https://arxiv.org/abs/2402.02956)|[code](https://github.com/HAAClassic/AdaTreeFormer)|-|
 |**2024-6-23**|**Source-Free Domain Adaptation with Diffusion-Guided Source Data Generation**|Shivang Chopra et.al|[paper](https://arxiv.org/abs/2402.04929)|-|<details><summary>detail</summary>arXiv admin note: substantial text overlap with arXiv:2310</details>|
 |**2024-6-23**|**Gradual Divergence for Seamless Adaptation: A Novel Domain Incremental Learning Method**|Kishaan Jeeveswaran et.al|[paper](https://arxiv.org/abs/2406.16231)|-|<details><summary>detail</summary>41st International Conference on Machine Learning (ICML 2024)</details>|
 |**2024-6-23**|**Utilizing Graph Generation for Enhanced Domain Adaptive Object Detection**|Mu Wang et.al|[paper](https://arxiv.org/abs/2406.06535)|-|-|
@@ -94,8 +96,6 @@
 |**2024-6-19**|**Advancing UWF-SLO Vessel Segmentation with Source-Free Active Domain Adaptation and a Novel Multi-Center Dataset**|Hongqiu Wang et.al|[paper](https://arxiv.org/abs/2406.13645)|[code](https://github.com/whq-xxh/SFADA-UWF-SLO.)|<details><summary>detail</summary>MICCAI 2024 Early Accept</details>|
 |**2024-6-18**|**Towards Trustworthy Unsupervised Domain Adaptation: A Representation Learning Perspective for Enhancing Robustness, Discrimination, and Generalization**|Jia-Li Yin et.al|[paper](https://arxiv.org/abs/2406.13180)|-|-|
 |**2024-6-18**|**News Without Borders: Domain Adaptation of Multilingual Sentence Embeddings for Cross-lingual News Recommendation**|Andreea Iana et.al|[paper](https://arxiv.org/abs/2406.12634)|-|<details><summary>detail</summary>ACM Class:I</details>|
-|**2024-6-18**|**Causal Discovery Inspired Unsupervised Domain Adaptation for Emotion-Cause Pair Extraction**|Yuncheng Hua et.al|[paper](https://arxiv.org/abs/2406.15490)|-|-|
-|**2024-6-18**|**Domain adaptation strategies for 3D reconstruction of the lumbar spine using real fluoroscopy data**|Sascha Jecklin et.al|[paper](https://arxiv.org/abs/2401.16027)|-|-|
 
 ## domain generalization
 
