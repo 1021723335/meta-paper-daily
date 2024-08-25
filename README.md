@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2024.08.24
+## Updated on 2024.08.25
 
 ## source-free
 
@@ -14,16 +14,6 @@
 |:------|:---------------------|:---|:-|:-|:---|
 |**2024-8-22**|**Rank and Align: Towards Effective Source-free Graph Domain Adaptation**|Junyu Luo et.al|[paper](https://arxiv.org/abs/2408.12185)|-|<details><summary>detail</summary>Published in IJCAI2024</details>|
 |**2024-8-21**|**Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training**|Wenyu Zhang et.al|[paper](https://arxiv.org/abs/2405.02954)|-|<details><summary>detail</summary>Extension of ICCV paper arXiv:2212</details>|
-|**2024-8-21**|**Source-Free Domain Adaptation for Speaker Verification in Data-Scarce Languages and Noisy Channels**|S Salo Elia et.al|[paper](https://ui.adsabs.harvard.edu/abs/2024arXiv240605863S/abstract)|[code](https://paperswithcode.com/paper/source-free-domain-adaptation-for-speaker)|-|
-|**2024-8-20**|**Global self-sustaining and local inheritance for source-free unsupervised domain adaptation**|L Peng et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0031320324004308)|-|<details><summary>detail</summary>Pattern Recognition, 2024 Elsevier</details>|
-|**2024-8-19**|**Unveiling the Unknown: Unleashing the Power of Unknown to Known in Open-Set Source-Free Domain Adaptation**|F Wan et.al|[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wan_Unveiling_the_Unknown_Unleashing_the_Power_of_Unknown_to_Known_CVPR_2024_paper.html)|[code](https://paperswithcode.com/paper/unveiling-the-unknown-unleashing-the-power-of)|<details><summary>detail</summary>Proceedings of the IEEE…, 2024 openaccess.thecvf.com</details>|
-|**2024-8-19**|**Discriminative Pattern Calibration Mechanism for Source-Free Domain Adaptation**|H Xia et.al|[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xia_Discriminative_Pattern_Calibration_Mechanism_for_Source-Free_Domain_Adaptation_CVPR_2024_paper.html)|[code](https://paperswithcode.com/paper/discriminative-pattern-calibration-mechanism)|<details><summary>detail</summary>…of the IEEE/CVF Conference on…, 2024 openaccess.thecvf.com</details>|
-|**2024-8-19**|**Understanding and Improving Source-free Domain Adaptation from a Theoretical Perspective**|Y Mitsuzumi et.al|[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Mitsuzumi_Understanding_and_Improving_Source-free_Domain_Adaptation_from_a_Theoretical_Perspective_CVPR_2024_paper.html)|[code](https://paperswithcode.com/paper/understanding-and-improving-source-free)|<details><summary>detail</summary>Proceedings of the IEEE…, 2024 openaccess.thecvf.com</details>|
-|**2024-8-19**|**Semantics, Distortion, and Style Matter: Towards Source-free UDA for Panoramic Segmentation–Supplementary Material–**|X Zheng et.al|[paper](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Zheng_Semantics_Distortion_and_CVPR_2024_supplemental.pdf)|-|<details><summary>detail</summary>openaccess.thecvf.com</details>|
-|**2024-8-19**|**LEAD: Learning Decomposition for Source-free Universal Domain Adaptation—Supplementary Material**|S Qu et.al|[paper](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Qu_LEAD_Learning_Decomposition_CVPR_2024_supplemental.pdf)|-|<details><summary>detail</summary>Integration openaccess.thecvf.com</details>|
-|**2024-8-19**|**Stable Neighbor Denoising for Source-free Domain Adaptive Segmentation (Supplementary Material)**|D Zhao et.al|[paper](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Zhao_Stable_Neighbor_Denoising_CVPR_2024_supplemental.pdf)|-|<details><summary>detail</summary>openaccess.thecvf.com</details>|
-|**2024-8-19**|**EventDance: Unsupervised Source-free Cross-modal Adaptation for Event-based Object Recognition–Supplementray Material–**|X Zheng et.al|[paper](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Zheng_EventDance_Unsupervised_Source-free_CVPR_2024_supplemental.pdf)|-|<details><summary>detail</summary>openaccess.thecvf.com</details>|
-|**2024-8-19**|**MAP: MAsk-Pruning for Source-Free Model Intellectual Property Protection—Supplementary Material**|B Peng et.al|[paper](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Peng_MAP_MAsk-Pruning_for_CVPR_2024_supplemental.pdf)|-|<details><summary>detail</summary>openaccess.thecvf.com</details>|
 |**2024-8-18**|**Source-Free Test-Time Adaptation For Online Surface-Defect Detection**|Yiran Song et.al|[paper](https://arxiv.org/abs/2408.09494)|-|<details><summary>detail</summary>ICPR 2024</details>|
 |**2024-8-14**|**Evidential Graph Contrastive Alignment for Source-Free Blending-Target Domain Adaptation**|Juepeng Zheng et.al|[paper](https://arxiv.org/abs/2408.07527)|-|-|
 |**2024-8-6**|**Source-Free Domain-Invariant Performance Prediction**|Ekaterina Khramtsova et.al|[paper](https://arxiv.org/abs/2408.02209)|-|<details><summary>detail</summary>Accepted in ECCV 2024</details>|
@@ -42,19 +32,21 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-8-23**|**Masked Feature Compression for Object Detection**|C Dai et.al|[paper](https://www.mdpi.com/2227-7390/12/12/1848)|[code](https://github.com/bosszhe/emiff)|<details><summary>detail</summary>Mathematics, 2024 mdpi.com</details>|
 |**2024-8-22**|**StreamLTS: Query-based Temporal-Spatial LiDAR Fusion for Cooperative Object Detection**|Yunshuang Yuan et.al|[paper](https://arxiv.org/abs/2407.03825)|[code](https://github.com/YuanYunshuang/CoSense3D)|-|
 |**2024-8-22**|**Class-balanced Open-set Semi-supervised Object Detection for Medical Images**|Zhanyun Lu et.al|[paper](https://arxiv.org/abs/2408.12355)|-|-|
 |**2024-8-22**|**OVA-DETR: Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion**|Guoting Wei et.al|[paper](https://arxiv.org/abs/2408.12246)|[code](https://github.com/GT-Wei/OVA-DETR.)|-|
-|**2024-8-22**|**Masked Feature Compression for Object Detection**|C Dai et.al|[paper](https://www.mdpi.com/2227-7390/12/12/1848)|[code](https://github.com/bosszhe/emiff)|<details><summary>detail</summary>Mathematics, 2024 mdpi.com</details>|
+|**2024-8-22**|**Enhanced Object Detection: A Study on Vast Vocabulary Object Detection Track for V3Det Challenge 2024**|P Wu et.al|[paper](https://arxiv.org/abs/2406.09201)|[code](https://paperswithcode.com/paper/enhanced-object-detection-a-study-on-vast)|-|
+|**2024-8-22**|**ПРИМЕНЕНИЕ MULTI-LABEL КЛАССИФИКАЦИИ И OBJECT DETECTION ДЛЯ КТ-СНИМКОВ**|ПА Сухов et.al|[paper](https://cyberleninka.ru/article/n/primenenie-multi-label-klassifikatsii-i-object-detection-dlya-kt-snimkov)|-|<details><summary>detail</summary>Вестник науки, 2024 cyberleninka.ru</details>|
+|**2024-8-22**|**Environmentally adaptive fast object detection in UAV images**|M Sang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0262885624002075)|-|<details><summary>detail</summary>Image and Vision Computing, 2024 Elsevier</details>|
+|**2024-8-22**|**Highway Abandoned Objects Recognition Based on Open Vocabulary Object Detection Approach**|S Liu et.al|[paper](https://ascelibrary.org/doi/abs/10.1061/9780784485514.045)|-|<details><summary>detail</summary>…on Transportation and…, 2024 ascelibrary.org</details>|
+|**2024-8-22**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|M Nawfal Meeran et.al|[paper](https://ui.adsabs.harvard.edu/abs/2024arXiv240605802N/abstract)|[code](https://github.com/spidernitt/sam-pm)|-|
+|**2024-8-22**|**OV-DAR: Open-Vocabulary Object Detection and Attributes Recognition**|K Chen et.al|[paper](https://link.springer.com/article/10.1007/s11263-024-02144-1)|-|<details><summary>detail</summary>International Journal of…, 2024 Springer</details>|
+|**2024-8-22**|**Advanced Object Detection and Decision Making in Autonomous Medical Response Systems**|J Needhi - 2024 - preprints.org et.al|[paper](https://www.preprints.org/manuscript/202406.0811)|-|<details><summary>detail</summary>2024 preprints.org</details>|
 |**2024-8-21**|**CARLA Drone: Monocular 3D Object Detection from a Different Perspective**|Johannes Meier et.al|[paper](https://arxiv.org/abs/2408.11958)|-|-|
 |**2024-8-21**|**Domain-invariant Progressive Knowledge Distillation for UAV-based Object Detection**|Liang Yao et.al|[paper](https://arxiv.org/abs/2408.11407)|-|-|
-|**2024-8-21**|**Enhanced Object Detection: A Study on Vast Vocabulary Object Detection Track for V3Det Challenge 2024**|P Wu et.al|[paper](https://arxiv.org/abs/2406.09201)|[code](https://paperswithcode.com/paper/enhanced-object-detection-a-study-on-vast)|-|
-|**2024-8-21**|**ПРИМЕНЕНИЕ MULTI-LABEL КЛАССИФИКАЦИИ И OBJECT DETECTION ДЛЯ КТ-СНИМКОВ**|ПА Сухов et.al|[paper](https://cyberleninka.ru/article/n/primenenie-multi-label-klassifikatsii-i-object-detection-dlya-kt-snimkov)|-|<details><summary>detail</summary>Вестник науки, 2024 cyberleninka.ru</details>|
-|**2024-8-21**|**Environmentally adaptive fast object detection in UAV images**|M Sang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0262885624002075)|-|<details><summary>detail</summary>Image and Vision Computing, 2024 Elsevier</details>|
-|**2024-8-21**|**Highway Abandoned Objects Recognition Based on Open Vocabulary Object Detection Approach**|S Liu et.al|[paper](https://ascelibrary.org/doi/abs/10.1061/9780784485514.045)|-|<details><summary>detail</summary>…on Transportation and…, 2024 ascelibrary.org</details>|
-|**2024-8-21**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|M Nawfal Meeran et.al|[paper](https://ui.adsabs.harvard.edu/abs/2024arXiv240605802N/abstract)|[code](https://github.com/spidernitt/sam-pm)|-|
-|**2024-8-21**|**OV-DAR: Open-Vocabulary Object Detection and Attributes Recognition**|K Chen et.al|[paper](https://link.springer.com/article/10.1007/s11263-024-02144-1)|-|<details><summary>detail</summary>International Journal of…, 2024 Springer</details>|
-|**2024-8-21**|**Advanced Object Detection and Decision Making in Autonomous Medical Response Systems**|J Needhi - 2024 - preprints.org et.al|[paper](https://www.preprints.org/manuscript/202406.0811)|-|<details><summary>detail</summary>2024 preprints.org</details>|
+|**2024-8-21**|**A Three-Stage Model for Camouflaged Object Detection**|T Chen et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862341)|[code](https://github.com/rmcong/fpnet_acmmm23)|<details><summary>detail</summary>Available at SSRN 4862341 papers.ssrn.com</details>|
+|**2024-8-21**|**Multi-Scale Features Extraction and Cross-Stage Features Fusion Network for Small Object Detection (Mcfn)**|D Bian et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862981)|-|<details><summary>detail</summary>Available at SSRN… papers.ssrn.com</details>|
 |**2024-8-20**|**S$^3$-MonoDETR: Supervised Shape&Scale-perceptive Deformable Transformer for Monocular 3D Object Detection**|Xuan He et.al|[paper](https://arxiv.org/abs/2309.00928)|[code](https://github.com/mikasa3lili/S3-MonoDETR.)|<details><summary>detail</summary>The source code will be made publicly available at https://github</details>|
 |**2024-8-20**|**On the Potential of Open-Vocabulary Models for Object Detection in Unusual Street Scenes**|Sadia Ilyas et.al|[paper](https://arxiv.org/abs/2408.11221)|-|-|
 |**2024-8-20**|**Domain Adaptation based Object Detection for Autonomous Driving in Foggy and Rainy Weather**|Jinlong Li et.al|[paper](https://arxiv.org/abs/2307.09676)|-|<details><summary>detail</summary>the final version</details>|
@@ -65,8 +57,6 @@
 |**2024-8-20**|**Just a Hint: Point-Supervised Camouflaged Object Detection**|Huafeng Chen et.al|[paper](https://arxiv.org/abs/2408.10777)|-|<details><summary>detail</summary>Accepted by ECCV2024</details>|
 |**2024-8-20**|**SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection**|Huafeng Chen et.al|[paper](https://arxiv.org/abs/2408.10760)|-|<details><summary>detail</summary>Accepted by ECCV2024</details>|
 |**2024-8-20**|**A Review of Human-Object Interaction Detection**|Yuxiao Wang et.al|[paper](https://arxiv.org/abs/2408.10641)|-|-|
-|**2024-8-20**|**A Three-Stage Model for Camouflaged Object Detection**|T Chen et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862341)|[code](https://github.com/rmcong/fpnet_acmmm23)|<details><summary>detail</summary>Available at SSRN 4862341 papers.ssrn.com</details>|
-|**2024-8-20**|**Multi-Scale Features Extraction and Cross-Stage Features Fusion Network for Small Object Detection (Mcfn)**|D Bian et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862981)|-|<details><summary>detail</summary>Available at SSRN… papers.ssrn.com</details>|
 
 ## domain adaptation
 
@@ -112,19 +102,11 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2024-8-22**|**Towards Vision-Language Geo-Foundation Model: A Survey**|Y Zhou et.al|[paper](https://www.researchgate.net/profile/Yue-Zhou-139/publication/381403816_Towards_Vision-Language_Geo-Foundation_Model_A_Survey/links/666ba71ea54c5f0b9464c544/Towards-Vision-Language-Geo-Foundation-Model-A-Survey.pdf)|[code](https://github.com/zytx121/awesome-vlgfm)|<details><summary>detail</summary>researchgate.net</details>|
 |**2024-8-21**|**SPARK: Multi-Vision Sensor Perception and Reasoning Benchmark for Large-scale Vision-Language Models**|Youngjoon Yu et.al|[paper](https://arxiv.org/abs/2408.12114)|[code](https://github.com/top-yun/SPARK)|<details><summary>detail</summary>Codes and data are available at https://github</details>|
 |**2024-8-21**|**Video-to-Text Pedestrian Monitoring (VTPM): Leveraging Computer Vision and Large Language Models for Privacy-Preserve Pedestrian Activity Monitoring at Intersections**|Ahmed S. Abdelrahman et.al|[paper](https://arxiv.org/abs/2408.11649)|-|-|
 |**2024-8-21**|**Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training**|Wenyu Zhang et.al|[paper](https://arxiv.org/abs/2405.02954)|-|<details><summary>detail</summary>Extension of ICCV paper arXiv:2212</details>|
 |**2024-8-21**|**AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors**|You-Ming Chang et.al|[paper](https://arxiv.org/abs/2310.17419)|[code](https://github.com/nctu-eva-lab/AntifakePrompt.)|-|
 |**2024-8-21**|**Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**|Kento Kawaharazuka et.al|[paper](https://arxiv.org/abs/2408.11380)|[code](https://haraduka.github.io/omnidirectional-vlm/)|<details><summary>detail</summary>Advanced Robotics</details>|
-|**2024-8-21**|**VLind-Bench: Measuring Language Priors in Large Vision-Language Models**|K Lee et.al|[paper](https://arxiv.org/abs/2406.08702)|[code](https://github.com/klee972/vlind-bench)|-|
-|**2024-8-21**|**How structured are the representations in transformer-based vision encoders? An analysis of multi-object representations in vision-language models**|T Khajuria et.al|[paper](https://arxiv.org/abs/2406.09067)|[code](https://paperswithcode.com/paper/how-structured-are-the-representations-in)|-|
-|**2024-8-21**|**AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models**|Y Wu et.al|[paper](https://arxiv.org/abs/2406.09295)|[code](https://paperswithcode.com/paper/alignmmbench-evaluating-chinese-multimodal)|-|
-|**2024-8-21**|**MirrorCheck: Efficient Adversarial Defense for Vision-Language Models**|S Fares et.al|[paper](https://arxiv.org/abs/2406.09250)|[code](https://paperswithcode.com/paper/mirrorcheck-efficient-adversarial-defense-for)|-|
-|**2024-8-21**|**LLAVIDAL: Benchmarking Large Language Vision Models for Daily Activities of Living**|R Chakraborty et.al|[paper](https://arxiv.org/abs/2406.09390)|[code](https://paperswithcode.com/paper/llavidal-benchmarking-large-language-vision)|-|
-|**2024-8-21**|**OpenVLA: An Open-Source Vision-Language-Action Model**|MJ Kim et.al|[paper](https://arxiv.org/abs/2406.09246)|[code](https://paperswithcode.com/paper/openvla-an-open-source-vision-language-action)|-|
-|**2024-8-21**|**Generative AI-based Prompt Evolution Engineering Design Optimization With Vision-Language Model**|M Wong et.al|[paper](https://arxiv.org/abs/2406.09143)|[code](https://paperswithcode.com/paper/generative-ai-based-prompt-evolution)|-|
 |**2024-8-20**|**Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework**|Xiao Han et.al|[paper](https://arxiv.org/abs/2408.11312)|-|-|
 |**2024-8-20**|**UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation**|Xiangyu Zhao et.al|[paper](https://arxiv.org/abs/2408.11305)|[code](https://github.com/xiangyu-mm/UniFashion.)|-|
 |**2024-8-20**|**Making Large Vision Language Models to be Good Few-shot Learners**|Fan Liu et.al|[paper](https://arxiv.org/abs/2408.11297)|-|-|
@@ -135,6 +117,4 @@
 |**2024-8-20**|**Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation**|Jiaqi Chen et.al|[paper](https://arxiv.org/abs/2407.05890)|-|-|
 |**2024-8-20**|**ViLReF: A Chinese Vision-Language Retinal Foundation Model**|Shengzhu Yang et.al|[paper](https://arxiv.org/abs/2408.10894)|[code](https://github.com/T6Yang/ViLReF.)|-|
 |**2024-8-20**|**SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge**|Chuanhao Li et.al|[paper](https://arxiv.org/abs/2405.14554)|-|-|
-|**2024-8-20**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|J Wu et.al|[paper](https://arxiv.org/abs/2406.08394)|[code](https://github.com/opengvlab/visionllm)|-|
-|**2024-8-20**|**RWKV-CLIP: A Robust Vision-Language Representation Learner**|T Gu et.al|[paper](https://arxiv.org/abs/2406.06973)|[code](https://github.com/deepglint/rwkv-clip)|-|
 
