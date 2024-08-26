@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2024.08.25
+## Updated on 2024.08.26
 
 ## source-free
 
@@ -32,31 +32,21 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2024-8-23**|**Masked Feature Compression for Object Detection**|C Dai et.al|[paper](https://www.mdpi.com/2227-7390/12/12/1848)|[code](https://github.com/bosszhe/emiff)|<details><summary>detail</summary>Mathematics, 2024 mdpi.com</details>|
+|**2024-8-23**|**DeTPP: Leveraging Object Detection for Robust Long-Horizon Event Prediction**|Ivan Karpukhin et.al|[paper](https://arxiv.org/abs/2408.13131)|-|-|
+|**2024-8-23**|**BoostTrack++: using tracklet information to detect more objects in multiple object tracking**|Vukašin Stanojević et.al|[paper](https://arxiv.org/abs/2408.13003)|[code](https://github.com/vukasin-stanojevic/BoostTrack)|-|
+|**2024-8-22**|**CatFree3D: Category-agnostic 3D Object Detection with Diffusion**|Wenjing Bian et.al|[paper](https://arxiv.org/abs/2408.12747)|[code](https://bianwenjing.github.io/CatFree3D)|<details><summary>detail</summary>Project page: https://bianwenjing</details>|
+|**2024-8-22**|**Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection**|Ruixiao Zhang et.al|[paper](https://arxiv.org/abs/2408.12708)|-|<details><summary>detail</summary>Accepted by the ICONIP 2024</details>|
 |**2024-8-22**|**StreamLTS: Query-based Temporal-Spatial LiDAR Fusion for Cooperative Object Detection**|Yunshuang Yuan et.al|[paper](https://arxiv.org/abs/2407.03825)|[code](https://github.com/YuanYunshuang/CoSense3D)|-|
 |**2024-8-22**|**Class-balanced Open-set Semi-supervised Object Detection for Medical Images**|Zhanyun Lu et.al|[paper](https://arxiv.org/abs/2408.12355)|-|-|
 |**2024-8-22**|**OVA-DETR: Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion**|Guoting Wei et.al|[paper](https://arxiv.org/abs/2408.12246)|[code](https://github.com/GT-Wei/OVA-DETR.)|-|
-|**2024-8-22**|**Enhanced Object Detection: A Study on Vast Vocabulary Object Detection Track for V3Det Challenge 2024**|P Wu et.al|[paper](https://arxiv.org/abs/2406.09201)|[code](https://paperswithcode.com/paper/enhanced-object-detection-a-study-on-vast)|-|
-|**2024-8-22**|**ПРИМЕНЕНИЕ MULTI-LABEL КЛАССИФИКАЦИИ И OBJECT DETECTION ДЛЯ КТ-СНИМКОВ**|ПА Сухов et.al|[paper](https://cyberleninka.ru/article/n/primenenie-multi-label-klassifikatsii-i-object-detection-dlya-kt-snimkov)|-|<details><summary>detail</summary>Вестник науки, 2024 cyberleninka.ru</details>|
-|**2024-8-22**|**Environmentally adaptive fast object detection in UAV images**|M Sang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0262885624002075)|-|<details><summary>detail</summary>Image and Vision Computing, 2024 Elsevier</details>|
-|**2024-8-22**|**Highway Abandoned Objects Recognition Based on Open Vocabulary Object Detection Approach**|S Liu et.al|[paper](https://ascelibrary.org/doi/abs/10.1061/9780784485514.045)|-|<details><summary>detail</summary>…on Transportation and…, 2024 ascelibrary.org</details>|
-|**2024-8-22**|**SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention**|M Nawfal Meeran et.al|[paper](https://ui.adsabs.harvard.edu/abs/2024arXiv240605802N/abstract)|[code](https://github.com/spidernitt/sam-pm)|-|
-|**2024-8-22**|**OV-DAR: Open-Vocabulary Object Detection and Attributes Recognition**|K Chen et.al|[paper](https://link.springer.com/article/10.1007/s11263-024-02144-1)|-|<details><summary>detail</summary>International Journal of…, 2024 Springer</details>|
-|**2024-8-22**|**Advanced Object Detection and Decision Making in Autonomous Medical Response Systems**|J Needhi - 2024 - preprints.org et.al|[paper](https://www.preprints.org/manuscript/202406.0811)|-|<details><summary>detail</summary>2024 preprints.org</details>|
 |**2024-8-21**|**CARLA Drone: Monocular 3D Object Detection from a Different Perspective**|Johannes Meier et.al|[paper](https://arxiv.org/abs/2408.11958)|-|-|
 |**2024-8-21**|**Domain-invariant Progressive Knowledge Distillation for UAV-based Object Detection**|Liang Yao et.al|[paper](https://arxiv.org/abs/2408.11407)|-|-|
-|**2024-8-21**|**A Three-Stage Model for Camouflaged Object Detection**|T Chen et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862341)|[code](https://github.com/rmcong/fpnet_acmmm23)|<details><summary>detail</summary>Available at SSRN 4862341 papers.ssrn.com</details>|
-|**2024-8-21**|**Multi-Scale Features Extraction and Cross-Stage Features Fusion Network for Small Object Detection (Mcfn)**|D Bian et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862981)|-|<details><summary>detail</summary>Available at SSRN… papers.ssrn.com</details>|
 |**2024-8-20**|**S$^3$-MonoDETR: Supervised Shape&Scale-perceptive Deformable Transformer for Monocular 3D Object Detection**|Xuan He et.al|[paper](https://arxiv.org/abs/2309.00928)|[code](https://github.com/mikasa3lili/S3-MonoDETR.)|<details><summary>detail</summary>The source code will be made publicly available at https://github</details>|
 |**2024-8-20**|**On the Potential of Open-Vocabulary Models for Object Detection in Unusual Street Scenes**|Sadia Ilyas et.al|[paper](https://arxiv.org/abs/2408.11221)|-|-|
 |**2024-8-20**|**Domain Adaptation based Object Detection for Autonomous Driving in Foggy and Rainy Weather**|Jinlong Li et.al|[paper](https://arxiv.org/abs/2307.09676)|-|<details><summary>detail</summary>the final version</details>|
 |**2024-8-20**|**Quantum Inverse Contextual Vision Transformers (Q-ICVT): A New Frontier in 3D Object Detection for AVs**|Sanjay Bhargav Dharavath et.al|[paper](https://arxiv.org/abs/2408.11207)|[code](https://github.com/sanjay-810/Qicvt)|<details><summary>detail</summary>The paper has been accepted as a short paper at CIKM '24</details>|
 |**2024-8-20**|**Weakly Supervised 3D Object Detection via Multi-Level Visual Guidance**|Kuan-Chih Huang et.al|[paper](https://arxiv.org/abs/2312.07530)|[code](https://github.com/kuanchihhuang/VG-W3D.)|<details><summary>detail</summary>Accepted by ECCV'24</details>|
 |**2024-8-20**|**A Closer Look at Data Augmentation Strategies for Finetuning-Based Low/Few-Shot Object Detection**|Vladislav Li et.al|[paper](https://arxiv.org/abs/2408.10940)|-|-|
-|**2024-8-20**|**LightMDETR: A Lightweight Approach for Low-Cost Open-Vocabulary Object Detection Training**|Binta Sow et.al|[paper](https://arxiv.org/abs/2408.10787)|-|-|
-|**2024-8-20**|**Just a Hint: Point-Supervised Camouflaged Object Detection**|Huafeng Chen et.al|[paper](https://arxiv.org/abs/2408.10777)|-|<details><summary>detail</summary>Accepted by ECCV2024</details>|
-|**2024-8-20**|**SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection**|Huafeng Chen et.al|[paper](https://arxiv.org/abs/2408.10760)|-|<details><summary>detail</summary>Accepted by ECCV2024</details>|
-|**2024-8-20**|**A Review of Human-Object Interaction Detection**|Yuxiao Wang et.al|[paper](https://arxiv.org/abs/2408.10641)|-|-|
 
 ## domain adaptation
 
@@ -82,6 +72,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2024-8-23**|**DOMAINEVAL: An Auto-Constructed Benchmark for Multi-Domain Code Generation**|Qiming Zhu et.al|[paper](https://arxiv.org/abs/2408.13204)|[code](https://domaineval.github.io/.)|-|
 |**2024-8-22**|**Domain Generalization through Meta-Learning: A Survey**|Arsham Gholamzadeh Khoee et.al|[paper](https://arxiv.org/abs/2404.02785)|-|-|
 |**2024-8-22**|**Mixstyle-Entropy: Domain Generalization with Causal Intervention and Perturbation**|Luyao Tang et.al|[paper](https://arxiv.org/abs/2408.03608)|-|<details><summary>detail</summary>Accepted by BMVC2024</details>|
 |**2024-8-21**|**DGMamba: Domain Generalization via Generalized State Space Model**|Shaocong Long et.al|[paper](https://arxiv.org/abs/2404.07794)|[code](https://github.com/longshaocong/DGMamba.)|<details><summary>detail</summary>ACM MM 2024</details>|
@@ -96,13 +87,17 @@
 |**2024-8-11**|**Moment&Cross: Next-Generation Real-Time Cross-Domain CTR Prediction for Live-Streaming Recommendation at Kuaishou**|Jiangxia Cao et.al|[paper](https://arxiv.org/abs/2408.05709)|-|<details><summary>detail</summary>Work in progress</details>|
 |**2024-8-9**|**Generalizing Few Data to Unseen Domains Flexibly Based on Label Smoothing Integrated with Distributionally Robust Optimization**|Yangdi Wang et.al|[paper](https://arxiv.org/abs/2408.05082)|-|-|
 |**2024-8-8**|**HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts**|Hongjun Wang et.al|[paper](https://arxiv.org/abs/2408.04591)|-|-|
-|**2024-8-8**|**Open-domain Implicit Format Control for Large Language Model Generation**|Yiqun Yao et.al|[paper](https://arxiv.org/abs/2408.04392)|[code](https://github.com/cofe-ai/OIFC.)|-|
 
 ## vision language
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2024-8-21**|**SPARK: Multi-Vision Sensor Perception and Reasoning Benchmark for Large-scale Vision-Language Models**|Youngjoon Yu et.al|[paper](https://arxiv.org/abs/2408.12114)|[code](https://github.com/top-yun/SPARK)|<details><summary>detail</summary>Codes and data are available at https://github</details>|
+|**2024-8-23**|**Foundational Model for Electron Micrograph Analysis: Instruction-Tuning Small-Scale Language-and-Vision Assistant for Enterprise Adoption**|Sakhinana Sagar Srinivas et.al|[paper](https://arxiv.org/abs/2408.13248)|-|<details><summary>detail</summary>Our paper is published at ICML 2024 Workshop ML for Life and Material Science: From Theory to Industry Applications</details>|
+|**2024-8-23**|**Solving Robotics Problems in Zero-Shot with Vision-Language Models**|Zidan Wang et.al|[paper](https://arxiv.org/abs/2407.19094)|-|<details><summary>detail</summary>aka Wonderful Team</details>|
+|**2024-8-23**|**ParGo: Bridging Vision-Language with Partial and Global Views**|An-Lan Wang et.al|[paper](https://arxiv.org/abs/2408.12928)|-|-|
+|**2024-8-23**|**SPARK: Multi-Vision Sensor Perception and Reasoning Benchmark for Large-scale Vision-Language Models**|Youngjoon Yu et.al|[paper](https://arxiv.org/abs/2408.12114)|[code](https://github.com/top-yun/SPARK)|<details><summary>detail</summary>Codes and data are available at https://github</details>|
+|**2024-8-23**|**LLaVA-VSD: Large Language-and-Vision Assistant for Visual Spatial Description**|Yizhang Jin et.al|[paper](https://arxiv.org/abs/2408.04957)|-|-|
+|**2024-8-22**|**Building and better understanding vision-language models: insights and future directions**|Hugo Laurençon et.al|[paper](https://arxiv.org/abs/2408.12637)|-|-|
 |**2024-8-21**|**Video-to-Text Pedestrian Monitoring (VTPM): Leveraging Computer Vision and Large Language Models for Privacy-Preserve Pedestrian Activity Monitoring at Intersections**|Ahmed S. Abdelrahman et.al|[paper](https://arxiv.org/abs/2408.11649)|-|-|
 |**2024-8-21**|**Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training**|Wenyu Zhang et.al|[paper](https://arxiv.org/abs/2405.02954)|-|<details><summary>detail</summary>Extension of ICCV paper arXiv:2212</details>|
 |**2024-8-21**|**AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors**|You-Ming Chang et.al|[paper](https://arxiv.org/abs/2310.17419)|[code](https://github.com/nctu-eva-lab/AntifakePrompt.)|-|
@@ -112,9 +107,4 @@
 |**2024-8-20**|**Making Large Vision Language Models to be Good Few-shot Learners**|Fan Liu et.al|[paper](https://arxiv.org/abs/2408.11297)|-|-|
 |**2024-8-20**|**Towards Analyzing and Mitigating Sycophancy in Large Vision-Language Models**|Yunpu Zhao et.al|[paper](https://arxiv.org/abs/2408.11261)|-|-|
 |**2024-8-20**|**Creative Problem Solving in Large Language and Vision Models -- What Would it Take?**|Lakshmi Nair et.al|[paper](https://arxiv.org/abs/2405.01453)|[code](https://github.com/lnairGT/creative-problem-solving-LLMs)|-|
-|**2024-8-20**|**HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models in Resource-Constrained Environments**|Kazi Hasan Ibn Arif et.al|[paper](https://arxiv.org/abs/2408.10945)|-|<details><summary>detail</summary>Preprint</details>|
-|**2024-8-20**|**Vision-Language Dataset Distillation**|Xindi Wu et.al|[paper](https://arxiv.org/abs/2308.07545)|-|-|
-|**2024-8-20**|**Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation**|Jiaqi Chen et.al|[paper](https://arxiv.org/abs/2407.05890)|-|-|
-|**2024-8-20**|**ViLReF: A Chinese Vision-Language Retinal Foundation Model**|Shengzhu Yang et.al|[paper](https://arxiv.org/abs/2408.10894)|[code](https://github.com/T6Yang/ViLReF.)|-|
-|**2024-8-20**|**SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge**|Chuanhao Li et.al|[paper](https://arxiv.org/abs/2405.14554)|-|-|
 
