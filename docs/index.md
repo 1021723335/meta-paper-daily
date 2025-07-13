@@ -6,12 +6,15 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2025.07.12
+## Updated on 2025.07.13
 
 ## source-free
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-10**|**Source-Free Domain Adaptation for Speaker Verification in Data-Scarce Languages and Noisy Channels**|S Salo Elia et.al|[paper](https://ui.adsabs.harvard.edu/abs/2024arXiv240605863S/abstract)|[code](https://paperswithcode.com/paper/source-free-domain-adaptation-for-speaker)|-|
+|**2025-7-9**|**Global self-sustaining and local inheritance for source-free unsupervised domain adaptation**|L Peng et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0031320324004308)|-|<details><summary>detail</summary>Pattern Recognition, 2024 Elsevier</details>|
+|**2025-7-8**|**Unveiling the Unknown: Unleashing the Power of Unknown to Known in Open-Set Source-Free Domain Adaptation**|F Wan et.al|[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wan_Unveiling_the_Unknown_Unleashing_the_Power_of_Unknown_to_Known_CVPR_2024_paper.html)|[code](https://github.com/xdwfl/upuk)|<details><summary>detail</summary>Proceedings of the IEEE…, 2024 openaccess.thecvf.com</details>|
 |**2025-7-4**|**Source-Free Domain Adaptation via Multi-view Contrastive Learning**|Amirfarhad Farhadi et.al|[paper](https://arxiv.org/abs/2507.03321)|-|-|
 |**2025-6-26**|**Recall and Refine: A Simple but Effective Source-free Open-set Domain Adaptation Framework**|Ismail Nejjar et.al|[paper](https://arxiv.org/abs/2411.12558)|-|<details><summary>detail</summary>TMLR 2025</details>|
 |**2025-6-26**|**Unlocking Constraints: Source-Free Occlusion-Aware Seamless Segmentation**|Yihong Cao et.al|[paper](https://arxiv.org/abs/2506.21198)|[code](https://github.com/yihong-97/UNLOCK.)|<details><summary>detail</summary>ICCV 2025</details>|
@@ -72,11 +75,14 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-11**|**Entity-centric multi-domain transformer for improving generalization in fake news detection**|P Bazmi et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0306457324001663)|-|<details><summary>detail</summary>Information Processing &…, 2024 Elsevier</details>|
 |**2025-7-10**|**From Domain Documents to Requirements: Retrieval-Augmented Generation in the Space Industry**|Chetan Arora et.al|[paper](https://arxiv.org/abs/2507.07689)|-|-|
 |**2025-7-10**|**Sparse Causal Discovery with Generative Intervention for Unsupervised Graph Domain Adaptation**|Junyu Luo et.al|[paper](https://arxiv.org/abs/2507.07621)|-|<details><summary>detail</summary>ICML 2025</details>|
+|**2025-7-10**|**Fine-Grained Domain Generalization with Feature Structuralization**|W Yu et.al|[paper](https://arxiv.org/abs/2406.09166)|[code](https://github.com/yuwlong666/fsdg)|-|
 |**2025-7-9**|**SynthTextEval: Synthetic Text Data Generation and Evaluation for High-Stakes Domains**|Krithika Ramesh et.al|[paper](https://arxiv.org/abs/2507.07229)|-|-|
 |**2025-7-9**|**Enhancing Food-Domain Question Answering with a Multimodal Knowledge Graph: Hybrid QA Generation and Diversity Analysis**|Srihari K B et.al|[paper](https://arxiv.org/abs/2507.06571)|-|-|
 |**2025-7-8**|**Fair Domain Generalization: An Information-Theoretic View**|Tangzheng Lian et.al|[paper](https://arxiv.org/abs/2507.05823)|-|-|
+|**2025-7-8**|**Leveraging Vision-Language Models for Improving Domain Generalization in Image Classification**|S Addepalli et.al|[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Addepalli_Leveraging_Vision-Language_Models_for_Improving_Domain_Generalization_in_Image_Classification_CVPR_2024_paper.html)|[code](https://github.com/val-iisc/VL2V-ADiP)|<details><summary>detail</summary>Proceedings of the…, 2024 openaccess.thecvf.com</details>|
 |**2025-7-7**|**AdaptaGen: Domain-Specific Image Generation through Hierarchical Semantic Optimization Framework**|Suoxiang Zhang et.al|[paper](https://arxiv.org/abs/2507.05621)|-|-|
 |**2025-7-7**|**LAID: Lightweight AI-Generated Image Detection in Spatial and Spectral Domains**|Nicholas Chivaran et.al|[paper](https://arxiv.org/abs/2507.05162)|[code](https://github.com/nchivar/LAID.)|<details><summary>detail</summary>To appear in the proceedings of PST2025</details>|
 |**2025-7-6**|**Adversarial Data Augmentation for Single Domain Generalization via Lyapunov Exponent-Guided Optimization**|Zuyu Zhang et.al|[paper](https://arxiv.org/abs/2507.04302)|-|<details><summary>detail</summary>ICCV 2025</details>|
@@ -97,7 +103,6 @@
 |**2025-7-10**|**ViLU: Learning Vision-Language Uncertainties for Failure Prediction**|Marc Lafon et.al|[paper](https://arxiv.org/abs/2507.07620)|[code](https://github.com/ykrmm/ViLU.)|<details><summary>detail</summary>Journal ref:International Conference on Computer Vision</details>|
 |**2025-7-10**|**Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation**|André Schakkal et.al|[paper](https://arxiv.org/abs/2506.22827)|[code](https://vlp-humanoid.github.io/)|<details><summary>detail</summary>the RSS 2025 Workshop on Robot Planning in the Era of Foundation Models</details>|
 |**2025-7-10**|**ArchiveGPT: A human-centered evaluation of using a vision language model for image cataloguing**|Line Abele et.al|[paper](https://arxiv.org/abs/2507.07551)|-|-|
-|**2025-7-10**|**Towards Vision-Language Geo-Foundation Model: A Survey**|Y Zhou et.al|[paper](https://www.researchgate.net/profile/Yue-Zhou-139/publication/381403816_Towards_Vision-Language_Geo-Foundation_Model_A_Survey/links/666ba71ea54c5f0b9464c544/Towards-Vision-Language-Geo-Foundation-Model-A-Survey.pdf)|[code](https://github.com/zytx121/awesome-vlgfm)|<details><summary>detail</summary>researchgate.net</details>|
 |**2025-7-9**|**MapNav: A Novel Memory Representation via Annotated Semantic Maps for Vision-and-Language Navigation**|Lingfeng Zhang et.al|[paper](https://arxiv.org/abs/2502.13451)|-|-|
 |**2025-7-9**|**DLaVA: Document Language and Vision Assistant for Answer Localization with Enhanced Interpretability and Trustworthiness**|Ahmad Mohammadshirazi et.al|[paper](https://arxiv.org/abs/2412.00151)|[code](https://github.com/ahmad-shirazi/AnnotMLLM.)|-|
 |**2025-7-9**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al|[paper](https://arxiv.org/abs/2507.07104)|-|-|
