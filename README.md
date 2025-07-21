@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 
 ## source-free
 
@@ -32,11 +32,14 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-18**|**OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments**|Hayat Ullah et.al|[paper](https://arxiv.org/abs/2507.12396)|-|-|
+|**2025-7-18**|**Enhancing LiDAR Point Features with Foundation Model Priors for 3D Object Detection**|Yujian Mo et.al|[paper](https://arxiv.org/abs/2507.13899)|-|-|
+|**2025-7-18**|**Entropy Loss: An Interpretability Amplifier of 3D Object Detection Network for Intelligent Driving**|Haobo Yang et.al|[paper](https://arxiv.org/abs/2409.00839)|[code](https://github.com/yhbcode000/Eloss-Interpretability.)|-|
+|**2025-7-17**|**Moving Object Detection from Moving Camera Using Focus of Expansion Likelihood and Segmentation**|Masahiro Ogawa et.al|[paper](https://arxiv.org/abs/2507.13628)|-|-|
 |**2025-7-17**|**A Real-Time System for Egocentric Hand-Object Interaction Detection in Industrial Domains**|Antonio Finocchiaro et.al|[paper](https://arxiv.org/abs/2507.13326)|-|-|
 |**2025-7-17**|**RS-TinyNet: Stage-wise Feature Fusion Network for Detecting Tiny Objects in Remote Sensing Images**|Xiaozheng Jiang et.al|[paper](https://arxiv.org/abs/2507.13120)|-|-|
 |**2025-7-17**|**Decoupled PROB: Decoupled Query Initialization Tasks and Objectness-Class Learning for Open World Object Detection**|Riku Inoue et.al|[paper](https://arxiv.org/abs/2507.13085)|-|<details><summary>detail</summary>This paper has been accepted to WACV 2025 (Tucson</details>|
 |**2025-7-16**|**SOD-YOLO: Enhancing YOLO-Based Detection of Small Objects in UAV Imagery**|Peijun Wang et.al|[paper](https://arxiv.org/abs/2507.12727)|[code](https://github.com/iamwangxiaobai/SOD-YOLO.)|<details><summary>detail</summary>ACM Class:I</details>|
-|**2025-7-16**|**OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments**|Hayat Ullah et.al|[paper](https://arxiv.org/abs/2507.12396)|-|-|
 |**2025-7-16**|**2.5D Object Detection for Intelligent Roadside Infrastructure**|Nikolai Polley et.al|[paper](https://arxiv.org/abs/2507.03564)|[code](https://gitlab.kit.edu/kit/aifb/ATKS/public/digit4taf/2.5d-object-detection)|<details><summary>detail</summary>2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)</details>|
 |**2025-7-16**|**SpikeDet: Better Firing Patterns for Accurate and Energy-Efficient Object Detection with Spiking Neuron Networks**|Yimeng Fan et.al|[paper](https://arxiv.org/abs/2501.15151)|-|-|
 |**2025-7-16**|**SS-DC: Spatial-Spectral Decoupling and Coupling Across Visible-Infrared Gap for Domain Adaptive Object Detection**|Xiwei Zhang et.al|[paper](https://arxiv.org/abs/2507.12017)|-|-|
@@ -44,15 +47,24 @@
 |**2025-7-15**|**Conceptualizing Multi-scale Wavelet Attention and Ray-based Encoding for Human-Object Interaction Detection**|Quan Bi Pay et.al|[paper](https://arxiv.org/abs/2507.10977)|[code](https://github.com/henry-pay/RayEncoder].)|<details><summary>detail</summary>International Joint Conference on Neural Networks (IJCNN 2025)</details>|
 |**2025-7-14**|**LLM-Guided Agentic Object Detection for Open-World Understanding**|Furkan Mumcu et.al|[paper](https://arxiv.org/abs/2507.10844)|-|-|
 |**2025-7-14**|**Versatile and Generalizable Manipulation via Goal-Conditioned Reinforcement Learning with Grounded Object Detection**|Huiyi Wang et.al|[paper](https://arxiv.org/abs/2507.10814)|-|-|
-|**2025-7-14**|**Fine-Grained Zero-Shot Object Detection**|Hongxu Ma et.al|[paper](https://arxiv.org/abs/2507.10358)|-|<details><summary>detail</summary>Accepted by ACM MM'25</details>|
-|**2025-7-14**|**Class-Aware PillarMix: Can Mixed Sample Data Augmentation Enhance 3D Object Detection with Radar Point Clouds?**|Miao Zhang et.al|[paper](https://arxiv.org/abs/2503.02687)|-|-|
-|**2025-7-14**|**Measuring the Impact of Rotation Equivariance on Aerial Object Detection**|Xiuyu Wu et.al|[paper](https://arxiv.org/abs/2507.09896)|-|<details><summary>detail</summary>Accepted by ICCV 2025</details>|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-19**|**Confidence sharing adaptation for out-of-domain human pose and shape estimation**|T Yue et.al|[paper](https://www.sciencedirect.com/science/article/pii/S1077314224001322)|-|<details><summary>detail</summary>Computer Vision and Image…, 2024 Elsevier</details>|
+|**2025-7-18**|**SuperCM: Improving Semi-Supervised Learning and Domain Adaptation through differentiable clustering**|Durgesh Singh et.al|[paper](https://arxiv.org/abs/2507.13779)|-|<details><summary>detail</summary>Journal ref:Pattern Recognition 2025</details>|
+|**2025-7-18**|**…Carbon Content and Temperature in Bof Steelmaking Based on Adaptive Balanced Joint Distribution Alignment Domain Adaptation with Variational Autoencoder**|Z Liu et.al|[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863841)|-|<details><summary>detail</summary>Available at SSRN 4863841 papers.ssrn.com</details>|
+|**2025-7-18**|**POND: Multi-Source Time Series Domain Adaptation with Information-Aware Prompt Tuning**|J Wang et.al|[paper](https://www.researchgate.net/profile/Junxiang-Wang-3/publication/381225385_POND_Multi-Source_Time_Series_Domain_Adaptation_with_Information-Aware_Prompt_Tuning/links/6663974e85a4ee7261ae011e/POND-Multi-Source-Time-Series-Domain-Adaptation-with-Information-Aware-Prompt-Tuning.pdf)|[code](https://paperswithcode.com/paper/prompt-based-domain-discrimination-for-multi)|<details><summary>detail</summary>2024 researchgate.net</details>|
+|**2025-7-18**|**Continuous Test-time Domain Adaptation for Efficient Fault Detection under Evolving Operating Conditions**|H Sun et.al|[paper](https://ui.adsabs.harvard.edu/abs/2024arXiv240606607S/abstract)|[code](https://paperswithcode.com/paper/continuous-test-time-domain-adaptation-for)|-|
+|**2025-7-18**|**Source-Free Domain Adaptation for Speaker Verification in Data-Scarce Languages and Noisy Channels**|S Salo Elia et.al|[paper](https://ui.adsabs.harvard.edu/abs/2024arXiv240605863S/abstract)|[code](https://paperswithcode.com/paper/source-free-domain-adaptation-for-speaker)|-|
+|**2025-7-18**|**Cross-Domain Classification Based on Frequency Component Adaptation for Remote Sensing Images**|P Zhu et.al|[paper](https://www.mdpi.com/2072-4292/16/12/2134)|-|<details><summary>detail</summary>Remote Sensing, 2024 mdpi.com</details>|
+|**2025-7-18**|**TSFAN: Tensorized spatial-frequency attention network with domain adaptation for cross-session EEG-based biometric recognition**|X Jin et.al|[paper](https://automatedtest.iopscience.iop.org/article/10.1088/1741-2552/ad5761)|-|<details><summary>detail</summary>Journal of…, 2024 automatedtest.iopscience.iop.org</details>|
+|**2025-7-18**|**SE/BN Adapter: Parametric Efficient Domain Adaptation for Speaker Recognition**|T Wang et.al|[paper](https://arxiv.org/abs/2406.07832)|-|-|
+|**2025-7-17**|**Addressing the ML Domain Adaptation Problem for Networking: Realistic and Controllable Training Data Generation with NetReplica**|Jaber Daneshamooz et.al|[paper](https://arxiv.org/abs/2507.13476)|-|-|
 |**2025-7-17**|**SIDDA: SInkhorn Dynamic Domain Adaptation for Image Classification with Equivariant Neural Networks**|Sneh Pandya et.al|[paper](https://arxiv.org/abs/2501.14048)|[code](https://github.com/deepskies/SIDDA)|-|
+|**2025-7-17**|**Novel Deep Learning Domain Adaptation Approach for Object Detection Using Semi-Self Building Dataset and Modified YOLOv4**|A Gomaa et.al|[paper](https://www.mdpi.com/2032-6653/15/6/255)|-|<details><summary>detail</summary>World Electric Vehicle Journal, 2024 mdpi.com</details>|
+|**2025-7-17**|**Global self-sustaining and local inheritance for source-free unsupervised domain adaptation**|L Peng et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0031320324004308)|-|<details><summary>detail</summary>Pattern Recognition, 2024 Elsevier</details>|
 |**2025-7-16**|**A Privacy-Preserving Semantic-Segmentation Method Using Domain-Adaptation Technique**|Homare Sueyoshi et.al|[paper](https://arxiv.org/abs/2507.12730)|-|-|
 |**2025-7-16**|**Prominent Roles of Conditionally Invariant Components in Domain Adaptation: Theory and Algorithms**|Keru Wu et.al|[paper](https://arxiv.org/abs/2309.10301)|-|-|
 |**2025-7-16**|**SS-DC: Spatial-Spectral Decoupling and Coupling Across Visible-Infrared Gap for Domain Adaptive Object Detection**|Xiwei Zhang et.al|[paper](https://arxiv.org/abs/2507.12017)|-|-|
@@ -65,17 +77,26 @@
 |**2025-7-14**|**Domain Borders Are There to Be Crossed With Federated Few-Shot Adaptation**|Manuel Röder et.al|[paper](https://arxiv.org/abs/2507.10160)|[code](http://dx.doi.org/10.5220/0012351900003654)|<details><summary>detail</summary>Extension of http://dx</details>|
 |**2025-7-13**|**NMIXX: Domain-Adapted Neural Embeddings for Cross-Lingual eXploration of Finance**|Hanwool Lee et.al|[paper](https://arxiv.org/abs/2507.09601)|-|<details><summary>detail</summary>Under Review</details>|
 |**2025-7-12**|**Domain Adaptation and Multi-view Attention for Learnable Landmark Tracking with Sparse Data**|Timothy Chase Jr et.al|[paper](https://arxiv.org/abs/2507.09420)|[code](https://tjchase34.github.io/assets/pdfs/rss_poster.pdf)|<details><summary>detail</summary>Presented at the RSS Space Robotics Workshop 2025</details>|
-|**2025-7-12**|**Leveraging Segment Anything Model for Source-Free Domain Adaptation via Dual Feature Guided Auto-Prompting**|Zheang Huai et.al|[paper](https://arxiv.org/abs/2505.08527)|[code](https://github.com/xmed-lab/DFG.)|<details><summary>detail</summary>Accepted in TMI 2025</details>|
-|**2025-7-12**|**CoCo: A Coupled Contrastive Framework for Unsupervised Domain Adaptive Graph Classification**|Nan Yin et.al|[paper](https://arxiv.org/abs/2306.04979)|-|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-19**|**Entity-centric multi-domain transformer for improving generalization in fake news detection**|P Bazmi et.al|[paper](https://www.sciencedirect.com/science/article/pii/S0306457324001663)|-|<details><summary>detail</summary>Information Processing &…, 2024 Elsevier</details>|
+|**2025-7-18**|**Fine-Grained Domain Generalization with Feature Structuralization**|W Yu et.al|[paper](https://arxiv.org/abs/2406.09166)|[code](https://github.com/yuwlong666/fsdg)|-|
+|**2025-7-17**|**Generative Multi-Target Cross-Domain Recommendation**|Jinqiu Jin et.al|[paper](https://arxiv.org/abs/2507.12871)|-|<details><summary>detail</summary>fix author information</details>|
+|**2025-7-17**|**Addressing the ML Domain Adaptation Problem for Networking: Realistic and Controllable Training Data Generation with NetReplica**|Jaber Daneshamooz et.al|[paper](https://arxiv.org/abs/2507.13476)|-|-|
 |**2025-7-17**|**CoDet-M4: Detecting Machine-Generated Code in Multi-Lingual, Multi-Generator and Multi-Domain Settings**|Daniil Orel et.al|[paper](https://arxiv.org/abs/2503.13733)|-|-|
 |**2025-7-17**|**A Distributed Generative AI Approach for Heterogeneous Multi-Domain Environments under Data Sharing constraints**|Youssef Tawfilis et.al|[paper](https://arxiv.org/abs/2507.12979)|[code](https://github.com/youssefga28/HuSCF-GAN.)|-|
-|**2025-7-17**|**Generative Multi-Target Cross-Domain Recommendation**|Jinqiu Jin et.al|[paper](https://arxiv.org/abs/2507.12871)|-|-|
 |**2025-7-17**|**Simulate, Refocus and Ensemble: An Attention-Refocusing Scheme for Domain Generalization**|Ziyi Wang et.al|[paper](https://arxiv.org/abs/2507.12851)|[code](https://github.com/bitPrincy/SRE-DG.)|<details><summary>detail</summary>\c{opyright} 20XX IEEE</details>|
+|**2025-7-16**|**Leveraging Vision-Language Models for Improving Domain Generalization in Image Classification**|S Addepalli et.al|[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Addepalli_Leveraging_Vision-Language_Models_for_Improving_Domain_Generalization_in_Image_Classification_CVPR_2024_paper.html)|[code](https://github.com/val-iisc/VL2V-ADiP)|<details><summary>detail</summary>Proceedings of the…, 2024 openaccess.thecvf.com</details>|
+|**2025-7-16**|**Disentangled Prompt Representation for Domain Generalization**|D Cheng et.al|[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_Disentangled_Prompt_Representation_for_Domain_Generalization_CVPR_2024_paper.html)|[code](https://github.com/henry123-boy/SpaTracker)|<details><summary>detail</summary>Proceedings of the…, 2024 openaccess.thecvf.com</details>|
+|**2025-7-16**|**Supplementary Materials: Unknown Prompt, the only Lacuna: Unveiling CLIP's Potential in Open Domain Generalization**|M Singha et.al|[paper](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Singha_Unknown_Prompt_the_CVPR_2024_supplemental.pdf)|-|<details><summary>detail</summary>openaccess.thecvf.com</details>|
+|**2025-7-16**|**Supplementary Material for DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning**|B Dataset - openaccess.thecvf.com et.al|[paper](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Bai_DiPrompT_Disentangled_Prompt_CVPR_2024_supplemental.pdf)|-|<details><summary>detail</summary>openaccess.thecvf.com</details>|
+|**2025-7-16**|**Supplementary Material for Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization**|K Le et.al|[paper](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Le_Efficiently_Assemble_Normalization_CVPR_2024_supplemental.pdf)|-|<details><summary>detail</summary>Phuoc, KS Wong openaccess.thecvf.com</details>|
+|**2025-7-16**|**Domain Generalization for Crop Segmentation with Standardized Ensemble Knowledge Distillation**|S Angarano et.al|[paper](https://openaccess.thecvf.com/content/CVPR2024W/Vision4Ag/html/Angarano_Domain_Generalization_for_Crop_Segmentation_with_Standardized_Ensemble_Knowledge_Distillation_CVPRW_2024_paper.html)|[code](https://github.com/pic4ser/agriseg)|<details><summary>detail</summary>Proceedings of the…, 2024 openaccess.thecvf.com</details>|
+|**2025-7-16**|**MixStyle-Based Contrastive Test-Time Adaptation: Pathway to Domain Generalization**|K Yamashita et.al|[paper](https://openaccess.thecvf.com/content/CVPR2024W/MAT/html/Yamashita_MixStyle-Based_Contrastive_Test-Time_Adaptation_Pathway_to_Domain_Generalization_CVPRW_2024_paper.html)|-|<details><summary>detail</summary>…of the IEEE/CVF Conference on…, 2024 openaccess.thecvf.com</details>|
+|**2025-7-16**|**Fault vibration model driven fault-aware domain generalization framework for bearing fault diagnosis**|B Pang et.al|[paper](https://www.sciencedirect.com/science/article/pii/S1474034624002684)|-|<details><summary>detail</summary>Advanced Engineering…, 2024 Elsevier</details>|
 |**2025-7-15**|**Stronger, Steadier & Superior: Geometric Consistency in Depth VFM Forges Domain Generalized Semantic Segmentation**|Siyu Chen et.al|[paper](https://arxiv.org/abs/2504.12753)|[code](https://github.com/anonymouse-xzrptkvyqc/DepthForge.)|<details><summary>detail</summary>Accepted by ICCV 2025</details>|
 |**2025-7-14**|**Text-Driven Causal Representation Learning for Source-Free Domain Generalization**|Lihua Zhou et.al|[paper](https://arxiv.org/abs/2507.09961)|-|<details><summary>detail</summary>Under Review</details>|
 |**2025-7-13**|**Fair Domain Generalization: An Information-Theoretic View**|Tangzheng Lian et.al|[paper](https://arxiv.org/abs/2507.05823)|-|-|
@@ -86,25 +107,24 @@
 |**2025-7-9**|**SynthTextEval: Synthetic Text Data Generation and Evaluation for High-Stakes Domains**|Krithika Ramesh et.al|[paper](https://arxiv.org/abs/2507.07229)|-|-|
 |**2025-7-9**|**Enhancing Food-Domain Question Answering with a Multimodal Knowledge Graph: Hybrid QA Generation and Diversity Analysis**|Srihari K B et.al|[paper](https://arxiv.org/abs/2507.06571)|-|-|
 |**2025-7-7**|**AdaptaGen: Domain-Specific Image Generation through Hierarchical Semantic Optimization Framework**|Suoxiang Zhang et.al|[paper](https://arxiv.org/abs/2507.05621)|-|-|
-|**2025-7-7**|**LAID: Lightweight AI-Generated Image Detection in Spatial and Spectral Domains**|Nicholas Chivaran et.al|[paper](https://arxiv.org/abs/2507.05162)|[code](https://github.com/nchivar/LAID.)|<details><summary>detail</summary>To appear in the proceedings of PST2025</details>|
 
 ## vision language
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-7-18**|**How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study**|Che Liu et.al|[paper](https://arxiv.org/abs/2507.11200)|-|<details><summary>detail</summary>Technical report</details>|
+|**2025-7-18**|**VLA-Mark: A cross modal watermark for large vision-language alignment model**|Shuliang Liu et.al|[paper](https://arxiv.org/abs/2507.14067)|-|-|
+|**2025-7-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Paweł Budzianowski et.al|[paper](https://arxiv.org/abs/2507.14049)|[code](https://github.com/kscalelabs/evla)|<details><summary>detail</summary>Journal ref:IROS-MoMA3 Workshop 2024</details>|
+|**2025-7-18**|**When Seeing Overrides Knowing: Disentangling Knowledge Conflicts in Vision-Language Models**|Francesco Ortu et.al|[paper](https://arxiv.org/abs/2507.13868)|-|-|
+|**2025-7-18**|**GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing**|Xianzhi Ma et.al|[paper](https://arxiv.org/abs/2507.05887)|-|-|
+|**2025-7-18**|**Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment**|Angelos Zavras et.al|[paper](https://arxiv.org/abs/2402.09816)|[code](https://github.com/Orion-AI-Lab/MindTheModalityGap.)|<details><summary>detail</summary>the ISPRS Journal of Photogrammetry and Remote Sensing</details>|
+|**2025-7-18**|**Teaching Vision-Language Models to Ask: Resolving Ambiguity in Visual Questions**|Pu Jian et.al|[paper](https://arxiv.org/abs/2507.13773)|-|<details><summary>detail</summary>ACL2025 Main</details>|
+|**2025-7-18**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al|[paper](https://arxiv.org/abs/2507.12440)|[code](https://rchalyang.github.io/EgoVLA)|<details><summary>detail</summary>More videos can be found on our website: https://rchalyang</details>|
+|**2025-7-18**|**ZonUI-3B: A Lightweight Vision-Language Model for Cross-Resolution GUI Grounding**|ZongHan Hsieh et.al|[paper](https://arxiv.org/abs/2506.23491)|[code](https://github.com/Han1018/ZonUI-3B)|-|
+|**2025-7-17**|**EvolveNav: Self-Improving Embodied Reasoning for LLM-Based Vision-Language Navigation**|Bingqian Lin et.al|[paper](https://arxiv.org/abs/2506.01551)|[code](https://github.com/expectorlin/EvolveNav.)|-|
 |**2025-7-17**|**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**|Senqiao Yang et.al|[paper](https://arxiv.org/abs/2507.13348)|[code](https://github.com/dvlab-research/VisionThink.)|<details><summary>detail</summary>Code and models are available at https://github</details>|
 |**2025-7-17**|**Vision-and-Language Training Helps Deploy Taxonomic Knowledge but Does Not Fundamentally Alter It**|Yulu Qin et.al|[paper](https://arxiv.org/abs/2507.13328)|-|-|
-|**2025-7-17**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al|[paper](https://arxiv.org/abs/2507.12440)|[code](https://rchalyang.github.io/EgoVLA)|<details><summary>detail</summary>More videos can be found on our website: https://rchalyang</details>|
 |**2025-7-17**|**SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models**|Xiangyu Dong et.al|[paper](https://arxiv.org/abs/2507.13152)|-|-|
 |**2025-7-17**|**Aligning Information Capacity Between Vision and Language via Dense-to-Sparse Feature Distillation for Image-Text Matching**|Yang Liu et.al|[paper](https://arxiv.org/abs/2503.14953)|-|-|
 |**2025-7-17**|**Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models**|Junjie Wu et.al|[paper](https://arxiv.org/abs/2410.23114)|[code](https://github.com/wujunjie1998/Tri-HE.)|<details><summary>detail</summary>Accepted by TMLR 2025</details>|
-|**2025-7-17**|**GLAD: Generalizable Tuning for Vision-Language Models**|Yuqi Peng et.al|[paper](https://arxiv.org/abs/2507.13089)|-|<details><summary>detail</summary>ICCV 2025 workshop</details>|
-|**2025-7-17**|**Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities**|Liuyi Wang et.al|[paper](https://arxiv.org/abs/2507.13019)|[code](https://crystalsixone.github.io/vln_pe.github.io/.)|<details><summary>detail</summary>Accepted by ICCV 2025</details>|
-|**2025-7-17**|**DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge**|Wenyao Zhang et.al|[paper](https://arxiv.org/abs/2507.04447)|-|-|
-|**2025-7-16**|**Pixel Perfect MegaMed: A Megapixel-Scale Vision-Language Foundation Model for Generating High Resolution Medical Images**|Zahra TehraniNasab et.al|[paper](https://arxiv.org/abs/2507.12698)|[code](https://tehraninasab.github.io/pixelperfect-megamed.)|-|
-|**2025-7-16**|**JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model**|Yi Nian et.al|[paper](https://arxiv.org/abs/2504.03770)|-|-|
-|**2025-7-16**|**VLMgineer: Vision Language Models as Robotic Toolsmiths**|George Jiayuan Gao et.al|[paper](https://arxiv.org/abs/2507.12644)|[code](https://vlmgineer.github.io/release)|<details><summary>detail</summary>Project Website: https://vlmgineer</details>|
-|**2025-7-16**|**Escaping Plato's Cave: JAM for Aligning Independently Trained Vision and Language Models**|Lauren Hyoseo Yoon et.al|[paper](https://arxiv.org/abs/2507.01201)|-|-|
-|**2025-7-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Santosh Vasa et.al|[paper](https://arxiv.org/abs/2507.12414)|-|-|
-|**2025-7-16**|**Generate to Ground: Multimodal Text Conditioning Boosts Phrase Grounding in Medical Vision-Language Models**|Felix Nützel et.al|[paper](https://arxiv.org/abs/2507.12236)|[code](https://github.com/Felix-012/generate_to_ground.)|-|
 
