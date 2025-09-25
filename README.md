@@ -6,17 +6,17 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2025.09.24
+## Updated on 2025.09.25
 
 ## source-free
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-24**|**Lost in Translation? Vocabulary Alignment for Source-Free Domain Adaptation in Open-Vocabulary Semantic Segmentation**|Silvio Mazzucco et.al|[paper](https://arxiv.org/abs/2509.15225)|[code](https://thegoodailab.org/blog/vocalign)|<details><summary>detail</summary>BMVC 2025 - Project Page: https://thegoodailab</details>|
 |**2025-9-22**|**Source-Free Domain Adaptive Semantic Segmentation of Remote Sensing Images with Diffusion-Guided Label Enrichment**|Wenjie Liu et.al|[paper](https://arxiv.org/abs/2509.18502)|-|-|
 |**2025-9-22**|**Co-STAR: Collaborative Curriculum Self-Training with Adaptive Regularization for Source-Free Video Domain Adaptation**|Amirhossein Dadashzadeh et.al|[paper](https://arxiv.org/abs/2504.11669)|[code](https://github.com/Plrbear/Co-Star)|-|
 |**2025-9-21**|**Prototype-Based Pseudo-Label Denoising for Source-Free Domain Adaptation in Remote Sensing Semantic Segmentation**|Bin Wang et.al|[paper](https://arxiv.org/abs/2509.16942)|-|-|
 |**2025-9-18**|**Model-Free and Real-Time Unicycle-Based Source Seeking with Differential Wheeled Robotic Experiments**|Ahmed A. Elgohary et.al|[paper](https://arxiv.org/abs/2501.02184)|-|-|
-|**2025-9-18**|**Lost in Translation? Vocabulary Alignment for Source-Free Domain Adaptation in Open-Vocabulary Semantic Segmentation**|Silvio Mazzucco et.al|[paper](https://arxiv.org/abs/2509.15225)|[code](https://thegoodailab.org/blog/vocalign)|<details><summary>detail</summary>BMVC 2025 - Project Page: https://thegoodailab</details>|
 |**2025-9-13**|**Step-wise Distribution Alignment Guided Style Prompt Tuning for Source-free Cross-domain Few-shot Learning**|Huali Xu et.al|[paper](https://arxiv.org/abs/2411.10070)|[code](https://github.com/xuhuali-mxj/StepSPT.)|<details><summary>detail</summary>IEEE TPAMI</details>|
 |**2025-9-12**|**Grad-CL: Source Free Domain Adaptation with Gradient Guided Feature Disalignment**|Rini Smita Thakur et.al|[paper](https://arxiv.org/abs/2509.10134)|[code](https://visdomlab.github.io/GCL/.)|<details><summary>detail</summary>Accepted in BMVC 2025</details>|
 |**2025-9-10**|**Rethinking the Backbone in Class Imbalanced Federated Source Free Domain Adaptation: The Utility of Vision Foundation Models**|Kosuke Kihara et.al|[paper](https://arxiv.org/abs/2509.08372)|-|<details><summary>detail</summary>Accepted by the IEEE ICIP 2025 Satellite Workshop 1: Edge Intelligence: Smart</details>|
@@ -32,6 +32,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-24**|**SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**|Philipp Wolters et.al|[paper](https://arxiv.org/abs/2411.19860)|[code](https://github.com/phi-wol/sparc.)|-|
+|**2025-9-24**|**Adaptive Guidance Semantically Enhanced via Multimodal LLM for Edge-Cloud Object Detection**|Yunqing Hu et.al|[paper](https://arxiv.org/abs/2509.19875)|-|-|
+|**2025-9-24**|**BiTAA: A Bi-Task Adversarial Attack for Object Detection and Depth Estimation via 3D Gaussian Splatting**|Yixun Zhang et.al|[paper](https://arxiv.org/abs/2509.19793)|-|<details><summary>detail</summary>Intend to submit to RA-L</details>|
 |**2025-9-23**|**HyPSAM: Hybrid Prompt-driven Segment Anything Model for RGB-Thermal Salient Object Detection**|Ruichao Hou et.al|[paper](https://arxiv.org/abs/2509.18738)|[code](https://github.com/milotic233/HyPSAM.)|-|
 |**2025-9-23**|**LEAF-Mamba: Local Emphatic and Adaptive Fusion State Space Model for RGB-D Salient Object Detection**|Lanhu Wu et.al|[paper](https://arxiv.org/abs/2509.18683)|-|<details><summary>detail</summary>ACM MM 2025</details>|
 |**2025-9-23**|**MLF-4DRCNet: Multi-Level Fusion with 4D Radar and Camera for 3D Object Detection in Autonomous Driving**|Yuzhi Wu et.al|[paper](https://arxiv.org/abs/2509.18613)|-|-|
@@ -44,14 +47,17 @@
 |**2025-9-21**|**LLM-Assisted Semantic Guidance for Sparsely Annotated Remote Sensing Object Detection**|Wei Liao et.al|[paper](https://arxiv.org/abs/2509.16970)|-|-|
 |**2025-9-21**|**MO R-CNN: Multispectral Oriented R-CNN for Object Detection in Remote Sensing Image**|Leiyu Wang et.al|[paper](https://arxiv.org/abs/2509.16957)|[code](https://github.com/Iwill-github/MORCNN.)|-|
 |**2025-9-20**|**Speech-to-See: End-to-End Speech-Driven Open-Set Object Detection**|Wenhuan Lu et.al|[paper](https://arxiv.org/abs/2509.16670)|-|-|
-|**2025-9-20**|**Investigating Long-term Training for Remote Sensing Object Detection**|JongHyun Park et.al|[paper](https://arxiv.org/abs/2407.15143)|[code](https://github.com/unique-chan/dbf.)|-|
-|**2025-9-19**|**Efficient Detection of Objects Near a Robot Manipulator via Miniature Time-of-Flight Sensors**|Carter Sifferman et.al|[paper](https://arxiv.org/abs/2509.16122)|-|-|
-|**2025-9-19**|**LED: LLM Enhanced Open-Vocabulary Object Detection without Human Curated Data Generation**|Yang Zhou et.al|[paper](https://arxiv.org/abs/2503.13794)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-24**|**DISCO Balances the Scales: Adaptive Domain- and Difficulty-Aware Reinforcement Learning on Imbalanced Data**|Yuhang Zhou et.al|[paper](https://arxiv.org/abs/2505.15074)|[code](https://github.com/Tonyzhou98/disco_grpo.)|<details><summary>detail</summary>Accepted by EMNLP 2025 Findings</details>|
+|**2025-9-24**|**Predictive Coding-based Deep Neural Network Fine-tuning for Computationally Efficient Domain Adaptation**|Matteo Cardoni et.al|[paper](https://arxiv.org/abs/2509.20269)|-|-|
+|**2025-9-24**|**Lost in Translation? Vocabulary Alignment for Source-Free Domain Adaptation in Open-Vocabulary Semantic Segmentation**|Silvio Mazzucco et.al|[paper](https://arxiv.org/abs/2509.15225)|[code](https://thegoodailab.org/blog/vocalign)|<details><summary>detail</summary>BMVC 2025 - Project Page: https://thegoodailab</details>|
+|**2025-9-24**|**SDC-Net: A Domain Adaptation Framework with Semantic-Dynamic Consistency for Cross-Subject EEG Emotion Recognition**|Jiahao Tang et.al|[paper](https://arxiv.org/abs/2507.17524)|[code](https://github.com/XuanSuTrum/SDC-Net.)|-|
+|**2025-9-23**|**Memory-Augmented Potential Field Theory: A Framework for Adaptive Control in Non-Convex Domains**|Dongzhe Zheng et.al|[paper](https://arxiv.org/abs/2509.19672)|-|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
+|**2025-9-23**|**EgoBridge: Domain Adaptation for Generalizable Imitation from Egocentric Human Data**|Ryan Punamiya et.al|[paper](https://arxiv.org/abs/2509.19626)|[code](https://ego-bridge.github.io)|<details><summary>detail</summary>39th Conference on Neural Information Processing Systems (NeurIPS 2025) and Oral at Conference on Robot Learning (CoRL 2025)</details>|
 |**2025-9-23**|**Code Driven Planning with Domain-Adaptive Critic**|Zikang Tian et.al|[paper](https://arxiv.org/abs/2509.19077)|-|-|
 |**2025-9-23**|**Prompt-DAS: Annotation-Efficient Prompt Learning for Domain Adaptive Semantic Segmentation of Electron Microscopy Images**|Jiabao Chen et.al|[paper](https://arxiv.org/abs/2509.18973)|-|<details><summary>detail</summary>MICCAI2025</details>|
 |**2025-9-23**|**Generalizable Domain Adaptation for Sim-and-Real Policy Co-Training**|Shuo Cheng et.al|[paper](https://arxiv.org/abs/2509.18631)|-|-|
@@ -61,24 +67,19 @@
 |**2025-9-22**|**Domain Adaptive Object Detection for Space Applications with Real-Time Constraints**|Samet Hicsonmez et.al|[paper](https://arxiv.org/abs/2509.17593)|-|<details><summary>detail</summary>Advanced Space Technologies in Robotics and Automation (ASTRA) 2025</details>|
 |**2025-9-22**|**Training-Free Label Space Alignment for Universal Domain Adaptation**|Dujin Lee et.al|[paper](https://arxiv.org/abs/2509.17452)|-|-|
 |**2025-9-21**|**Prototype-Based Pseudo-Label Denoising for Source-Free Domain Adaptation in Remote Sensing Semantic Segmentation**|Bin Wang et.al|[paper](https://arxiv.org/abs/2509.16942)|-|-|
-|**2025-9-20**|**Dynamic Expert Specialization: Towards Catastrophic Forgetting-Free Multi-Domain MoE Adaptation**|Junzhuo Li et.al|[paper](https://arxiv.org/abs/2509.16882)|-|<details><summary>detail</summary>EMNLP 2025 Main Conference</details>|
-|**2025-9-20**|**Domain-Adaptive Pre-Training for Arabic Aspect-Based Sentiment Analysis: A Comparative Study of Domain Adaptation and Fine-Tuning Strategies**|Salha Alyami et.al|[paper](https://arxiv.org/abs/2509.16788)|-|<details><summary>detail</summary>26 excluding bibliography </details>|
-|**2025-9-19**|**Multi-View Contrastive Learning for Robust Domain Adaptation in Medical Time Series Analysis**|YongKyung Oh et.al|[paper](https://arxiv.org/abs/2506.22393)|[code](https://proceedings.mlr.press/v287/oh25a.html)|<details><summary>detail</summary>Published at the sixth Conference on Health</details>|
-|**2025-9-19**|**AdaSports-Traj: Role- and Domain-Aware Adaptation for Multi-Agent Trajectory Modeling in Sports**|Yi Xu et.al|[paper](https://arxiv.org/abs/2509.16095)|-|<details><summary>detail</summary>Accepted by ICDM 2025</details>|
-|**2025-9-19**|**SONAR: Self-Distilled Continual Pre-training for Domain Adaptive Audio Representation**|Yizhou Zhang et.al|[paper](https://arxiv.org/abs/2509.15703)|-|<details><summary>detail</summary>Submitted to ICASSP 2026</details>|
-|**2025-9-19**|**Improving Anomalous Sound Detection with Attribute-aware Representation from Domain-adaptive Pre-training**|Xin Fang et.al|[paper](https://arxiv.org/abs/2509.12845)|-|<details><summary>detail</summary>Copyright 2026 IEEE</details>|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-24**|**Embedding Domain Knowledge for Large Language Models via Reinforcement Learning from Augmented Generation**|Chaojun Nie et.al|[paper](https://arxiv.org/abs/2509.20162)|[code](https://github.com/ChaojunNie/RLAG.)|-|
+|**2025-9-24**|**Minimal Semantic Sufficiency Meets Unsupervised Domain Generalization**|Tan Pan et.al|[paper](https://arxiv.org/abs/2509.15791)|-|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
 |**2025-9-22**|**Diffusion-Based Action Recognition Generalizes to Untrained Domains**|Rogerio Guimaraes et.al|[paper](https://arxiv.org/abs/2509.08908)|[code](https://www.vision.caltech.edu/actiondiff.)|<details><summary>detail</summary>Project page: https://www</details>|
 |**2025-9-22**|**Unsupervised Structural-Counterfactual Generation under Domain Shift**|Krishn Vishwas Kher et.al|[paper](https://arxiv.org/abs/2502.12013)|-|<details><summary>detail</summary>Updated author ordering</details>|
 |**2025-9-21**|**Out-of-Distribution Generalization in the ARC-AGI Domain: Comparing Execution-Guided Neural Program Synthesis and Test-Time Fine-Tuning**|Simon Ouellette et.al|[paper](https://arxiv.org/abs/2507.15877)|-|<details><summary>detail</summary>this version fixes errors in AlphaEvolve total % calculation</details>|
 |**2025-9-21**|**From domain-landmark graph learning to problem-landmark graph generation**|Cristian Pérez-Corral et.al|[paper](https://arxiv.org/abs/2509.17062)|-|-|
 |**2025-9-20**|**Leveraging Multilingual Training for Authorship Representation: Enhancing Generalization across Languages and Domains**|Junghwan Kim et.al|[paper](https://arxiv.org/abs/2509.16531)|-|<details><summary>detail</summary>EMNLP 2025</details>|
 |**2025-9-19**|**From Canopy to Ground via ForestGen3D: Learning Cross-Domain Generation of 3D Forest Structure from Aerial-to-Terrestrial LiDAR**|Juan Castorena et.al|[paper](https://arxiv.org/abs/2509.16346)|-|-|
-|**2025-9-19**|**Minimal Semantic Sufficiency Meets Unsupervised Domain Generalization**|Tan Pan et.al|[paper](https://arxiv.org/abs/2509.15791)|-|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
 |**2025-9-18**|**CoDoL: Conditional Domain Prompt Learning for Out-of-Distribution Generalization**|Min Zhang et.al|[paper](https://arxiv.org/abs/2509.15330)|-|-|
 |**2025-9-18**|**Trade-offs in Cross-Domain Generalization of Foundation Model Fine-Tuned for Biometric Applications**|Tahar Chettaoui et.al|[paper](https://arxiv.org/abs/2509.14921)|-|<details><summary>detail</summary>the IEEE International Joint Conference on Biometrics 2025 (IJCB 2025)</details>|
 |**2025-9-18**|**Domain Generalization for In-Orbit 6D Pose Estimation**|Antoine Legrand et.al|[paper](https://arxiv.org/abs/2406.11743)|-|-|
@@ -86,25 +87,24 @@
 |**2025-9-17**|**Class-invariant Test-Time Augmentation for Domain Generalization**|Zhicheng Lin et.al|[paper](https://arxiv.org/abs/2509.14420)|-|-|
 |**2025-9-17**|**CodeLSI: Leveraging Foundation Models for Automated Code Generation with Low-Rank Optimization and Domain-Specific Instruction Tuning**|Huy Le et.al|[paper](https://arxiv.org/abs/2509.14373)|-|-|
 |**2025-9-17**|**SPAR: Scalable LLM-based PDDL Domain Generation for Aerial Robotics**|Songhao Huang et.al|[paper](https://arxiv.org/abs/2509.13691)|-|-|
-|**2025-9-16**|**Double Helix Diffusion for Cross-Domain Anomaly Image Generation**|Linchun Wu et.al|[paper](https://arxiv.org/abs/2509.12787)|-|-|
 
 ## vision language
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-9-24**|**Enhancing Targeted Adversarial Attacks on Large Vision-Language Models via Intermediate Projector**|Yiming Cao et.al|[paper](https://arxiv.org/abs/2508.13739)|-|-|
+|**2025-9-24**|**Deciphering Functions of Neurons in Vision-Language Models**|Jiaqi Xu et.al|[paper](https://arxiv.org/abs/2502.18485)|-|<details><summary>detail</summary>Accepted by the 31st ACM International Conference on Multimedia (ACM MM 2025)</details>|
+|**2025-9-24**|**Universal Camouflage Attack on Vision-Language Models for Autonomous Driving**|Dehong Kong et.al|[paper](https://arxiv.org/abs/2509.20196)|-|-|
+|**2025-9-24**|**EchoBench: Benchmarking Sycophancy in Medical Large Vision-Language Models**|Botai Yuan et.al|[paper](https://arxiv.org/abs/2509.20146)|-|-|
+|**2025-9-24**|**Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving**|Pengxiang Li et.al|[paper](https://arxiv.org/abs/2509.20109)|-|-|
+|**2025-9-24**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Hao Dong et.al|[paper](https://arxiv.org/abs/2505.23745)|[code](https://github.com/EPFL-IMOS/TrustVLM.)|-|
+|**2025-9-24**|**FreezeVLA: Action-Freezing Attacks against Vision-Language-Action Models**|Xin Wang et.al|[paper](https://arxiv.org/abs/2509.19870)|-|-|
+|**2025-9-24**|**CHURRO: Making History Readable with an Open-Weight Large Vision-Language Model for High-Accuracy, Low-Cost Historical Text Recognition**|Sina J. Semnani et.al|[paper](https://arxiv.org/abs/2509.19768)|-|<details><summary>detail</summary>EMNLP 2025</details>|
+|**2025-9-23**|**VLM See, Robot Do: Human Demo Video to Robot Action Plan via Vision Language Model**|Beichen Wang et.al|[paper](https://arxiv.org/abs/2410.08792)|-|-|
+|**2025-9-23**|**OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models**|Mengdi Jia et.al|[paper](https://arxiv.org/abs/2506.03135)|[code](https://qizekun.github.io/omnispatial/)|<details><summary>detail</summary>Project Page: https://qizekun</details>|
+|**2025-9-23**|**Anatomy of a Feeling: Narrating Embodied Emotions via Large Vision-Language Models**|Mohammad Saim et.al|[paper](https://arxiv.org/abs/2509.19595)|-|-|
+|**2025-9-23**|**CNS-Obsidian: A Neurosurgical Vision-Language Model Built From Scientific Publications**|Anton Alyakin et.al|[paper](https://arxiv.org/abs/2502.19546)|-|-|
+|**2025-9-23**|**Multimodal Chain of Continuous Thought for Latent-Space Reasoning in Vision-Language Models**|Tan-Hanh Pham et.al|[paper](https://arxiv.org/abs/2508.12587)|[code](https://github.com/Hanhpt23/OmniMod.)|-|
+|**2025-9-23**|**OmniVLA: An Omni-Modal Vision-Language-Action Model for Robot Navigation**|Noriaki Hirose et.al|[paper](https://arxiv.org/abs/2509.19480)|-|-|
 |**2025-9-23**|**Large Vision-Language Model Alignment and Misalignment: A Survey Through the Lens of Explainability**|Dong Shu et.al|[paper](https://arxiv.org/abs/2501.01346)|-|<details><summary>detail</summary>EMNLP 2025 Findings</details>|
-|**2025-9-23**|**Reading Images Like Texts: Sequential Image Understanding in Vision-Language Models**|Yueyan Li et.al|[paper](https://arxiv.org/abs/2509.19191)|-|-|
-|**2025-9-23**|**Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study**|DongGeon Lee et.al|[paper](https://arxiv.org/abs/2505.15389)|[code](https://github.com/oneonlee/Meme-Safety-Bench.)|<details><summary>detail</summary>EMNLP 2025</details>|
-|**2025-9-23**|**ColorBlindnessEval: Can Vision-Language Models Pass Color Blindness Tests?**|Zijian Ling et.al|[paper](https://arxiv.org/abs/2509.19070)|-|<details><summary>detail</summary>the Open Science for Foundation Models (SCI-FM) Workshop at ICLR 2025</details>|
-|**2025-9-23**|**Pure Vision Language Action (VLA) Models: A Comprehensive Survey**|Dapeng Zhang et.al|[paper](https://arxiv.org/abs/2509.19012)|-|-|
-|**2025-9-23**|**Unveiling Chain of Step Reasoning for Vision-Language Models with Fine-grained Rewards**|Honghao Chen et.al|[paper](https://arxiv.org/abs/2509.19003)|[code](https://github.com/baaivision/CoS.)|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
-|**2025-9-23**|**Eva-VLA: Evaluating Vision-Language-Action Models' Robustness Under Real-World Physical Variations**|Hanqing Liu et.al|[paper](https://arxiv.org/abs/2509.18953)|-|-|
-|**2025-9-23**|**Bi-VLA: Bilateral Control-Based Imitation Learning via Vision-Language Fusion for Action Generation**|Masato Kobayashi et.al|[paper](https://arxiv.org/abs/2509.18865)|[code](https://mertcookimg.github.io/bi-vla/)|-|
-|**2025-9-23**|**Benchmarking Vision-Language and Multimodal Large Language Models in Zero-shot and Few-shot Scenarios: A study on Christian Iconography**|Gianmarco Spinaci et.al|[paper](https://arxiv.org/abs/2509.18839)|-|-|
-|**2025-9-23**|**Bi-VLM: Pushing Ultra-Low Precision Post-Training Quantization Boundaries in Vision-Language Models**|Xijun Wang et.al|[paper](https://arxiv.org/abs/2509.18763)|-|-|
-|**2025-9-23**|**ViSpec: Accelerating Vision-Language Models with Vision-Aware Speculative Decoding**|Jialiang Kang et.al|[paper](https://arxiv.org/abs/2509.15235)|[code](https://github.com/KangJialiang/ViSpec.)|<details><summary>detail</summary>NeurIPS 2025</details>|
-|**2025-9-22**|**SINGER: An Onboard Generalist Vision-Language Navigation Policy for Drones**|Maximilian Adang et.al|[paper](https://arxiv.org/abs/2509.18610)|-|-|
-|**2025-9-22**|**VLN-Zero: Rapid Exploration and Cache-Enabled Neurosymbolic Vision-Language Planning for Zero-Shot Transfer in Robot Navigation**|Neel P. Bhatt et.al|[paper](https://arxiv.org/abs/2509.18592)|[code](https://vln-zero.github.io/.)|<details><summary>detail</summary>Codebase</details>|
-|**2025-9-22**|**Mitigating Hallucination in Large Vision-Language Models through Aligning Attention Distribution to Information Flow**|Jianfei Zhao et.al|[paper](https://arxiv.org/abs/2505.14257)|-|<details><summary>detail</summary>Findings of EMNLP 2025</details>|
-|**2025-9-22**|**DOTA: Distributional Test-Time Adaptation of Vision-Language Models**|Zongbo Han et.al|[paper](https://arxiv.org/abs/2409.19375)|-|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
 
