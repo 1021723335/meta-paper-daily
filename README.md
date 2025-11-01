@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2025.10.31
+## Updated on 2025.11.01
 
 ## source-free
 
@@ -33,7 +33,7 @@
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
 |**2025-10-30**|**All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles**|Sayed Pedram Haeri Boroujeni et.al|[paper](https://arxiv.org/abs/2510.26641)|-|-|
-|**2025-10-30**|**VerifIoU - Robustness of Object Detection to Perturbations**|Noémie Cohen et.al|[paper](https://arxiv.org/abs/2403.08788)|-|<details><summary>detail</summary>Journal ref:44th Digital Avionics Systems Conference (DASC)</details>|
+|**2025-10-30**|**VerifIoU -- Robustness of Object Detection to Perturbations**|Noémie Cohen et.al|[paper](https://arxiv.org/abs/2403.08788)|-|<details><summary>detail</summary>44th Digital Avionics Systems Conference (DASC)</details>|
 |**2025-10-29**|**U-DECN: End-to-End Underwater Object Detection ConvNet with Improved DeNoising Training**|Zhuoyan Liu et.al|[paper](https://arxiv.org/abs/2408.05780)|[code](https://github.com/LEFTeyex/U-DECN.)|-|
 |**2025-10-29**|**Prototype-Driven Adaptation for Few-Shot Object Detection**|Yushen Huang et.al|[paper](https://arxiv.org/abs/2510.25318)|-|-|
 |**2025-10-29**|**RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models**|Zijun Liao et.al|[paper](https://arxiv.org/abs/2510.25257)|-|-|
