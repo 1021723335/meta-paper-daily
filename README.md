@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2025.11.09
+## Updated on 2025.11.10
 
 ## source-free
 
@@ -32,6 +32,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-7**|**Semantic-Guided Natural Language and Visual Fusion for Cross-Modal Interaction Based on Tiny Object Detection**|Xian-Hong Huang et.al|[paper](https://arxiv.org/abs/2511.05474)|-|-|
 |**2025-11-6**|**Evaluating the Impact of Weather-Induced Sensor Occlusion on BEVFusion for 3D Object Detection**|Sanjay Kumar et.al|[paper](https://arxiv.org/abs/2511.04347)|-|-|
 |**2025-11-6**|**Deep learning-based object detection of offshore platforms on Sentinel-1 Imagery and the impact of synthetic training data**|Robin Spanier et.al|[paper](https://arxiv.org/abs/2511.04304)|-|-|
 |**2025-11-5**|**RIS-Assisted 3D Spherical Splatting for Object Composition Visualization using Detection Transformers**|Anastasios T. Sotiropoulos et.al|[paper](https://arxiv.org/abs/2511.02573)|-|<details><summary>detail</summary>Submitted to IEEE ICC 2026</details>|
@@ -46,12 +47,13 @@
 |**2025-11-3**|**Contrast-Guided Cross-Modal Distillation for Thermal Object Detection**|SiWoo Kim et.al|[paper](https://arxiv.org/abs/2511.01435)|-|-|
 |**2025-11-3**|**DTAA: A Detect, Track and Avoid Architecture for navigation in spaces with Multiple Velocity Objects**|Samuel Nordström et.al|[paper](https://arxiv.org/abs/2412.08121)|-|-|
 |**2025-11-3**|**Eyes on Target: Gaze-Aware Object Detection in Egocentric Video**|Vishakha Lall et.al|[paper](https://arxiv.org/abs/2511.01237)|-|<details><summary>detail</summary>RAAI 2025</details>|
-|**2025-11-2**|**Reflectance Prediction-based Knowledge Distillation for Robust 3D Object Detection in Compressed Point Clouds**|Hao Jing et.al|[paper](https://arxiv.org/abs/2505.17442)|[code](https://github.com/HaoJing-SX/RPKD.)|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-7**|**NMIXX: Domain-Adapted Neural Embeddings for Cross-Lingual eXploration of Finance**|Hanwool Lee et.al|[paper](https://arxiv.org/abs/2507.09601)|-|<details><summary>detail</summary>FinAI@CIKM 2025</details>|
+|**2025-11-6**|**FunOTTA: On-the-Fly Adaptation on Cross-Domain Fundus Image via Stable Test-time Training**|Qian Zeng et.al|[paper](https://arxiv.org/abs/2407.04396)|[code](https://github.com/Casperqian/FunOTTA.)|-|
 |**2025-11-6**|**Vision Foundation Models in Agriculture: Toward Domain-Specific Adaptation for Weed Herbicide Trials Assessment**|Leire Benito-Del-Valle et.al|[paper](https://arxiv.org/abs/2511.04288)|-|-|
 |**2025-11-6**|**Active Domain Adaptation for mmWave-based HAR via Renyi Entropy-based Uncertainty Estimation**|Mingzhi Lin et.al|[paper](https://arxiv.org/abs/2511.04219)|-|-|
 |**2025-11-4**|**Domain-Adaptive Transformer for Data-Efficient Glioma Segmentation in Sub-Saharan MRI**|Ilerioluwakiiye Abolade et.al|[paper](https://arxiv.org/abs/2511.02928)|-|-|
@@ -65,8 +67,6 @@
 |**2025-10-30**|**PF-DAformer: Proximal Femur Segmentation via Domain Adaptive Transformer for Dual-Center QCT**|Rochak Dhakal et.al|[paper](https://arxiv.org/abs/2510.26903)|-|<details><summary>detail</summary>22 Pages</details>|
 |**2025-10-30**|**Heuristic Adaptation of Potentially Misspecified Domain Support for Likelihood-Free Inference in Stochastic Dynamical Systems**|Georgios Kamaras et.al|[paper](https://arxiv.org/abs/2510.26656)|-|-|
 |**2025-10-30**|**CATCH: A Modular Cross-domain Adaptive Template with Hook**|Xinjin Li et.al|[paper](https://arxiv.org/abs/2510.26582)|-|-|
-|**2025-10-29**|**Diffusion-Driven Progressive Target Manipulation for Source-Free Domain Adaptation**|Yuyang Huang et.al|[paper](https://arxiv.org/abs/2510.25279)|-|<details><summary>detail</summary>Accepted by NeurIPS 2025</details>|
-|**2025-10-29**|**Adapting Small Language Models to Low-Resource Domains: A Case Study in Hindi Tourism QA**|Sandipan Majhi et.al|[paper](https://arxiv.org/abs/2510.25273)|-|<details><summary>detail</summary>the Forum for Information Retrieval Evaluation 2025 (VATIKA Track)</details>|
 
 ## domain generalization
 
@@ -92,19 +92,19 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2025-11-6**|**Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment**|Tao Lin et.al|[paper](https://arxiv.org/abs/2511.04555)|[code](https://github.com/MINT-SJTU/Evo-1)|<details><summary>detail</summary>Github: https://github</details>|
+|**2025-11-7**|**EveryDayVLA: A Vision-Language-Action Model for Affordable Robotic Manipulation**|Samarth Chopra et.al|[paper](https://arxiv.org/abs/2511.05397)|[code](https://everydayvla.github.io/)|<details><summary>detail</summary>Submitted to ICRA 2026</details>|
+|**2025-11-7**|**ExGra-Med: Extended Context Graph Alignment for Medical Vision-Language Models**|Duy M. H. Nguyen et.al|[paper](https://arxiv.org/abs/2410.02615)|-|<details><summary>detail</summary>NeurIPS 2025</details>|
+|**2025-11-7**|**TwinVLA: Data-Efficient Bimanual Manipulation with Twin Single-Arm Vision-Language-Action Models**|Hokyun Im et.al|[paper](https://arxiv.org/abs/2511.05275)|[code](https://jellyho.github.io/TwinVLA/)|<details><summary>detail</summary>Project webpage : https://jellyho</details>|
+|**2025-11-7**|**Do Vision-Language Models See Visualizations Like Humans? Alignment in Chart Categorization**|Péter Ferenc Gyarmati et.al|[paper](https://arxiv.org/abs/2509.05718)|-|-|
+|**2025-11-7**|**GeoAware-VLA: Implicit Geometry Aware Vision-Language-Action Model**|Ali Abouzeid et.al|[paper](https://arxiv.org/abs/2509.14117)|[code](https://alisharey.github.io/GeoAware-VLA/)|<details><summary>detail</summary>Under Review</details>|
+|**2025-11-7**|**Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings**|Aakriti Agrawal et.al|[paper](https://arxiv.org/abs/2511.05017)|-|-|
 |**2025-11-6**|**ThaiOCRBench: A Task-Diverse Benchmark for Vision-Language Understanding in Thai**|Surapon Nonesung et.al|[paper](https://arxiv.org/abs/2511.04479)|-|<details><summary>detail</summary>the IJCNLP-AACL 2025 (Main)</details>|
+|**2025-11-6**|**A benchmark multimodal oro-dental dataset for large vision-language models**|Haoxin Lv et.al|[paper](https://arxiv.org/abs/2511.04948)|-|-|
+|**2025-11-6**|**Text to Robotic Assembly of Multi Component Objects using 3D Generative AI and Vision Language Models**|Alexander Htet Kyaw et.al|[paper](https://arxiv.org/abs/2511.02162)|-|<details><summary>detail</summary>NeurIPS 2025</details>|
+|**2025-11-6**|**Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment**|Tao Lin et.al|[paper](https://arxiv.org/abs/2511.04555)|[code](https://github.com/MINT-SJTU/Evo-1)|<details><summary>detail</summary>Github: https://github</details>|
 |**2025-11-6**|**HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model**|Youngwan Lee et.al|[paper](https://arxiv.org/abs/2506.04704)|[code](https://youngwanlee.github.io/holisafe)|<details><summary>detail</summary>Project page: https://youngwanlee</details>|
 |**2025-11-6**|**TowerVision: Understanding and Improving Multilinguality in Vision-Language Models**|André G. Viveiros et.al|[paper](https://arxiv.org/abs/2510.21849)|[code](https://huggingface.co/collections/utter-project/towervision)|-|
 |**2025-11-6**|**SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning**|Borong Zhang et.al|[paper](https://arxiv.org/abs/2503.03480)|[code](https://pku-safevla.github.io.)|<details><summary>detail</summary>Accepted by NeurIPS 2025 Spotlight Presentation</details>|
 |**2025-11-6**|**RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Chest X-ray with Zero-Shot Multi-Task Capability**|Jonggwon Park et.al|[paper](https://arxiv.org/abs/2504.07416)|[code](https://github.com/deepnoid-ai/RadZero)|<details><summary>detail</summary>NeurIPS 2025</details>|
 |**2025-11-6**|**Unveiling Deep Semantic Uncertainty Perception for Language-Anchored Multi-modal Vision-Brain Alignment**|Zehui Feng et.al|[paper](https://arxiv.org/abs/2511.04078)|-|-|
-|**2025-11-6**|**Poutine: Vision-Language-Trajectory Pre-Training and Reinforcement Learning Post-Training Enable Robust End-to-End Autonomous Driving**|Luke Rowe et.al|[paper](https://arxiv.org/abs/2506.11234)|-|-|
-|**2025-11-5**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al|[paper](https://arxiv.org/abs/2506.13757)|[code](https://autovla.github.io/)|<details><summary>detail</summary>NeurIPS 2025</details>|
-|**2025-11-5**|**Context informs pragmatic interpretation in vision-language models**|Alvin Wei Ming Tan et.al|[paper](https://arxiv.org/abs/2511.03908)|-|<details><summary>detail</summary>CogInterp Workshop</details>|
-|**2025-11-5**|**Hulu-Med: A Transparent Generalist Model towards Holistic Medical Vision-Language Understanding**|Songtao Jiang et.al|[paper](https://arxiv.org/abs/2510.08668)|[code](https://github.com/ZJUI-AI4H/Hulu-Med.)|-|
-|**2025-11-5**|**Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models**|Hao Cheng et.al|[paper](https://arxiv.org/abs/2409.13174)|-|-|
-|**2025-11-5**|**Revisiting Multimodal Positional Encoding in Vision-Language Models**|Jie Huang et.al|[paper](https://arxiv.org/abs/2510.23095)|[code](https://github.com/JJJYmmm/Multimodal-RoPEs.)|-|
-|**2025-11-5**|**Decoupling Augmentation Bias in Prompt Learning for Vision-Language Models**|Gahyeon Kim et.al|[paper](https://arxiv.org/abs/2511.03367)|[code](https://github.com/Gahyeonkim09/AAPL)|<details><summary>detail</summary>Accepted in Pattern Recognition</details>|
-|**2025-11-5**|**Which Way Does Time Flow? A Psychophysics-Grounded Evaluation for Vision-Language Models**|Shiho Matta et.al|[paper](https://arxiv.org/abs/2510.26241)|-|-|
 
