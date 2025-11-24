@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2025.11.23
+## Updated on 2025.11.24
 
 ## source-free
 
@@ -32,6 +32,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-21**|**YOLO Meets Mixture-of-Experts: Adaptive Expert Routing for Robust Object Detection**|Ori Meiraz et.al|[paper](https://arxiv.org/abs/2511.13344)|-|<details><summary>detail</summary>1 figure</details>|
+|**2025-11-21**|**A Unified Voxel Diffusion Module for Point Cloud 3D Object Detection**|Qifeng Liu et.al|[paper](https://arxiv.org/abs/2508.16069)|-|<details><summary>detail</summary>Under review</details>|
+|**2025-11-21**|**Synthetic Object Compositions for Scalable and Accurate Learning in Detection, Segmentation, and Grounding**|Weikai Huang et.al|[paper](https://arxiv.org/abs/2510.09110)|[code](https://github.com/weikaih04/Synthetic-Detection-Segmentation-Grounding-Data)|<details><summary>detail</summary>Project website: https://github</details>|
 |**2025-11-20**|**A Decade of You Only Look Once (YOLO) for Object Detection: A Review**|Leo Thomas Ramos et.al|[paper](https://arxiv.org/abs/2504.18586)|-|<details><summary>detail</summary>Journal ref:IEEE Access</details>|
 |**2025-11-20**|**IOR: Inversed Objects Replay for Incremental Object Detection**|Zijia An et.al|[paper](https://arxiv.org/abs/2406.04829)|[code](https://github.com/JiaJia075/IOR.)|-|
 |**2025-11-20**|**Real-Time 3D Object Detection with Inference-Aligned Learning**|Chenyu Zhao et.al|[paper](https://arxiv.org/abs/2511.16140)|-|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
@@ -44,14 +47,13 @@
 |**2025-11-18**|**FQ-PETR: Fully Quantized Position Embedding Transformation for Multi-View 3D Object Detection**|Jiangyong Yu et.al|[paper](https://arxiv.org/abs/2502.15488)|-|<details><summary>detail</summary>This paper is acceptted by AAAI 2026</details>|
 |**2025-11-18**|**Detecting Out-of-Distribution Objects through Class-Conditioned Inpainting**|Quang-Huy Nguyen et.al|[paper](https://arxiv.org/abs/2402.03292)|-|<details><summary>detail</summary>Accepted in WACV 2026 (Algorithms track)</details>|
 |**2025-11-18**|**Benchmarking Deep Learning-Based Object Detection Models on Feature Deficient Astrophotography Imagery Dataset**|Shantanusinh Parmar et.al|[paper](https://arxiv.org/abs/2508.06537)|-|-|
-|**2025-11-18**|**Online Data Curation for Object Detection via Marginal Contributions to Dataset-level Average Precision**|Zitang Sun et.al|[paper](https://arxiv.org/abs/2511.14197)|-|<details><summary>detail</summary>preprint version</details>|
-|**2025-11-18**|**YOLO Meets Mixture-of-Experts: Adaptive Expert Routing for Robust Object Detection**|Ori Meiraz et.al|[paper](https://arxiv.org/abs/2511.13344)|-|<details><summary>detail</summary>1 figure</details>|
-|**2025-11-18**|**Deep Learning and Machine Learning -- Object Detection and Semantic Segmentation: From Theory to Applications**|Jintao Ren et.al|[paper](https://arxiv.org/abs/2410.15584)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-21**|**Dual-domain Adaptation Networks for Realistic Image Super-resolution**|Chaowei Fang et.al|[paper](https://arxiv.org/abs/2511.17217)|[code](https://github.com/dummerchen/DAN.)|-|
+|**2025-11-20**|**AraFinNews: Arabic Financial Summarisation with Domain-Adapted LLMs**|Mo El-Haj et.al|[paper](https://arxiv.org/abs/2511.01265)|[code](https://github.com/ArabicNLP-UK/AraFinNews.)|-|
 |**2025-11-20**|**Domain-Shared Learning and Gradual Alignment for Unsupervised Domain Adaptation Visible-Infrared Person Re-Identification**|Nianchang Huang et.al|[paper](https://arxiv.org/abs/2511.16184)|-|-|
 |**2025-11-20**|**L-JacobiNet and S-JacobiNet: An Analysis of Adaptive Generalization, Stabilization, and Spectral Domain Trade-offs in GNNs**|Huseyin Goksu et.al|[paper](https://arxiv.org/abs/2511.16081)|-|-|
 |**2025-11-19**|**LLMs-based Augmentation for Domain Adaptation in Long-tailed Food Datasets**|Qing Wang et.al|[paper](https://arxiv.org/abs/2511.16037)|-|-|
@@ -65,13 +67,13 @@
 |**2025-11-16**|**One Request, Multiple Experts: LLM Orchestrates Domain Specific Models via Adaptive Task Routing**|Xu Yang et.al|[paper](https://arxiv.org/abs/2511.12484)|-|-|
 |**2025-11-16**|**From IDs to Semantics: A Generative Framework for Cross-Domain Recommendation with Adaptive Semantic Tokenization**|Peiyu Hu et.al|[paper](https://arxiv.org/abs/2511.08006)|-|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
 |**2025-11-15**|**Global Variational Inference Enhanced Robust Domain Adaptation**|Lingkun Luo et.al|[paper](https://arxiv.org/abs/2507.03291)|-|<details><summary>detail</summary>The current version has issues in experimental protocol and presentation</details>|
-|**2025-11-15**|**Cross-View Cross-Modal Unsupervised Domain Adaptation for Driver Monitoring System**|Aditi Bhalla et.al|[paper](https://arxiv.org/abs/2511.12196)|-|-|
-|**2025-11-15**|**DoSReMC: Domain Shift Resilient Mammography Classification using Batch Normalization Adaptation**|Uğurcan Akyüz et.al|[paper](https://arxiv.org/abs/2508.15452)|-|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-21**|**Open-Set Domain Generalization through Spectral-Spatial Uncertainty Disentanglement for Hyperspectral Image Classification**|Amirreza Khoshbakht et.al|[paper](https://arxiv.org/abs/2506.09460)|-|-|
+|**2025-11-21**|**The Finer the Better: Towards Granular-aware Open-set Domain Generalization**|Yunyun Wang et.al|[paper](https://arxiv.org/abs/2511.16979)|-|-|
 |**2025-11-20**|**L-JacobiNet and S-JacobiNet: An Analysis of Adaptive Generalization, Stabilization, and Spectral Domain Trade-offs in GNNs**|Huseyin Goksu et.al|[paper](https://arxiv.org/abs/2511.16081)|-|-|
 |**2025-11-19**|**Foundational Automatic Evaluators: Scaling Multi-Task Generative Evaluator Training for Reasoning-Centric Domains**|Austin Xu et.al|[paper](https://arxiv.org/abs/2510.17793)|-|-|
 |**2025-11-19**|**Transferable Dual-Domain Feature Importance Attack against AI-Generated Image Detector**|Weiheng Zhu et.al|[paper](https://arxiv.org/abs/2511.15571)|-|-|
@@ -85,26 +87,24 @@
 |**2025-11-17**|**Evaluation of Domain-Specific Architectures for General-Purpose Applications in Apple Silicon**|Álvaro Corrochano López et.al|[paper](https://arxiv.org/abs/2511.13450)|-|-|
 |**2025-11-16**|**NeuroLex: A Lightweight Domain Language Model for EEG Report Understanding and Generation**|Kang Yin et.al|[paper](https://arxiv.org/abs/2511.12851)|-|-|
 |**2025-11-16**|**From IDs to Semantics: A Generative Framework for Cross-Domain Recommendation with Adaptive Semantic Tokenization**|Peiyu Hu et.al|[paper](https://arxiv.org/abs/2511.08006)|-|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
-|**2025-11-15**|**FGM optimization in complex domains using Gaussian process regression based profile generation algorithm**|Chaitanya Kumar Konda et.al|[paper](https://arxiv.org/abs/2511.12171)|-|-|
-|**2025-11-14**|**M-DAIGT: A Shared Task on Multi-Domain Detection of AI-Generated Text**|Salima Lamsiyah et.al|[paper](https://arxiv.org/abs/2511.11340)|-|-|
 
 ## vision language
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2025-11-20**|**TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding**|Boshen Xu et.al|[paper](https://arxiv.org/abs/2511.16595)|[code](https://xuboshen.github.io/TimeViper)|<details><summary>detail</summary>Project page: https://xuboshen</details>|
-|**2025-11-20**|**DiffuSyn Bench: Evaluating Vision-Language Models on Real-World Complexities with Diffusion-Generated Synthetic Benchmarks**|Haokun Zhou et.al|[paper](https://arxiv.org/abs/2406.04470)|-|-|
-|**2025-11-20**|**Contrastive vision-language learning with paraphrasing and negation**|Kwun Ho Ngan et.al|[paper](https://arxiv.org/abs/2511.16527)|-|-|
-|**2025-11-20**|**Learning to Detect Unknown Jailbreak Attacks in Large Vision-Language Models**|Shuang Liang et.al|[paper](https://arxiv.org/abs/2508.09201)|[code](https://anonymous.4open.science/r/Learning-to-Detect-51CB.)|-|
-|**2025-11-20**|**VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference**|Ziyan Liu et.al|[paper](https://arxiv.org/abs/2511.16449)|-|-|
-|**2025-11-20**|**TOFA: Training-Free One-Shot Federated Adaptation for Vision-Language Models**|Li Zhang et.al|[paper](https://arxiv.org/abs/2511.16423)|-|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
-|**2025-11-20**|**VisPlay: Self-Evolving Vision-Language Models from Images**|Yicheng He et.al|[paper](https://arxiv.org/abs/2511.15661)|[code](https://bruno686.github.io/VisPlay/)|-|
-|**2025-11-20**|**When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models**|Yuping Yan et.al|[paper](https://arxiv.org/abs/2511.16203)|-|-|
-|**2025-11-20**|**Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight**|Yi Yang et.al|[paper](https://arxiv.org/abs/2511.16175)|-|-|
-|**2025-11-20**|**EvoVLA: Self-Evolving Vision-Language-Action Model**|Zeting Liu et.al|[paper](https://arxiv.org/abs/2511.16166)|[code](https://github.com/AIGeeksGroup/EvoVLA.)|-|
-|**2025-11-20**|**Multi-Faceted Attack: Exposing Cross-Model Vulnerabilities in Defense-Equipped Vision-Language Models**|Yijun Yang et.al|[paper](https://arxiv.org/abs/2511.16110)|[code](https://github.com/cure-lab/MultiFacetedAttack)|<details><summary>detail</summary>AAAI 2026 Oral</details>|
-|**2025-11-20**|**HiViS: Hiding Visual Tokens from the Drafter for Speculative Decoding in Vision-Language Models**|Zhinan Xie et.al|[paper](https://arxiv.org/abs/2509.23928)|-|-|
-|**2025-11-19**|**Practical and Stealthy Touch-Guided Jailbreak Attacks on Deployed Mobile Vision-Language Agents**|Renhua Ding et.al|[paper](https://arxiv.org/abs/2510.07809)|-|-|
-|**2025-11-19**|**InfoCLIP: Bridging Vision-Language Pretraining and Open-Vocabulary Semantic Segmentation via Information-Theoretic Alignment Transfer**|Muyao Yuan et.al|[paper](https://arxiv.org/abs/2511.15967)|-|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
-|**2025-11-19**|**Shape and Texture Recognition in Large Vision-Language Models**|Sagi Eppel et.al|[paper](https://arxiv.org/abs/2503.23062)|-|-|
+|**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Jun Cen et.al|[paper](https://arxiv.org/abs/2511.17502)|-|-|
+|**2025-11-21**|**MMT-ARD: Multimodal Multi-Teacher Adversarial Distillation for Robust Vision-Language Models**|Yuqi Li et.al|[paper](https://arxiv.org/abs/2511.17448)|[code](https://github.com/itsnotacie/MMT-ARD.)|-|
+|**2025-11-21**|**METIS: Multi-Source Egocentric Training for Integrated Dexterous Vision-Language-Action Model**|Yankai Fu et.al|[paper](https://arxiv.org/abs/2511.17366)|-|-|
+|**2025-11-21**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Xingcheng Zhou et.al|[paper](https://arxiv.org/abs/2503.23463)|-|-|
+|**2025-11-21**|**Platonic Representations for Poverty Mapping: Unified Vision-Language Codes or Agent-Induced Novelty?**|Satiyabooshan Murugaboopathy et.al|[paper](https://arxiv.org/abs/2508.01109)|-|<details><summary>detail</summary>7 figures</details>|
+|**2025-11-21**|**DocSLM: A Small Vision-Language Model for Long Multimodal Document Understanding**|Tanveer Hannan et.al|[paper](https://arxiv.org/abs/2511.11313)|[code](https://github.com/Tanveer81/DocSLM.git.)|-|
+|**2025-11-21**|**A Little More Like This: Text-to-Image Retrieval with Vision-Language Models Using Relevance Feedback**|Bulat Khaertdinov et.al|[paper](https://arxiv.org/abs/2511.17255)|-|<details><summary>detail</summary>WACV'26</details>|
+|**2025-11-21**|**VLA-4D: Embedding 4D Awareness into Vision-Language-Action Models for SpatioTemporally Coherent Robotic Manipulation**|Hanyu Zhou et.al|[paper](https://arxiv.org/abs/2511.17199)|-|-|
+|**2025-11-21**|**VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference**|Ziyan Liu et.al|[paper](https://arxiv.org/abs/2511.16449)|-|-|
+|**2025-11-21**|**Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation**|Shuo Wang et.al|[paper](https://arxiv.org/abs/2511.17097)|-|-|
+|**2025-11-21**|**Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning**|Junming Liu et.al|[paper](https://arxiv.org/abs/2503.12972)|[code](https://github.com/Wings-Of-Disaster/VaLiK.)|-|
+|**2025-11-21**|**OmniPT: Unleashing the Potential of Large Vision Language Models for Pedestrian Tracking and Understanding**|Teng Fu et.al|[paper](https://arxiv.org/abs/2511.17053)|-|<details><summary>detail</summary>AAAI 2026</details>|
+|**2025-11-21**|**Do Vision-Language Models Understand Visual Persuasiveness?**|Gyuwon Park et.al|[paper](https://arxiv.org/abs/2511.17036)|-|-|
+|**2025-11-21**|**Vision Language Models are Confused Tourists**|Patrick Amadeus Irawan et.al|[paper](https://arxiv.org/abs/2511.17004)|-|-|
+|**2025-11-21**|**PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model**|Cheng Cui et.al|[paper](https://arxiv.org/abs/2510.14528)|[code](https://github.com/PaddlePaddle/PaddleOCR)|<details><summary>detail</summary>Github Repo: https://github</details>|
 
