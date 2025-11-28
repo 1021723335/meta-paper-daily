@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2025.11.27
+## Updated on 2025.11.28
 
 ## source-free
 
@@ -92,6 +92,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-11-26**|**G$^2$VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning**|Wenbo Hu et.al|[paper](https://arxiv.org/abs/2511.21688)|[code](https://github.com/InternRobotics/G2VLM)|<details><summary>detail</summary>code are released at https://github</details>|
+|**2025-11-26**|**Attention-Guided Patch-Wise Sparse Adversarial Attacks on Vision-Language-Action Models**|Naifu Zhang et.al|[paper](https://arxiv.org/abs/2511.21663)|-|-|
+|**2025-11-26**|**TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding**|Boshen Xu et.al|[paper](https://arxiv.org/abs/2511.16595)|[code](https://xuboshen.github.io/TimeViper;)|<details><summary>detail</summary>Project page: https://xuboshen</details>|
 |**2025-11-26**|**TinyChemVL: Advancing Chemical Vision-Language Models via Efficient Visual Token Reduction and Complex Reaction Tasks**|Xuanle Zhao et.al|[paper](https://arxiv.org/abs/2511.06283)|-|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
 |**2025-11-26**|**Do Reasoning Vision-Language Models Inversely Scale in Test-Time Compute? A Distractor-centric Empirical Analysis**|Jiyun Bae et.al|[paper](https://arxiv.org/abs/2511.21397)|-|<details><summary>detail</summary>preprint</details>|
 |**2025-11-26**|**Think Visually, Reason Textually: Vision-Language Synergy in ARC**|Beichen Zhang et.al|[paper](https://arxiv.org/abs/2511.15703)|[code](https://github.com/InternLM/ARC-VL.)|-|
@@ -104,7 +107,4 @@
 |**2025-11-26**|**Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning**|Jiaqi Liu et.al|[paper](https://arxiv.org/abs/2511.19900)|[code](https://github.com/aiming-lab/Agent0.)|-|
 |**2025-11-25**|**Vision-Language Enhanced Foundation Model for Semi-supervised Medical Image Segmentation**|Jiaqi Guo et.al|[paper](https://arxiv.org/abs/2511.19759)|-|-|
 |**2025-11-25**|**BUSTR: Breast Ultrasound Text Reporting with a Descriptor-Aware Vision-Language Model**|Rawa Mohammed et.al|[paper](https://arxiv.org/abs/2511.20956)|[code](https://github.com/AAR-UNLV/BUSTR)|-|
-|**2025-11-25**|**Directed-Tokens: A Robust Multi-Modality Alignment Approach to Large Language-Vision Models**|Thanh-Dat Truong et.al|[paper](https://arxiv.org/abs/2508.14264)|-|<details><summary>detail</summary>NeurIPS'25</details>|
-|**2025-11-25**|**Revisiting KRISP: A Lightweight Reproduction and Analysis of Knowledge-Enhanced Vision-Language Models**|Souradeep Dutta et.al|[paper](https://arxiv.org/abs/2511.20795)|-|-|
-|**2025-11-25**|**LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight**|Yunze Man et.al|[paper](https://arxiv.org/abs/2511.20648)|[code](https://nvlabs.github.io/LocateAnything3D/)|<details><summary>detail</summary>Tech report</details>|
 
