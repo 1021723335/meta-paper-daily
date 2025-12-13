@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2025.12.12
+## Updated on 2025.12.13
 
 ## source-free
 
@@ -92,6 +92,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-11**|**VL-JEPA: Joint Embedding Predictive Architecture for Vision-language**|Delong Chen et.al|[paper](https://arxiv.org/abs/2512.10942)|-|-|
+|**2025-12-11**|**From Macro to Micro: Benchmarking Microscopic Spatial Intelligence on Molecules via Vision-Language Models**|Zongzhao Li et.al|[paper](https://arxiv.org/abs/2512.10867)|[code](https://huggingface.co/datasets/zongzhao/MiSI-bench.)|-|
 |**2025-12-11**|**Fairness-Aware Fine-Tuning of Vision-Language Models for Medical Glaucoma Diagnosis**|Zijian Gu et.al|[paper](https://arxiv.org/abs/2512.03477)|-|-|
 |**2025-12-11**|**Continuous Vision-Language-Action Co-Learning with Semantic-Physical Alignment for Behavioral Cloning**|Xiuxiu Qi et.al|[paper](https://arxiv.org/abs/2511.14396)|[code](https://qhemu.github.io/CCoL/)|<details><summary>detail</summary>AAAI 2026</details>|
 |**2025-12-11**|**Vision-centric Token Compression in Large Language Model**|Ling Xing et.al|[paper](https://arxiv.org/abs/2502.00791)|[code](https://github.com/CSU-JPG/VIST.)|<details><summary>detail</summary>NeurIPS 2025 spotlight</details>|
@@ -105,6 +107,4 @@
 |**2025-12-10**|**HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models**|Minghui Lin et.al|[paper](https://arxiv.org/abs/2512.09928)|[code](https://hifvla.github.io)|<details><summary>detail</summary>Project page: https://hifvla</details>|
 |**2025-12-10**|**Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models**|Yifan Ye et.al|[paper](https://arxiv.org/abs/2512.09927)|[code](https://github.com/Jasper-aaa/TEAM-VLA)|-|
 |**2025-12-10**|**GLaD: Geometric Latent Distillation for Vision-Language-Action Models**|Minghao Guo et.al|[paper](https://arxiv.org/abs/2512.09619)|-|-|
-|**2025-12-10**|**Investigate the Low-level Visual Perception in Vision-Language based Image Quality Assessment**|Yuan Li et.al|[paper](https://arxiv.org/abs/2512.09573)|-|-|
-|**2025-12-10**|**Building Reasonable Inference for Vision-Language Models in Blind Image Quality Assessment**|Yuan Li et.al|[paper](https://arxiv.org/abs/2512.09555)|-|<details><summary>detail</summary>the ICONIP (International Conference on Neural Information Processing)</details>|
 
