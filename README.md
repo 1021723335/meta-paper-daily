@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2025.12.17
+## Updated on 2025.12.18
 
 ## source-free
 
@@ -32,6 +32,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-17**|**Evaluation of deep learning architectures for wildlife object detection: A comparative study of ResNet and Inception**|Malach Obisa Amonga et.al|[paper](https://arxiv.org/abs/2512.15480)|-|-|
+|**2025-12-17**|**Criticality Metrics for Relevance Classification in Safety Evaluation of Object Detection in Automated Driving**|Jörg Gamerdinger et.al|[paper](https://arxiv.org/abs/2512.15181)|-|<details><summary>detail</summary>IEEE ICVES 2025</details>|
 |**2025-12-16**|**CIS-BA: Continuous Interaction Space Based Backdoor Attack for Object Detection in the Real-World**|Shuxin Zhao et.al|[paper](https://arxiv.org/abs/2512.14158)|-|-|
 |**2025-12-15**|**Route-DETR: Pairwise Query Routing in Transformers for Object Detection**|Ye Zhang et.al|[paper](https://arxiv.org/abs/2512.13876)|-|-|
 |**2025-12-15**|**We Can Always Catch You: Detecting Adversarial Patched Objects WITH or WITHOUT Signature**|Jiachun Li et.al|[paper](https://arxiv.org/abs/2106.05261)|-|<details><summary>detail</summary>Journal ref:in IEEE Transactions on Dependable and Secure Computing</details>|
@@ -45,13 +47,12 @@
 |**2025-12-11**|**TransBridge: Boost 3D Object Detection by Scene-Level Completion with Transformer Decoder**|Qinghao Meng et.al|[paper](https://arxiv.org/abs/2512.11926)|-|-|
 |**2025-12-11**|**Salient Object Detection in Complex Weather Conditions via Noise Indicators**|Quan Chen et.al|[paper](https://arxiv.org/abs/2512.10592)|-|-|
 |**2025-12-10**|**Quantifying the Reliability of Predictions in Detection Transformers: Object-Level Calibration and Image-Level Uncertainty**|Young-Jin Park et.al|[paper](https://arxiv.org/abs/2412.01782)|-|-|
-|**2025-12-10**|**ABBSPO: Adaptive Bounding Box Scaling and Symmetric Prior based Orientation Prediction for Detecting Aerial Image Objects**|Woojin Lee et.al|[paper](https://arxiv.org/abs/2512.10031)|[code](https://kaist-viclab.github.io/ABBSPO_site/)|-|
-|**2025-12-10**|**Hands-on Evaluation of Visual Transformers for Object Recognition and Detection**|Dimitrios N. Vlachogiannis et.al|[paper](https://arxiv.org/abs/2512.09579)|-|<details><summary>detail</summary>Journal ref:37th International Conference on Tools with Artificial Intelligence (ICTAI 2025)</details>|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-16**|**SynJAC: Synthetic-data-driven Joint-granular Adaptation and Calibration for Domain Specific Scanned Document Key Information Extraction**|Yihao Ding et.al|[paper](https://arxiv.org/abs/2410.01609)|-|<details><summary>detail</summary>Accepted for publication in Information Fusion</details>|
 |**2025-12-16**|**DASP: Self-supervised Nighttime Monocular Depth Estimation with Domain Adaptation of Spatiotemporal Priors**|Yiheng Huang et.al|[paper](https://arxiv.org/abs/2512.14536)|-|-|
 |**2025-12-16**|**Wi-CBR: Salient-aware Adaptive WiFi Sensing for Cross-domain Behavior Recognition**|Ruobei Zhang et.al|[paper](https://arxiv.org/abs/2506.11616)|-|-|
 |**2025-12-15**|**A Domain-Adapted Lightweight Ensemble for Resource-Efficient Few-Shot Plant Disease Classification**|Anika Islam et.al|[paper](https://arxiv.org/abs/2512.13428)|-|-|
@@ -66,7 +67,6 @@
 |**2025-12-9**|**A scalable high-order multigrid-FFT Poisson solver for unbounded domains on adaptive multiresolution grids**|Gilles Poncelet et.al|[paper](https://arxiv.org/abs/2512.08555)|-|<details><summary>detail</summary>Submitted to SIAM Journal on Scientific Computing</details>|
 |**2025-12-9**|**Mortgage Language Model: Domain-Adaptive Pretraining with Residual Instruction, Alignment Tuning, and Task-Specific Routing**|Manish Jain et.al|[paper](https://arxiv.org/abs/2511.21101)|-|-|
 |**2025-12-8**|**CFD-copilot: leveraging domain-adapted large language model and model context protocol to enhance simulation automation**|Zhehao Dong et.al|[paper](https://arxiv.org/abs/2512.07917)|-|-|
-|**2025-12-7**|**Balanced Learning for Domain Adaptive Semantic Segmentation**|Wangkai Li et.al|[paper](https://arxiv.org/abs/2512.06886)|[code](https://github.com/Woof6/BLDA.)|<details><summary>detail</summary>Accepted by International Conference on Machine Learning (ICML 2025)</details>|
 
 ## domain generalization
 
@@ -92,19 +92,19 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2025-12-16**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Haoyu Fu et.al|[paper](https://arxiv.org/abs/2512.13636)|[code](https://xiaomi-mlab.github.io/MindDrive/)|-|
+|**2025-12-17**|**VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression**|Kyle Sargent et.al|[paper](https://arxiv.org/abs/2512.15701)|[code](https://kylesargent.github.io/vlic)|-|
+|**2025-12-17**|**VTCBench: Can Vision-Language Models Understand Long Context with Vision-Text Compression?**|Hongbo Zhao et.al|[paper](https://arxiv.org/abs/2512.15649)|-|-|
+|**2025-12-17**|**An Efficient and Effective Encoder Model for Vision and Language Tasks in the Remote Sensing Domain**|João Daniel Silva et.al|[paper](https://arxiv.org/abs/2512.15531)|-|-|
+|**2025-12-17**|**MiVLA: Towards Generalizable Vision-Language-Action Model with Human-Robot Mutual Imitation Pre-training**|Zhenhan Yin et.al|[paper](https://arxiv.org/abs/2512.15411)|-|-|
+|**2025-12-17**|**Image Complexity-Aware Adaptive Retrieval for Efficient Vision-Language Models**|Mikel Williams-Lekuona et.al|[paper](https://arxiv.org/abs/2512.15372)|-|<details><summary>detail</summary>Accepted paper for ECIR 2026</details>|
+|**2025-12-17**|**VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments**|Yuze Wu et.al|[paper](https://arxiv.org/abs/2512.15258)|-|-|
+|**2025-12-17**|**Assessing the Visual Enumeration Abilities of Specialized Counting Architectures and Vision-Language Models**|Kuinan Hou et.al|[paper](https://arxiv.org/abs/2512.15254)|-|-|
+|**2025-12-17**|**Intersectional Fairness in Vision-Language Models for Medical Image Disease Classification**|Yupeng Zhang et.al|[paper](https://arxiv.org/abs/2512.15249)|-|-|
+|**2025-12-16**|**Benchmarking and Mitigating Sycophancy in Medical Vision Language Models**|Zikun Guo et.al|[paper](https://arxiv.org/abs/2509.21979)|-|<details><summary>detail</summary>19figures</details>|
 |**2025-12-16**|**History-Enhanced Two-Stage Transformer for Aerial Vision-and-Language Navigation**|Xichen Ding et.al|[paper](https://arxiv.org/abs/2512.14222)|-|-|
-|**2025-12-15**|**SDAR-VL: Stable and Efficient Block-wise Diffusion for Vision-Language Understanding**|Shuang Cheng et.al|[paper](https://arxiv.org/abs/2512.14068)|-|-|
-|**2025-12-15**|**OmniDrive-R1: Reinforcement-driven Interleaved Multi-modal Chain-of-Thought for Trustworthy Vision-Language Autonomous Driving**|Zhenguo Zhang et.al|[paper](https://arxiv.org/abs/2512.14044)|-|-|
-|**2025-12-15**|**Sample-Efficient Robot Skill Learning for Construction Tasks: Benchmarking Hierarchical Reinforcement Learning and Vision-Language-Action VLA Model**|Zhaofeng Hu et.al|[paper](https://arxiv.org/abs/2512.14031)|-|-|
-|**2025-12-15**|**Med3DVLM: An Efficient Vision-Language Model for 3D Medical Image Analysis**|Yu Xin et.al|[paper](https://arxiv.org/abs/2503.20047)|[code](https://github.com/mirthAI/Med3DVLM.)|-|
-|**2025-12-15**|**Improvise, Adapt, Overcome -- Telescopic Adapters for Efficient Fine-tuning of Vision Language Models in Medical Imaging**|Ujjwal Mishra et.al|[paper](https://arxiv.org/abs/2512.13855)|-|<details><summary>detail</summary>the IEEE/CVF winter conference on applications of computer vision (WACV 2026)</details>|
-|**2025-12-15**|**RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics**|Enshen Zhou et.al|[paper](https://arxiv.org/abs/2512.13660)|[code](https://zhoues.github.io/RoboTracer)|<details><summary>detail</summary>Project page: https://zhoues</details>|
-|**2025-12-15**|**Do-Undo: Generating and Reversing Physical Actions in Vision-Language Models**|Shweta Mahajan et.al|[paper](https://arxiv.org/abs/2512.13609)|-|-|
-|**2025-12-15**|**dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model**|Yumeng Li et.al|[paper](https://arxiv.org/abs/2512.02498)|-|-|
-|**2025-12-15**|**Multi-Robot Motion Planning from Vision and Language using Heat-Inspired Diffusion**|Jebeom Chae et.al|[paper](https://arxiv.org/abs/2512.13090)|-|-|
-|**2025-12-15**|**MDE-AgriVLN: Agricultural Vision-and-Language Navigation with Monocular Depth Estimation**|Xiaobei Zhao et.al|[paper](https://arxiv.org/abs/2512.03958)|[code](https://github.com/AlexTraveling/MDE-AgriVLN.)|-|
-|**2025-12-14**|**VLCache: Computing 2% Vision Tokens and Reusing 98% for Vision-Language Inference**|Shengling Qin et.al|[paper](https://arxiv.org/abs/2512.12977)|-|-|
-|**2025-12-14**|**DL$^3$M: A Vision-to-Language Framework for Expert-Level Medical Reasoning through Deep Learning and Large Language Models**|Md. Najib Hasan et.al|[paper](https://arxiv.org/abs/2512.13742)|[code](https://github.com/souravbasakshuvo/DL3M.)|-|
-|**2025-12-14**|**VLG-Loc: Vision-Language Global Localization from Labeled Footprint Maps**|Mizuho Aoki et.al|[paper](https://arxiv.org/abs/2512.12793)|-|-|
+|**2025-12-16**|**Abstract 3D Perception for Spatial Intelligence in Vision-Language Models**|Yifan Liu et.al|[paper](https://arxiv.org/abs/2511.10946)|-|-|
+|**2025-12-16**|**dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model**|Yumeng Li et.al|[paper](https://arxiv.org/abs/2512.02498)|-|-|
+|**2025-12-16**|**Parameter Efficient Multimodal Instruction Tuning for Romanian Vision Language Models**|George-Andrei Dima et.al|[paper](https://arxiv.org/abs/2512.14926)|-|-|
+|**2025-12-16**|**From Segments to Scenes: Temporal Understanding in Autonomous Driving via Vision-Language Model**|Kevin Cannons et.al|[paper](https://arxiv.org/abs/2512.05277)|[code](https://huggingface.co/datasets/vbdai/TAD)|-|
+|**2025-12-16**|**EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models**|Zechen Bai et.al|[paper](https://arxiv.org/abs/2512.14666)|-|-|
 
