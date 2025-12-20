@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2025.12.19
+## Updated on 2025.12.20
 
 ## source-free
 
@@ -32,6 +32,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-18**|**SceneDiff: A Benchmark and Method for Multiview Object Change Detection**|Yuqun Wu et.al|[paper](https://arxiv.org/abs/2512.16908)|-|-|
 |**2025-12-18**|**FlowDet: Unifying Object Detection and Generative Transport Flows**|Enis Baty et.al|[paper](https://arxiv.org/abs/2512.16771)|-|-|
 |**2025-12-18**|**Diffusion-Based Restoration for Multi-Modal 3D Object Detection in Adverse Weather**|Zhijian He et.al|[paper](https://arxiv.org/abs/2512.13107)|-|-|
 |**2025-12-18**|**YOLO11-4K: An Efficient Architecture for Real-Time Small Object Detection in 4K Panoramic Images**|Huma Hafeez et.al|[paper](https://arxiv.org/abs/2512.16493)|-|<details><summary>detail</summary>Conference paper just submitted</details>|
@@ -46,7 +47,6 @@
 |**2025-12-14**|**Cross-Level Sensor Fusion with Object Lists via Transformer for 3D Object Detection**|Xiangzhong Liu et.al|[paper](https://arxiv.org/abs/2512.12884)|-|-|
 |**2025-12-13**|**WeDetect: Fast Open-Vocabulary Object Detection as Retrieval**|Shenghao Fu et.al|[paper](https://arxiv.org/abs/2512.12309)|-|-|
 |**2025-12-13**|**Cognitive-YOLO: LLM-Driven Architecture Synthesis from First Principles of Data for Object Detection**|Jiahao Zhao et.al|[paper](https://arxiv.org/abs/2512.12281)|-|-|
-|**2025-12-12**|**Enhancing Object Discovery for Unsupervised Instance Segmentation and Object Detection**|Xingyu Feng et.al|[paper](https://arxiv.org/abs/2508.02386)|[code](https://github.com/Quantumcraft616/COLER.)|-|
 
 ## domain adaptation
 
@@ -92,6 +92,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-18**|**MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning**|Yuanchen Ju et.al|[paper](https://arxiv.org/abs/2512.16909)|[code](https://hybridrobotics.github.io/MomaGraph/)|-|
 |**2025-12-18**|**PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence**|Xiaopeng Lin et.al|[paper](https://arxiv.org/abs/2512.16793)|-|-|
 |**2025-12-18**|**Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future**|Tianshuai Hu et.al|[paper](https://arxiv.org/abs/2512.16760)|[code](https://github.com/worldbench/awesome-vla-for-ad)|<details><summary>detail</summary>Preprint</details>|
 |**2025-12-18**|**N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models**|Yuxin Wang et.al|[paper](https://arxiv.org/abs/2512.16561)|[code](https://n3d-vlm.github.io)|<details><summary>detail</summary>Project Page: https://n3d-vlm</details>|
@@ -106,5 +107,4 @@
 |**2025-12-17**|**Provable Ordering and Continuity in Vision-Language Pretraining for Generalizable Embodied Agents**|Zhizhen Zhang et.al|[paper](https://arxiv.org/abs/2502.01218)|-|<details><summary>detail</summary>NeurIPS 2025 Poster</details>|
 |**2025-12-17**|**Are vision-language models ready to zero-shot replace supervised classification models in agriculture?**|Earl Ranario et.al|[paper](https://arxiv.org/abs/2512.15977)|-|<details><summary>detail</summary>Draft version</details>|
 |**2025-12-17**|**Seeing is Believing (and Predicting): Context-Aware Multi-Human Behavior Prediction with Vision Language Models**|Utsav Panchal et.al|[paper](https://arxiv.org/abs/2512.15957)|-|<details><summary>detail</summary>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</details>|
-|**2025-12-17**|**R4: Retrieval-Augmented Reasoning for Vision-Language Models in 4D Spatio-Temporal Space**|Tin Stribor Sohn et.al|[paper](https://arxiv.org/abs/2512.15940)|-|-|
 
