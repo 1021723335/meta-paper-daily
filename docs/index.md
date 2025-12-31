@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2025.12.30
+## Updated on 2025.12.31
 
 ## source-free
 
@@ -32,6 +32,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-29**|**Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection**|Nico Baumgart et.al|[paper](https://arxiv.org/abs/2403.04809)|-|-|
+|**2025-12-29**|**Automated river gauge plate reading using a hybrid object detection and generative AI framework in the Limpopo River Basin**|Kayathri Vigneswaran et.al|[paper](https://arxiv.org/abs/2512.23454)|-|-|
 |**2025-12-29**|**ZeBROD: Zero-Retraining Based Recognition and Object Detection Framework**|Priyanto Hidayatullah et.al|[paper](https://arxiv.org/abs/2512.04888)|-|<details><summary>detail</summary>This manuscript was first submitted to the AI Open (Elsevier Journal)</details>|
 |**2025-12-28**|**GVSynergy-Det: Synergistic Gaussian-Voxel Representations for Multi-View 3D Object Detection**|Yi Zhang et.al|[paper](https://arxiv.org/abs/2512.23176)|-|-|
 |**2025-12-28**|**GeoTeacher: Geometry-Guided Semi-Supervised 3D Object Detection**|Jingyu Li et.al|[paper](https://arxiv.org/abs/2512.23147)|[code](https://github.com/SII-Whaleice/GeoTeacher)|-|
@@ -45,13 +47,12 @@
 |**2025-12-27**|**SCAFusion: A Multimodal 3D Detection Framework for Small Object Detection in Lunar Surface Exploration**|Xin Chen et.al|[paper](https://arxiv.org/abs/2512.22503)|-|-|
 |**2025-12-27**|**Scalpel-SAM: A Semi-Supervised Paradigm for Adapting SAM to Infrared Small Object Detection**|Zihan Liu et.al|[paper](https://arxiv.org/abs/2512.22483)|-|-|
 |**2025-12-26**|**Comparing Object Detection Models for Electrical Substation Component Mapping**|Haley Mody et.al|[paper](https://arxiv.org/abs/2512.22454)|-|-|
-|**2025-12-26**|**Towards Robust Optical-SAR Object Detection under Missing Modalities: A Dynamic Quality-Aware Fusion Framework**|Zhicheng Zhao et.al|[paper](https://arxiv.org/abs/2512.22447)|-|-|
-|**2025-12-26**|**DeFloMat: Detection with Flow Matching for Stable and Efficient Generative Object Localization**|Hansang Lee et.al|[paper](https://arxiv.org/abs/2512.22406)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-29**|**EEG-based Graph-guided Domain Adaptation for Robust Cross-Session Emotion Recognition**|Maryam Mirzaei et.al|[paper](https://arxiv.org/abs/2512.23526)|-|-|
 |**2025-12-29**|**Exploring Syn-to-Real Domain Adaptation for Military Target Detection**|Jongoh Jeong et.al|[paper](https://arxiv.org/abs/2512.23208)|-|-|
 |**2025-12-28**|**Adapting In-Domain Few-Shot Segmentation to New Domains without Source Domain Retraining**|Qi Fan et.al|[paper](https://arxiv.org/abs/2504.21414)|[code](https://github.com/fanq15/ISA.)|-|
 |**2025-12-27**|**Fake News Classification in Urdu: A Domain Adaptation Approach for a Low-Resource Language**|Muhammad Zain Ali et.al|[paper](https://arxiv.org/abs/2512.22778)|-|-|
@@ -66,7 +67,6 @@
 |**2025-12-22**|**Navigating the Reality Gap: Privacy-Preserving Adaptation of ASR for Challenging Low-Resource Domains**|Darshil Chauhan et.al|[paper](https://arxiv.org/abs/2512.16401)|-|-|
 |**2025-12-21**|**Low-Rank Expert Merging for Multi-Source Domain Adaptation in Person Re-Identification**|Taha Mustapha Nehdi et.al|[paper](https://arxiv.org/abs/2508.06831)|-|-|
 |**2025-12-20**|**TermGPT: Multi-Level Contrastive Fine-Tuning for Terminology Adaptation in Legal and Financial Domain**|Yidan Sun et.al|[paper](https://arxiv.org/abs/2511.09854)|-|-|
-|**2025-12-20**|**Hierarchical Bayesian Framework for Multisource Domain Adaptation**|Alexander M. Glandon et.al|[paper](https://arxiv.org/abs/2512.18553)|-|-|
 
 ## domain generalization
 
@@ -92,6 +92,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2025-12-29**|**Same or Not? Enhancing Visual Perception in Vision-Language Models**|Damiano Marsili et.al|[paper](https://arxiv.org/abs/2512.23592)|[code](https://glab-caltech.github.io/twin/)|<details><summary>detail</summary>Project webpage: https://glab-caltech</details>|
+|**2025-12-29**|**Instruction-Following Evaluation of Large Vision-Language Models**|Daiki Shiono et.al|[paper](https://arxiv.org/abs/2512.23572)|-|-|
+|**2025-12-29**|**VL-RouterBench: A Benchmark for Vision-Language Model Routing**|Zhehao Huang et.al|[paper](https://arxiv.org/abs/2512.23562)|-|-|
+|**2025-12-29**|**UniHetero: Could Generation Enhance Understanding for Vision-Language-Model at Large Data Scale?**|Fengjiao Chen et.al|[paper](https://arxiv.org/abs/2512.23512)|-|<details><summary>detail</summary>ACM Class:I</details>|
+|**2025-12-29**|**CoFi-Dec: Hallucination-Resistant Decoding via Coarse-to-Fine Generative Feedback in Large Vision-Language Models**|Zongsheng Cao et.al|[paper](https://arxiv.org/abs/2512.23453)|[code](https://github.com/AI-Researcher-Team/CoFi-Dec.)|-|
+|**2025-12-29**|**OmniDrive-R1: Reinforcement-driven Interleaved Multi-modal Chain-of-Thought for Trustworthy Vision-Language Autonomous Driving**|Zhenguo Zhang et.al|[paper](https://arxiv.org/abs/2512.14044)|-|-|
 |**2025-12-29**|**ViLaCD-R1: A Vision-Language Framework for Semantic Change Detection in Remote Sensing**|Xingwei Ma et.al|[paper](https://arxiv.org/abs/2512.23244)|-|-|
 |**2025-12-29**|**Multimodal Interpretation of Remote Sensing Images: Dynamic Resolution Input Strategy and Multi-scale Vision-Language Alignment Mechanism**|Siyu Zhang et.al|[paper](https://arxiv.org/abs/2512.23243)|-|-|
 |**2025-12-28**|**How Much Data Is Enough? Uniform Convergence Bounds for Generative & Vision-Language Models under Low-Dimensional Structure**|Paul M. Thompson et.al|[paper](https://arxiv.org/abs/2512.23109)|-|-|
@@ -101,10 +107,4 @@
 |**2025-12-28**|**VPTracker: Global Vision-Language Tracking via Visual Prompt and MLLM**|Jingchao Wang et.al|[paper](https://arxiv.org/abs/2512.22799)|[code](https://github.com/jcwang0602/VPTracker.)|-|
 |**2025-12-27**|**VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis**|Meng Chu et.al|[paper](https://arxiv.org/abs/2512.19243)|-|-|
 |**2025-12-27**|**ICONS: Influence Consensus for Vision-Language Data Selection**|Xindi Wu et.al|[paper](https://arxiv.org/abs/2501.00654)|-|-|
-|**2025-12-27**|**Enhancing Vision-Language Model Reliability with Uncertainty-Guided Dropout Decoding**|Yixiong Fang et.al|[paper](https://arxiv.org/abs/2412.06474)|[code](https://github.com/kigb/DropoutDecoding.)|<details><summary>detail</summary>39th Conference on Neural Information Processing Systems (NeurIPS 2025)</details>|
-|**2025-12-27**|**Dream-VL & Dream-VLA: Open Vision-Language and Vision-Language-Action Models with Diffusion Language Model Backbone**|Jiacheng Ye et.al|[paper](https://arxiv.org/abs/2512.22615)|-|-|
-|**2025-12-27**|**VLA-Arena: An Open-Source Framework for Benchmarking Vision-Language-Action Models**|Borong Zhang et.al|[paper](https://arxiv.org/abs/2512.22539)|[code](https://vla-arena.github.io.)|-|
-|**2025-12-27**|**Clutter-Resistant Vision-Language-Action Models through Object-Centric and Geometry Grounding**|Khoa Vo et.al|[paper](https://arxiv.org/abs/2512.22519)|[code](https://uark-aicv.github.io/OBEYED_VLA)|<details><summary>detail</summary>Under review</details>|
-|**2025-12-26**|**Emergence of Human to Robot Transfer in Vision-Language-Action Models**|Simar Kareer et.al|[paper](https://arxiv.org/abs/2512.22414)|-|-|
-|**2025-12-26**|**LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models**|Senyu Fei et.al|[paper](https://arxiv.org/abs/2510.13626)|-|-|
 
