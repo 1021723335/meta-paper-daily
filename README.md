@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2026.01.09
+## Updated on 2026.01.10
 
 ## source-free
 
@@ -92,6 +92,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-8**|**LaST$_{0}$: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model**|Zhuoyang Liu et.al|[paper](https://arxiv.org/abs/2601.05248)|[code](https://sites.google.com/view/last0)|-|
 |**2026-1-8**|**Mechanisms of Prompt-Induced Hallucination in Vision-Language Models**|William Rudman et.al|[paper](https://arxiv.org/abs/2601.05201)|-|<details><summary>detail</summary>ACM Class:I</details>|
 |**2026-1-8**|**MVT: Mask-Grounded Vision-Language Models for Taxonomy-Aligned Land-Cover Tagging**|Siyi Chen et.al|[paper](https://arxiv.org/abs/2509.18693)|[code](https://charlescsyyy.github.io/MVT)|<details><summary>detail</summary>The project is available at https://charlescsyyy</details>|
 |**2026-1-8**|**Vision-Language Introspection: Mitigating Overconfident Hallucinations in MLLMs via Interpretable Bi-Causal Steering**|Shuliang Liu et.al|[paper](https://arxiv.org/abs/2601.05159)|-|-|
@@ -106,5 +107,4 @@
 |**2026-1-8**|**RoboReward: General-Purpose Vision-Language Reward Models for Robotics**|Tony Lee et.al|[paper](https://arxiv.org/abs/2601.00675)|[code](https://crfm.stanford.edu/helm/robo-reward-bench)|-|
 |**2026-1-8**|**SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning**|Zebin Han et.al|[paper](https://arxiv.org/abs/2601.04699)|-|-|
 |**2026-1-8**|**Agri-R1: Empowering Generalizable Agricultural Reasoning in Vision-Language Models with Reinforcement Learning**|Wentao Zhang et.al|[paper](https://arxiv.org/abs/2601.04672)|-|<details><summary>detail</summary>This paper is submitted for review to ACL 2026</details>|
-|**2026-1-8**|**GeoReason: Aligning Thinking And Answering In Remote Sensing Vision-Language Models Via Logical Consistency Reinforcement Learning**|Wenshuai Li et.al|[paper](https://arxiv.org/abs/2601.04118)|-|-|
 
