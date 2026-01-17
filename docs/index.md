@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2026.01.16
+## Updated on 2026.01.17
 
 ## source-free
 
@@ -92,6 +92,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-15**|**From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion**|Cheng Chen et.al|[paper](https://arxiv.org/abs/2601.10710)|-|-|
 |**2026-1-15**|**Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding**|Christopher Clark et.al|[paper](https://arxiv.org/abs/2601.10611)|-|-|
 |**2026-1-15**|**Semantic Misalignment in Vision-Language Models under Perceptual Degradation**|Guo Cheng et.al|[paper](https://arxiv.org/abs/2601.08355)|-|-|
 |**2026-1-15**|**Image Complexity-Aware Adaptive Retrieval for Efficient Vision-Language Models**|Mikel Williams-Lekuona et.al|[paper](https://arxiv.org/abs/2512.15372)|-|<details><summary>detail</summary>Camera-ready version for ECIR 2026</details>|
@@ -106,5 +107,4 @@
 |**2026-1-14**|**Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning**|Chi-Pin Huang et.al|[paper](https://arxiv.org/abs/2601.09708)|[code](https://jasper0314-huang.github.io/fast-thinkact/)|<details><summary>detail</summary>Project page: https://jasper0314-huang</details>|
 |**2026-1-14**|**CLARE: Continual Learning for Vision-Language-Action Models via Autonomous Adapter Routing and Expansion**|Ralf Römer et.al|[paper](https://arxiv.org/abs/2601.09512)|[code](https://tum-lsy.github.io/clare.)|<details><summary>detail</summary>Project page: https://tum-lsy</details>|
 |**2026-1-14**|**PrivLEX: Detecting legal concepts in images through Vision-Language Models**|Darya Baranouskaya et.al|[paper](https://arxiv.org/abs/2601.09449)|-|-|
-|**2026-1-14**|**Uncovering Intrinsic Capabilities: A Paradigm for Data Curation in Vision-Language Models**|Junjie Li et.al|[paper](https://arxiv.org/abs/2510.00040)|-|-|
 
