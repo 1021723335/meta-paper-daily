@@ -6,12 +6,13 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2026.01.18
+## Updated on 2026.01.19
 
 ## source-free
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-16**|**GMM-COMET: Continual Source-Free Universal Domain Adaptation via a Mean Teacher and Gaussian Mixture Model-Based Pseudo-Labeling**|Pascal Schlachter et.al|[paper](https://arxiv.org/abs/2601.11161)|[code](https://github.com/pascalschlachter/GMM-COMET.)|-|
 |**2026-1-13**|**SfMamba: Efficient Source-Free Domain Adaptation via Selective Scan Modeling**|Xi Chen et.al|[paper](https://arxiv.org/abs/2601.08608)|[code](https://github.com/chenxi52/SfMamba.)|-|
 |**2026-1-13**|**Source-Free Domain Adaptation for Geospatial Point Cloud Semantic Segmentation**|Yuan Gao et.al|[paper](https://arxiv.org/abs/2601.08375)|-|-|
 |**2026-1-5**|**Empowering Source-Free Domain Adaptation via MLLM-Guided Reliability-Based Curriculum Learning**|Dongjie Chen et.al|[paper](https://arxiv.org/abs/2405.18376)|[code](https://github.com/Dong-Jie-Chen/RCL.)|-|
@@ -26,7 +27,6 @@
 |**2025-11-23**|**SloMo-Fast: Slow-Momentum and Fast-Adaptive Teachers for Source-Free Continual Test-Time Adaptation**|Md Akil Raihan Iftee et.al|[paper](https://arxiv.org/abs/2511.18468)|-|-|
 |**2025-11-23**|**ViMix-14M: A Curated Multi-Source Video-Text Dataset with Long-Form, High-Quality Captions and Crawl-Free Access**|Timing Yang et.al|[paper](https://arxiv.org/abs/2511.18382)|-|-|
 |**2025-11-22**|**HEAL: Learning-Free Source Free Unsupervised Domain Adaptation for Cross-Modality Medical Image Segmentation**|Yulong Shi et.al|[paper](https://arxiv.org/abs/2511.17958)|[code](https://github.com/derekshiii/HEAL.)|<details><summary>detail</summary>Accepted by The 36th British Machine Vision Conference (BMVC 2025)</details>|
-|**2025-11-19**|**Multi-source-free Domain Adaptation via Uncertainty-aware Adaptive Distillation**|Yaxuan Song et.al|[paper](https://arxiv.org/abs/2402.06213)|[code](https://github.com/YXSong000/UAD.)|<details><summary>detail</summary>Accepted by ISBI 2024</details>|
 
 ## object detection
 
@@ -52,6 +52,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-16**|**Generalizable Domain Adaptation for Sim-and-Real Policy Co-Training**|Shuo Cheng et.al|[paper](https://arxiv.org/abs/2509.18631)|[code](https://ot-sim2real.github.io/.)|<details><summary>detail</summary>NeurIPS 2025</details>|
+|**2026-1-16**|**GMM-COMET: Continual Source-Free Universal Domain Adaptation via a Mean Teacher and Gaussian Mixture Model-Based Pseudo-Labeling**|Pascal Schlachter et.al|[paper](https://arxiv.org/abs/2601.11161)|[code](https://github.com/pascalschlachter/GMM-COMET.)|-|
+|**2026-1-15**|**MMedExpert-R1: Strengthening Multimodal Medical Reasoning via Domain-Specific Adaptation and Clinical Guideline Reinforcement**|Meidan Ding et.al|[paper](https://arxiv.org/abs/2601.10949)|-|-|
 |**2026-1-14**|**Lifelong Domain Adaptive 3D Human Pose Estimation**|Qucheng Peng et.al|[paper](https://arxiv.org/abs/2512.23860)|-|<details><summary>detail</summary>Accepted by AAAI 2026</details>|
 |**2026-1-13**|**ISLA: A U-Net for MRI-based acute ischemic stroke lesion segmentation with deep supervision, attention, domain adaptation, and ensemble learning**|Vincent Roca et.al|[paper](https://arxiv.org/abs/2601.08732)|-|-|
 |**2026-1-13**|**SfMamba: Efficient Source-Free Domain Adaptation via Selective Scan Modeling**|Xi Chen et.al|[paper](https://arxiv.org/abs/2601.08608)|[code](https://github.com/chenxi52/SfMamba.)|-|
@@ -64,14 +67,13 @@
 |**2026-1-9**|**Unsupervised Domain Adaptation for Binary Classification with an Unobservable Source Subpopulation**|Chao Ying et.al|[paper](https://arxiv.org/abs/2509.20587)|-|-|
 |**2026-1-8**|**LELA: an LLM-based Entity Linking Approach with Zero-Shot Domain Adaptation**|Samy Haffoudhi et.al|[paper](https://arxiv.org/abs/2601.05192)|-|-|
 |**2026-1-7**|**Towards Real-world Lens Active Alignment with Unlabeled Data via Domain Adaptation**|Wenyong Li et.al|[paper](https://arxiv.org/abs/2601.03718)|-|-|
-|**2026-1-7**|**Causally-Aware Information Bottleneck for Domain Adaptation**|Mohammad Ali Javidian et.al|[paper](https://arxiv.org/abs/2601.04361)|-|<details><summary>detail</summary>An extended abstract version of this work was accepted for the Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</details>|
-|**2026-1-7**|**Domain Adaptation of the Pyannote Diarization Pipeline for Conversational Indonesian Audio**|Muhammad Daffa'i Rafi Prasetyo et.al|[paper](https://arxiv.org/abs/2601.03684)|-|<details><summary>detail</summary>Experiments conducted using synthetic Indonesian conversational speech for domain adaptation</details>|
-|**2026-1-6**|**An Expectation-Maximization Algorithm for Domain Adaptation in Gaussian Causal Models**|Mohammad Ali Javidian et.al|[paper](https://arxiv.org/abs/2601.03459)|-|<details><summary>detail</summary>An earlier version of this work was accepted for the Proceedings of the 2025 IEEE International Conference on Data Mining (ICDM)</details>|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-16**|**A Distributed Generative AI Approach for Heterogeneous Multi-Domain Environments under Data Sharing constraints**|Youssef Tawfilis et.al|[paper](https://arxiv.org/abs/2507.12979)|[code](https://distributed-gen-ai.github.io/huscf-gan.github.io/.)|<details><summary>detail</summary>Accepted and published in Transactions on Machine Learning Research (TMLR)</details>|
+|**2026-1-16**|**Learn Before Represent: Bridging Generative and Contrastive Learning for Domain-Specific LLM Embeddings**|Xiaoyu Liang et.al|[paper](https://arxiv.org/abs/2601.11124)|-|-|
 |**2026-1-15**|**Panning for Gold: Expanding Domain-Specific Knowledge Graphs with General Knowledge**|Runhao Zhao et.al|[paper](https://arxiv.org/abs/2601.10485)|-|-|
 |**2026-1-15**|**Modality-Balanced Collaborative Distillation for Multi-Modal Domain Generalization**|Xiaohan Wang et.al|[paper](https://arxiv.org/abs/2511.20258)|-|-|
 |**2026-1-14**|**Towards Robust Cross-Dataset Object Detection Generalization under Domain Specificity**|Ritabrata Chakraborty et.al|[paper](https://arxiv.org/abs/2601.09497)|[code](https://github.com/Ritabrata04/cdod-icpr.git)|-|
@@ -85,26 +87,24 @@
 |**2026-1-11**|**Lexicalized Constituency Parsing for Middle Dutch: Low-resource Training and Cross-Domain Generalization**|Yiming Liang et.al|[paper](https://arxiv.org/abs/2601.07008)|-|-|
 |**2026-1-11**|**CyberLLM-FINDS 2025: Instruction-Tuned Fine-tuning of Domain-Specific LLMs with Retrieval-Augmented Generation and Graph Integration for MITRE Evaluation**|Vasanth Iyer et.al|[paper](https://arxiv.org/abs/2601.06779)|-|-|
 |**2026-1-9**|**Multi-Modal Style Transfer-based Prompt Tuning for Efficient Federated Domain Generalization**|Yuliang Chen et.al|[paper](https://arxiv.org/abs/2601.05955)|-|-|
-|**2026-1-9**|**Higher-Order Domain Generalization in Magnetic Resonance-Based Assessment of Alzheimer's Disease**|Zobia Batool et.al|[paper](https://arxiv.org/abs/2601.01485)|[code](https://github.com/zobia111/Extended-Mixstyle.)|-|
-|**2026-1-9**|**WaveRNet: Wavelet-Guided Frequency Learning for Multi-Source Domain-Generalized Retinal Vessel Segmentation**|Chanchan Wang et.al|[paper](https://arxiv.org/abs/2601.05942)|[code](https://github.com/Chanchan-Wang/WaveRNet.)|-|
 
 ## vision language
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-1-16**|**MHA2MLA-VLM: Enabling DeepSeek's Economical Multi-Head Latent Attention across Vision-Language Models**|Xiaoran Fan et.al|[paper](https://arxiv.org/abs/2601.11464)|-|-|
+|**2026-1-16**|**ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models**|Linqing Zhong et.al|[paper](https://arxiv.org/abs/2601.11404)|-|-|
+|**2026-1-16**|**Enhancing Vision Language Models with Logic Reasoning for Situational Awareness**|Pavana Pradeep et.al|[paper](https://arxiv.org/abs/2601.11322)|-|<details><summary>detail</summary>Accepted for publication in IEEE Transactions on AI</details>|
+|**2026-1-16**|**Collaborative Representation Learning for Alignment of Tactile, Language, and Vision Modalities**|Yiyun Zhou et.al|[paper](https://arxiv.org/abs/2511.11512)|-|-|
+|**2026-1-16**|**Attention Debiasing for Token Pruning in Vision Language Models**|Kai Zhao et.al|[paper](https://arxiv.org/abs/2508.17807)|[code](https://github.com/intcomp/attention-bias.)|<details><summary>detail</summary>https://github</details>|
+|**2026-1-16**|**Cascading multi-agent anomaly detection in surveillance systems via vision-language models and embedding-based classification**|Tayyab Rehman et.al|[paper](https://arxiv.org/abs/2601.06204)|-|<details><summary>detail</summary>Author email changed</details>|
+|**2026-1-15**|**MERGETUNE: Continued fine-tuning of vision-language models**|Wenqing Wang et.al|[paper](https://arxiv.org/abs/2601.10497)|[code](https://github.com/Surrey-UP-Lab/MERGETUNE.)|-|
+|**2026-1-15**|**PatientVLM Meets DocVLM: Pre-Consultation Dialogue Between Vision-Language Models for Efficient Diagnosis**|K Lokesh et.al|[paper](https://arxiv.org/abs/2601.10945)|-|<details><summary>detail</summary>AAAI 2026 Main Track</details>|
+|**2026-1-15**|**Can Vision-Language Models Understand Construction Workers? An Exploratory Study**|Hieu Bui et.al|[paper](https://arxiv.org/abs/2601.10835)|-|-|
 |**2026-1-15**|**From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion**|Cheng Chen et.al|[paper](https://arxiv.org/abs/2601.10710)|-|-|
 |**2026-1-15**|**Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding**|Christopher Clark et.al|[paper](https://arxiv.org/abs/2601.10611)|-|-|
 |**2026-1-15**|**Semantic Misalignment in Vision-Language Models under Perceptual Degradation**|Guo Cheng et.al|[paper](https://arxiv.org/abs/2601.08355)|-|-|
 |**2026-1-15**|**Image Complexity-Aware Adaptive Retrieval for Efficient Vision-Language Models**|Mikel Williams-Lekuona et.al|[paper](https://arxiv.org/abs/2512.15372)|-|<details><summary>detail</summary>Camera-ready version for ECIR 2026</details>|
 |**2026-1-15**|**Unleashing the Capabilities of Large Vision-Language Models for Intelligent Perception of Roadside Infrastructure**|Luxuan Fu et.al|[paper](https://arxiv.org/abs/2601.10551)|-|-|
-|**2026-1-15**|**mergetune: Continued fine-tuning of vision-language models**|Wenqing Wang et.al|[paper](https://arxiv.org/abs/2601.10497)|[code](https://github.com/Surrey-UP-Lab/MERGETUNE)|-|
 |**2026-1-15**|**Urban Socio-Semantic Segmentation with Vision-Language Reasoning**|Yu Wang et.al|[paper](https://arxiv.org/abs/2601.10477)|[code](https://github.com/AMAP-ML/SocioReasoner.)|-|
-|**2026-1-15**|**Hierarchical Refinement of Universal Multimodal Attacks on Vision-Language Models**|Peng-Fei Zhang et.al|[paper](https://arxiv.org/abs/2601.10313)|-|-|
-|**2026-1-15**|**DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset**|Hengyu Shen et.al|[paper](https://arxiv.org/abs/2601.10305)|-|-|
-|**2026-1-14**|**Smooth Operator: Smooth Verifiable Reward Activates Spatial Reasoning Ability of Vision-Language Model**|Siwen Jiao et.al|[paper](https://arxiv.org/abs/2601.07695)|-|-|
-|**2026-1-14**|**The Spatial Blindspot of Vision-Language Models**|Nahid Alam et.al|[paper](https://arxiv.org/abs/2601.09954)|-|-|
-|**2026-1-14**|**MedVL-SAM2: A unified 3D medical vision-language model for multimodal reasoning and prompt-driven segmentation**|Yang Xing et.al|[paper](https://arxiv.org/abs/2601.09879)|-|-|
-|**2026-1-14**|**Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning**|Chi-Pin Huang et.al|[paper](https://arxiv.org/abs/2601.09708)|[code](https://jasper0314-huang.github.io/fast-thinkact/)|<details><summary>detail</summary>Project page: https://jasper0314-huang</details>|
-|**2026-1-14**|**CLARE: Continual Learning for Vision-Language-Action Models via Autonomous Adapter Routing and Expansion**|Ralf Römer et.al|[paper](https://arxiv.org/abs/2601.09512)|[code](https://tum-lsy.github.io/clare.)|<details><summary>detail</summary>Project page: https://tum-lsy</details>|
-|**2026-1-14**|**PrivLEX: Detecting legal concepts in images through Vision-Language Models**|Darya Baranouskaya et.al|[paper](https://arxiv.org/abs/2601.09449)|-|-|
 
