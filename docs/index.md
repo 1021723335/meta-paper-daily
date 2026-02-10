@@ -1,5 +1,5 @@
 ## CV Papers Daily
 
 
-## Updated on 2026.02.09
+## Updated on 2026.02.10
 
