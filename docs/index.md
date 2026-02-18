@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2026.02.17
+## Updated on 2026.02.18
 
 ## source-free
 
@@ -32,7 +32,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-2-15**|**Cross-Modal Purification and Fusion for Small-Object RGB-D Transmission-Line Defect Detection**|Jiaming Cui et.al|[paper](https://arxiv.org/abs/2602.01696)|-|-|
+|**2026-2-17**|**Cross-Modal Purification and Fusion for Small-Object RGB-D Transmission-Line Defect Detection**|Jiaming Cui et.al|[paper](https://arxiv.org/abs/2602.01696)|-|-|
 |**2026-2-15**|**Explainability-Inspired Layer-Wise Pruning of Deep Neural Networks for Efficient Object Detection**|Abhinav Shukla et.al|[paper](https://arxiv.org/abs/2602.14040)|-|-|
 |**2026-2-13**|**HyperDet: 3D Object Detection with Hyper 4D Radar Point Clouds**|Yichun Xiao et.al|[paper](https://arxiv.org/abs/2602.11554)|-|-|
 |**2026-2-13**|**LAF-YOLOv10 with Partial Convolution Backbone, Attention-Guided Feature Pyramid, Auxiliary P2 Head, and Wise-IoU Loss for Small Object Detection in Drone Aerial Imagery**|Sohail Ali Farooqui et.al|[paper](https://arxiv.org/abs/2602.13378)|-|-|
@@ -92,19 +92,19 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-2-17**|**Learning to Retrieve Navigable Candidates for Efficient Vision-and-Language Navigation**|Shutian Gu et.al|[paper](https://arxiv.org/abs/2602.15724)|-|-|
+|**2026-2-17**|**LeafNet: A Large-Scale Dataset and Comprehensive Benchmark for Foundational Vision-Language Understanding of Plant Diseases**|Khang Nguyen Quoc et.al|[paper](https://arxiv.org/abs/2602.13662)|[code](https://github.com/EnalisUs/LeafBench.)|-|
+|**2026-2-17**|**CARE Drive A Framework for Evaluating Reason-Responsiveness of Vision Language Models in Automated Driving**|Lucas Elbert Suryana et.al|[paper](https://arxiv.org/abs/2602.15645)|-|-|
+|**2026-2-17**|**How Vision Becomes Language: A Layer-wise Information-Theoretic Analysis of Multimodal Reasoning**|Hongxuan Wu et.al|[paper](https://arxiv.org/abs/2602.15580)|-|-|
+|**2026-2-17**|**VLM-DEWM: Dynamic External World Model for Verifiable and Resilient Vision-Language Planning in Manufacturing**|Guoqin Tang et.al|[paper](https://arxiv.org/abs/2602.15549)|-|-|
+|**2026-2-17**|**LQA: A Lightweight Quantized-Adaptive Framework for Vision-Language Models on the Edge**|Xin Wang et.al|[paper](https://arxiv.org/abs/2602.07849)|-|-|
+|**2026-2-17**|**Annotation-Efficient Vision-Language Model Adaptation to the Polish Language Using the LLaVA Framework**|Grzegorz Statkiewicz et.al|[paper](https://arxiv.org/abs/2602.14073)|-|-|
+|**2026-2-17**|**One Agent to Guide Them All: Empowering MLLMs for Vision-and-Language Navigation via Explicit World Representation**|Zerui Li et.al|[paper](https://arxiv.org/abs/2602.15400)|-|-|
+|**2026-2-16**|**Hierarchical Refinement of Universal Multimodal Attacks on Vision-Language Models**|Peng-Fei Zhang et.al|[paper](https://arxiv.org/abs/2601.10313)|-|-|
+|**2026-2-16**|**EAA: Automating materials characterization with vision language model agents**|Ming Du et.al|[paper](https://arxiv.org/abs/2602.15294)|-|<details><summary>detail</summary>MSC Class:68T42ACM Class:I</details>|
+|**2026-2-16**|**Visual Persuasion: What Influences Decisions of Vision-Language Models?**|Manuel Cherep et.al|[paper](https://arxiv.org/abs/2602.15278)|-|-|
+|**2026-2-16**|**Ground-Truth Depth in Vision Language Models: Spatial Context Understanding in Conversational AI for XR-Robotic Support in Emergency First Response**|Rodrigo Gutierrez Maquilon et.al|[paper](https://arxiv.org/abs/2602.15237)|-|-|
 |**2026-2-16**|**ThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal Imagery**|Ayush Shrivastava et.al|[paper](https://arxiv.org/abs/2602.14989)|-|<details><summary>detail</summary>8 Pages with 2 figures of main content</details>|
 |**2026-2-16**|**DM0: An Embodied-Native Vision-Language-Action Model towards Physical AI**|En Yu et.al|[paper](https://arxiv.org/abs/2602.14974)|[code](https://github.com/Dexmal/dexbotic)|<details><summary>detail</summary>Authors are listed in alphabetical order</details>|
 |**2026-2-16**|**Efficient Test-Time Scaling for Small Vision-Language Models**|Mehmet Onurcan Kaya et.al|[paper](https://arxiv.org/abs/2510.03574)|[code](https://monurcan.github.io/efficient_test_time_scaling)|<details><summary>detail</summary>ICLR 2026</details>|
-|**2026-2-16**|**Replanning Human-Robot Collaborative Tasks with Vision-Language Models via Semantic and Physical Dual-Correction**|Taichi Kato et.al|[paper](https://arxiv.org/abs/2602.14551)|-|-|
-|**2026-2-16**|**Error Patterns in Historical OCR: A Comparative Analysis of TrOCR and a Vision-Language Model**|Ari Vesalainen et.al|[paper](https://arxiv.org/abs/2602.14524)|-|-|
-|**2026-2-16**|**Uncertainty-Aware Vision-Language Segmentation for Medical Imaging**|Aryan Das et.al|[paper](https://arxiv.org/abs/2602.14498)|[code](https://github.com/arya-domain/UA-VLS)|-|
-|**2026-2-15**|**Hierarchical Vision-Language Interaction for Facial Action Unit Detection**|Yong Li et.al|[paper](https://arxiv.org/abs/2602.14425)|-|<details><summary>detail</summary>IEEE Transaction on Affective Computing 2026</details>|
-|**2026-2-15**|**pFedNavi: Structure-Aware Personalized Federated Vision-Language Navigation for Embodied AI**|Qingqian Yang et.al|[paper](https://arxiv.org/abs/2602.14401)|-|<details><summary>detail</summary>Preprint</details>|
-|**2026-2-15**|**Multi-Turn Adaptive Prompting Attack on Large Vision-Language Models**|In Chong Choi et.al|[paper](https://arxiv.org/abs/2602.14399)|-|-|
-|**2026-2-15**|**LQA: A Lightweight Quantized-Adaptive Framework for Vision-Language Models on the Edge**|Xin Wang et.al|[paper](https://arxiv.org/abs/2602.07849)|-|-|
-|**2026-2-15**|**LVLM-COUNT: Enhancing the Counting Ability of Large Vision-Language Models**|Muhammad Fetrat Qharabagh et.al|[paper](https://arxiv.org/abs/2412.00686)|-|-|
-|**2026-2-15**|**Dual-Signal Adaptive KV-Cache Optimization for Long-Form Video Understanding in Vision-Language Models**|Vishnu Sai et.al|[paper](https://arxiv.org/abs/2602.14236)|-|-|
-|**2026-2-15**|**Annotation-Efficient Vision-Language Model Adaptation to the Polish Language Using the LLaVA Framework**|Grzegorz Statkiewicz et.al|[paper](https://arxiv.org/abs/2602.14073)|-|-|
-|**2026-2-14**|**MarsRetrieval: Benchmarking Vision-Language Models for Planetary-Scale Geospatial Retrieval on Mars**|Shuoyuan Wang et.al|[paper](https://arxiv.org/abs/2602.13961)|[code](https://github.com/ml-stat-Sustech/MarsRetrieval)|-|
-|**2026-2-14**|**VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model**|Yanjiang Guo et.al|[paper](https://arxiv.org/abs/2602.12063)|[code](https://sites.google.com/view/vla-w)|<details><summary>detail</summary>Project Page: https://sites</details>|
 
