@@ -6,12 +6,13 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 
 ## source-free
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-4**|**VietNormalizer: An Open-Source, Dependency-Free Python Library for Vietnamese Text Normalization in TTS and NLP Applications**|Hung Vu Nguyen et.al|[paper](https://arxiv.org/abs/2603.04145)|[code](https://github.com/nghimestudio/vietnormalizer,)|-|
 |**2026-3-2**|**FreeGNN: Continual Source-Free Graph Neural Network Adaptation for Renewable Energy Forecasting**|Abderaouf Bahi et.al|[paper](https://arxiv.org/abs/2603.01657)|[code](https://github.com/AraoufBh/FreeGNN.)|-|
 |**2026-2-25**|**CGSA: Class-Guided Slot-Aware Adaptation for Source-Free Object Detection**|Boyang Dai et.al|[paper](https://arxiv.org/abs/2602.22621)|[code](https://github.com/Michael-McQueen/CGSA.)|<details><summary>detail</summary>The paper has been accepted by the conference ICLR 2026</details>|
 |**2026-2-22**|**Forgetting-Resistant and Lesion-Aware Source-Free Domain Adaptive Fundus Image Analysis with Vision-Language Model**|Zheang Huai et.al|[paper](https://arxiv.org/abs/2602.19471)|-|-|
@@ -26,13 +27,14 @@
 |**2026-1-24**|**Source-Free Domain Adaptation by Optimizing Batch-Wise Cosine Similarity**|Harsharaj Pathak et.al|[paper](https://arxiv.org/abs/2601.17408)|-|-|
 |**2026-1-23**|**Model-free source seeking of exponentially convergent unicycle: theoretical and robotic experimental results**|Rohan Palanikumar et.al|[paper](https://arxiv.org/abs/2511.00752)|-|-|
 |**2026-1-20**|**Beyond Boundaries: Leveraging Vision Foundation Models for Source-Free Object Detection**|Huizai Yao et.al|[paper](https://arxiv.org/abs/2511.07301)|-|<details><summary>detail</summary>AAAI 2026</details>|
-|**2026-1-19**|**Towards Unbiased Source-Free Object Detection via Vision Foundation Models**|Zhi Cai et.al|[paper](https://arxiv.org/abs/2601.12765)|-|-|
 
 ## object detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-3-3**|**Partial Weakly-Supervised Oriented Object Detection**|Mingxin Liu et.al|[paper](https://arxiv.org/abs/2507.02751)|[code](https://github.com/VisionXLab/PWOOD)|-|
+|**2026-3-4**|**Adaptive Enhancement and Dual-Pooling Sequential Attention for Lightweight Underwater Object Detection with YOLOv10**|Md. Mushibur Rahman et.al|[paper](https://arxiv.org/abs/2603.03807)|-|<details><summary>detail</summary>Accepted in 2026 IEEE 2nd International Conference on Quantum Photonics</details>|
+|**2026-3-4**|**Small Object Detection in Complex Backgrounds with Multi-Scale Attention and Global Relation Modeling**|Wenguang Tao et.al|[paper](https://arxiv.org/abs/2603.03788)|-|-|
+|**2026-3-4**|**Partial Weakly-Supervised Oriented Object Detection**|Mingxin Liu et.al|[paper](https://arxiv.org/abs/2507.02751)|[code](https://github.com/VisionXLab/PWOOD)|-|
 |**2026-3-3**|**Online Data Curation for Object Detection via Marginal Contributions to Dataset-level Average Precision**|Zitang Sun et.al|[paper](https://arxiv.org/abs/2511.14197)|-|<details><summary>detail</summary>preprint version</details>|
 |**2026-3-2**|**ModalPatch: A Plug-and-Play Module for Robust Multi-Modal 3D Object Detection under Modality Drop**|Shuangzhi Li et.al|[paper](https://arxiv.org/abs/2603.02481)|-|-|
 |**2026-3-2**|**Is Bigger Always Better? Efficiency Analysis in Resource-Constrained Small Object Detection**|Kwame Mbobda-Kuate et.al|[paper](https://arxiv.org/abs/2603.02142)|-|-|
@@ -45,13 +47,12 @@
 |**2026-3-1**|**OmniTracker: Unifying Object Tracking by Tracking-with-Detection**|Junke Wang et.al|[paper](https://arxiv.org/abs/2303.12079)|-|<details><summary>detail</summary>accepted by TPAMI</details>|
 |**2026-3-1**|**Towards Camera Open-set 3D Object Detection for Autonomous Driving Scenarios**|Zhuolin He et.al|[paper](https://arxiv.org/abs/2406.17297)|-|-|
 |**2026-2-28**|**VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection**|Yang Cao et.al|[paper](https://arxiv.org/abs/2603.00912)|[code](https://github.com/yangcaoai/VGGT-Det-CVPR2026)|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
-|**2026-2-28**|**Parameterized Prompt for Incremental Object Detection**|Zijia An et.al|[paper](https://arxiv.org/abs/2510.27316)|[code](https://github.com/EMLS-ICTCAS/P2IOD.)|-|
-|**2026-2-28**|**GeoTeacher: Geometry-Guided Semi-Supervised 3D Object Detection**|Jingyu Li et.al|[paper](https://arxiv.org/abs/2512.23147)|[code](https://github.com/SII-Whaleice/GeoTeacher)|<details><summary>detail</summary>Accepted for publication in 2026 IEEE International Conference on Robotics and Automation (ICRA)</details>|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-3**|**QD-PCQA: Quality-Aware Domain Adaptation for Point Cloud Quality Assessment**|Guohua Zhang et.al|[paper](https://arxiv.org/abs/2603.03726)|[code](https://github.com/huhu-code/QD-PCQA.)|<details><summary>detail</summary>CVPR 2026</details>|
 |**2026-3-3**|**Self-supervised Domain Adaptation for Visual 3D Pose Estimation of Nano-drone Racing Gates by Enforcing Geometric Consistency**|Nicholas Carlotti et.al|[paper](https://arxiv.org/abs/2603.02936)|-|<details><summary>detail</summary>ICRA 2026</details>|
 |**2026-3-2**|**Move What Matters: Parameter-Efficient Domain Adaptation via Optimal Transport Flow for Collaborative Perception**|Zesheng Jia et.al|[paper](https://arxiv.org/abs/2602.11565)|-|-|
 |**2026-3-2**|**DAWA: Dynamic Ambiguity-Wise Adaptation for Real-Time Domain Adaptive Semantic Segmentation**|Taorong Liu et.al|[paper](https://arxiv.org/abs/2409.01072)|-|<details><summary>detail</summary>PRCV 2025</details>|
@@ -66,7 +67,6 @@
 |**2026-2-24**|**MrBERT: Modern Multilingual Encoders via Vocabulary, Domain, and Dimensional Adaptation**|Daniel Tamayo et.al|[paper](https://arxiv.org/abs/2602.21379)|-|-|
 |**2026-2-24**|**The Mean is the Mirage: Entropy-Adaptive Model Merging under Heterogeneous Domain Shifts in Medical Imaging**|Sameer Ambekar et.al|[paper](https://arxiv.org/abs/2602.21372)|-|-|
 |**2026-2-24**|**Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning**|Zhangjie Xia et.al|[paper](https://arxiv.org/abs/2602.21072)|-|-|
-|**2026-2-23**|**CLIPoint3D: Language-Grounded Few-Shot Unsupervised 3D Point Cloud Domain Adaptation**|Mainak Singha et.al|[paper](https://arxiv.org/abs/2602.20409)|[code](https://github.com/SarthakM320/CLIPoint3D.)|<details><summary>detail</summary>Accepted in CVPR 2026</details>|
 
 ## domain generalization
 
@@ -92,19 +92,19 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-4**|**Beyond Dominant Patches: Spatial Credit Redistribution For Grounded Vision-Language Models**|Niamul Hassan Samin et.al|[paper](https://arxiv.org/abs/2602.22469)|-|-|
+|**2026-3-4**|**GarmentPile++: Affordance-Driven Cluttered Garments Retrieval with Vision-Language Reasoning**|Mingleyang Li et.al|[paper](https://arxiv.org/abs/2603.04158)|[code](https://garmentpile2.github.io/.)|<details><summary>detail</summary>ICRA2026 Accepted</details>|
+|**2026-3-4**|**LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments**|Hongyu Ding et.al|[paper](https://arxiv.org/abs/2510.19655)|[code](https://robo-lavira.github.io/lavira-zs-vln/)|<details><summary>detail</summary>ICRA 2026</details>|
+|**2026-3-4**|**Merlin: A Computed Tomography Vision-Language Foundation Model and Dataset**|Louis Blankemeier et.al|[paper](https://arxiv.org/abs/2406.06512)|[code](https://github.com/StanfordMIMI/Merlin.)|<details><summary>detail</summary>Nature (2026)</details>|
+|**2026-3-4**|**DeepScan: A Training-Free Framework for Visually Grounded Reasoning in Large Vision-Language Models**|Yangfu Li et.al|[paper](https://arxiv.org/abs/2603.03857)|-|-|
+|**2026-3-4**|**Pretrained Vision-Language-Action Models are Surprisingly Resistant to Forgetting in Continual Learning**|Huihan Liu et.al|[paper](https://arxiv.org/abs/2603.03818)|[code](https://ut-austin-rpl.github.io/continual-vla)|-|
+|**2026-3-4**|**TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics**|Yi Han et.al|[paper](https://arxiv.org/abs/2510.07181)|-|-|
+|**2026-3-4**|**PROSPECT: Unified Streaming Vision-Language Navigation via Semantic--Spatial Fusion and Latent Predictive Representation**|Zehua Fan et.al|[paper](https://arxiv.org/abs/2603.03739)|-|-|
+|**2026-3-3**|**Topological Alignment of Shared Vision-Language Embedding Space**|Junwon You et.al|[paper](https://arxiv.org/abs/2510.10889)|[code](https://github.com/junwon0/ToMCLIP.git.)|-|
+|**2026-3-3**|**Index-Preserving Lightweight Token Pruning for Efficient Document Understanding in Vision-Language Models**|Jaemin Son et.al|[paper](https://arxiv.org/abs/2509.06415)|-|<details><summary>detail</summary>ICLR 2026 Workshop MM Intelligence</details>|
+|**2026-3-3**|**MEM: Multi-Scale Embodied Memory for Vision Language Action Models**|Marcel Torne et.al|[paper](https://arxiv.org/abs/2603.03596)|[code](https://pi.website/research/memory)|<details><summary>detail</summary>Website: https://pi</details>|
+|**2026-3-3**|**Logit-Level Uncertainty Quantification in Vision-Language Models for Histopathology Image Analysis**|Betul Yurdem et.al|[paper](https://arxiv.org/abs/2603.03527)|-|-|
 |**2026-3-3**|**TagaVLM: Topology-Aware Global Action Reasoning for Vision-Language Navigation**|Jiaxing Liu et.al|[paper](https://arxiv.org/abs/2603.02972)|[code](https://apex-bjut.github.io/Taga-VLM)|-|
 |**2026-3-3**|**Semi-Supervised Few-Shot Adaptation of Vision-Language Models**|Julio Silva-Rodríguez et.al|[paper](https://arxiv.org/abs/2603.02959)|[code](https://github.com/jusiro/SS-Text-U)|<details><summary>detail</summary>Code: https://github</details>|
 |**2026-3-3**|**Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models**|Jialiang Zhang et.al|[paper](https://arxiv.org/abs/2603.02872)|[code](https://github.com/EIT-NLP/StreamingLLM/tree/main/TaYS)|-|
-|**2026-3-3**|**Nodes Are Early, Edges Are Late: Probing Diagram Representations in Large Vision-Language Models**|Haruto Yoshida et.al|[paper](https://arxiv.org/abs/2603.02865)|-|-|
-|**2026-3-3**|**InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation**|Shuai Yang et.al|[paper](https://arxiv.org/abs/2507.17520)|-|-|
-|**2026-3-3**|**OmniFashion: Towards Generalist Fashion Intelligence via Multi-Task Vision-Language Learning**|Zhengwei Yang et.al|[paper](https://arxiv.org/abs/2603.02658)|-|-|
-|**2026-3-3**|**3D Modality-Aware Pre-training for Vision-Language Model in MRI Multi-organ Abnormality Detection**|Haowen Zhu et.al|[paper](https://arxiv.org/abs/2602.23652)|[code](https://github.com/RomantiDr/MedMAP.)|-|
-|**2026-3-2**|**CAPT: Confusion-Aware Prompt Tuning for Reducing Vision-Language Misalignment**|Maoyuan Shao et.al|[paper](https://arxiv.org/abs/2603.02557)|[code](https://github.com/greatest-gourmet/CAPT.)|<details><summary>detail</summary>Accepted by CVPR2026</details>|
-|**2026-3-2**|**Self-Aug: Query and Entropy Adaptive Decoding for Large Vision-Language Models**|Eun Woo Im et.al|[paper](https://arxiv.org/abs/2510.13315)|-|-|
-|**2026-3-2**|**Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control**|William Chen et.al|[paper](https://arxiv.org/abs/2602.13193)|-|-|
-|**2026-3-2**|**VL-KGE: Vision-Language Models Meet Knowledge Graph Embeddings**|Athanasios Efthymiou et.al|[paper](https://arxiv.org/abs/2603.02435)|-|<details><summary>detail</summary>Published in Proceedings of the ACM Web Conference 2026 (WWW '26)</details>|
-|**2026-3-2**|**Cultural Counterfactuals: Evaluating Cultural Biases in Large Vision-Language Models with Counterfactual Examples**|Phillip Howard et.al|[paper](https://arxiv.org/abs/2603.02370)|-|-|
-|**2026-3-2**|**ViPlan: A Benchmark for Visual Planning with Symbolic Predicates and Vision-Language Models**|Matteo Merler et.al|[paper](https://arxiv.org/abs/2505.13180)|-|-|
-|**2026-3-2**|**Learning to Read Where to Look: Disease-Aware Vision-Language Pretraining for 3D CT**|Simon Ging et.al|[paper](https://arxiv.org/abs/2603.02026)|-|-|
-|**2026-3-2**|**LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**|Yuechen Luo et.al|[paper](https://arxiv.org/abs/2603.01928)|-|-|
 
