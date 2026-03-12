@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2026.03.11
+## Updated on 2026.03.12
 
 ## source-free
 
@@ -32,6 +32,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-11**|**GroundCount: Grounding Vision-Language Models with Object Detection for Mitigating Counting Hallucinations**|Boyuan Chen et.al|[paper](https://arxiv.org/abs/2603.10978)|-|-|
+|**2026-3-11**|**A Systematic Comparison of Training Objectives for Out-of-Distribution Detection in Image Classification**|Furkan Genç et.al|[paper](https://arxiv.org/abs/2603.07571)|-|-|
+|**2026-3-10**|**Adaptive Event Stream Slicing for Open-Vocabulary Event-Based Object Detection via Vision-Language Knowledge Distillation**|Jinchang Zhang et.al|[paper](https://arxiv.org/abs/2510.00681)|-|-|
 |**2026-3-10**|**SPAN: Spatial-Projection Alignment for Monocular 3D Object Detection**|Yifan Wang et.al|[paper](https://arxiv.org/abs/2511.06702)|-|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
 |**2026-3-10**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al|[paper](https://arxiv.org/abs/2506.07737)|-|-|
 |**2026-3-10**|**RiO-DETR: DETR for Real-time Oriented Object Detection**|Zhangchi Hu et.al|[paper](https://arxiv.org/abs/2603.09411)|-|-|
@@ -44,14 +47,12 @@
 |**2026-3-9**|**CR-QAT: Curriculum Relational Quantization-Aware Training for Open-Vocabulary Object Detection**|Jinyeong Park et.al|[paper](https://arxiv.org/abs/2603.05964)|-|-|
 |**2026-3-9**|**On the Feasibility and Opportunity of Autoregressive 3D Object Detection**|Zanming Huang et.al|[paper](https://arxiv.org/abs/2603.07985)|[code](https://tzmhuang.github.io/autoreg3d/)|<details><summary>detail</summary>CVPR 2026 Findings Project Page: https://tzmhuang</details>|
 |**2026-3-8**|**Fast Attention-Based Simplification of LiDAR Point Clouds for Object Detection and Classification**|Z. Rozsa et.al|[paper](https://arxiv.org/abs/2603.07593)|-|-|
-|**2026-3-8**|**PointSlice: Accurate and Efficient Slice-Based Representation for 3D Object Detection from Point Clouds**|Liu Qifeng et.al|[paper](https://arxiv.org/abs/2509.01487)|[code](https://github.com/qifeng22/PointSlice2.)|<details><summary>detail</summary>Accepted by Pattern Recognition</details>|
-|**2026-3-8**|**A Systematic Comparison of Training Objectives for Out-of-Distribution Detection in Image Classification**|Furkan Genç et.al|[paper](https://arxiv.org/abs/2603.07571)|-|-|
-|**2026-3-8**|**RayD3D: Distilling Depth Knowledge Along the Ray for Robust Multi-View 3D Object Detection**|Rui Ding et.al|[paper](https://arxiv.org/abs/2603.07493)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-11**|**Domain-Adaptive Health Indicator Learning with Degradation-Stage Synchronized Sampling and Cross-Domain Autoencoder**|Jungho Choo et.al|[paper](https://arxiv.org/abs/2603.10430)|-|-|
 |**2026-3-10**|**Unsupervised Domain Adaptation with Target-Only Margin Disparity Discrepancy**|Gauthier Miralles et.al|[paper](https://arxiv.org/abs/2603.09932)|-|<details><summary>detail</summary>ISBI 2026</details>|
 |**2026-3-10**|**Cognitively Layered Data Synthesis for Domain Adaptation of LLMs to Space Situational Awareness**|Ding Linghu et.al|[paper](https://arxiv.org/abs/2603.09231)|-|-|
 |**2026-3-9**|**Personalized Feature Translation for Expression Recognition: An Efficient Source-Free Domain Adaptation Method**|Masoumeh Sharafi et.al|[paper](https://arxiv.org/abs/2508.09202)|[code](https://github.com/MasoumehSharafi/SFDA-PFT)|-|
@@ -66,7 +67,6 @@
 |**2026-3-7**|**MrBERT: Modern Multilingual Encoders via Vocabulary, Domain, and Dimensional Adaptation**|Daniel Tamayo et.al|[paper](https://arxiv.org/abs/2602.21379)|-|-|
 |**2026-3-7**|**Multi-TAP: Multi-criteria Target Adaptive Persona Modeling for Cross-Domain Recommendation**|Daehee Kang et.al|[paper](https://arxiv.org/abs/2603.07086)|[code](https://github.com/archivehee/Multi-TAP.)|-|
 |**2026-3-6**|**Move What Matters: Parameter-Efficient Domain Adaptation via Optimal Transport Flow for Collaborative Perception**|Zesheng Jia et.al|[paper](https://arxiv.org/abs/2602.11565)|-|-|
-|**2026-3-6**|**Domain-Adaptive Model Merging across Disconnected Modes**|Junming Liu et.al|[paper](https://arxiv.org/abs/2603.05957)|-|-|
 
 ## domain generalization
 
@@ -92,19 +92,19 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-3-10**|**Understanding the Use of a Large Language Model-Powered Guide to Make Virtual Reality Accessible for Blind and Low Vision People**|Jazmin Collins et.al|[paper](https://arxiv.org/abs/2603.09964)|-|-|
-|**2026-3-10**|**Fairness-Aware Fine-Tuning of Vision-Language Models for Medical Glaucoma Diagnosis**|Zijian Gu et.al|[paper](https://arxiv.org/abs/2512.03477)|-|<details><summary>detail</summary>AMIA 2026 Amplify Informatics Conference (Poster)</details>|
-|**2026-3-10**|**VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models**|Shuhao Kang et.al|[paper](https://arxiv.org/abs/2603.09826)|[code](https://github.com/MCG-NKU/nku-3d-vision)|<details><summary>detail</summary>CVPR 2026</details>|
-|**2026-3-10**|**Ego: Embedding-Guided Personalization of Vision-Language Models**|Soroush Seifi et.al|[paper](https://arxiv.org/abs/2603.09771)|-|-|
-|**2026-3-10**|**Let's Reward Step-by-Step: Step-Aware Contrastive Alignment for Vision-Language Navigation in Continuous Environments**|Haoyuan Li et.al|[paper](https://arxiv.org/abs/2603.09740)|-|-|
-|**2026-3-10**|**Does the Question Really Matter? Training-Free Data Selection for Vision-Language SFT**|Peng Sun et.al|[paper](https://arxiv.org/abs/2603.09715)|-|-|
-|**2026-3-10**|**Grounding Synthetic Data Generation With Vision and Language Models**|Ümit Mert Çağlar et.al|[paper](https://arxiv.org/abs/2603.09625)|-|-|
-|**2026-3-10**|**GeoAlignCLIP: Enhancing Fine-Grained Vision-Language Alignment in Remote Sensing via Multi-Granular Consistency Learning**|Xiao Yang et.al|[paper](https://arxiv.org/abs/2603.09566)|-|-|
-|**2026-3-10**|**NS-VLA: Towards Neuro-Symbolic Vision-Language-Action Models**|Ziyue Zhu et.al|[paper](https://arxiv.org/abs/2603.09542)|-|-|
-|**2026-3-10**|**MMGraphRAG: Bridging Vision and Language with Interpretable Multimodal Knowledge Graphs**|Xueyao Wan et.al|[paper](https://arxiv.org/abs/2507.20804)|-|-|
-|**2026-3-10**|**Evolving Prompt Adaptation for Vision-Language Models**|Enming Zhang et.al|[paper](https://arxiv.org/abs/2603.09493)|-|-|
-|**2026-3-10**|**StyleVLA: Driving Style-Aware Vision Language Action Model for Autonomous Driving**|Yuan Gao et.al|[paper](https://arxiv.org/abs/2603.09482)|-|-|
-|**2026-3-10**|**OmniEarth: A Benchmark for Evaluating Vision-Language Models in Geospatial Tasks**|Ronghao Fu et.al|[paper](https://arxiv.org/abs/2603.09471)|[code](https://huggingface.co/datasets/sjeeudd/OmniEarth.)|-|
-|**2026-3-10**|**EvoDriveVLA: Evolving Autonomous Driving Vision-Language-Action Model via Collaborative Perception-Planning Distillation**|Jiajun Cao et.al|[paper](https://arxiv.org/abs/2603.09465)|[code](https://github.com/hey-cjj/EvoDriveVLA.)|-|
-|**2026-3-10**|**LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models**|Guolei Huang et.al|[paper](https://arxiv.org/abs/2509.25896)|-|<details><summary>detail</summary>CVPR 2026</details>|
+|**2026-3-11**|**Does AI See like Art Historians? Interpreting How Vision Language Models Recognize Artistic Style**|Marvin Limpijankit et.al|[paper](https://arxiv.org/abs/2603.11024)|-|-|
+|**2026-3-11**|**GroundCount: Grounding Vision-Language Models with Object Detection for Mitigating Counting Hallucinations**|Boyuan Chen et.al|[paper](https://arxiv.org/abs/2603.10978)|-|-|
+|**2026-3-11**|**Ego: Embedding-Guided Personalization of Vision-Language Models**|Soroush Seifi et.al|[paper](https://arxiv.org/abs/2603.09771)|-|<details><summary>detail</summary>the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026</details>|
+|**2026-3-11**|**HanMoVLM: Large Vision-Language Models for Professional Artistic Painting Evaluation**|Hongji Yang et.al|[paper](https://arxiv.org/abs/2603.10814)|-|-|
+|**2026-3-11**|**Seeing Space and Motion: Enhancing Latent Actions with Geometric and Dynamic Awareness for Vision-Language-Action Models**|Zhejia Cai et.al|[paper](https://arxiv.org/abs/2509.26251)|-|-|
+|**2026-3-11**|**FutureVLA: Joint Visuomotor Prediction for Vision-Language-Action Model**|Xiaoxu Xu et.al|[paper](https://arxiv.org/abs/2603.10712)|-|-|
+|**2026-3-11**|**MonitorVLM:A Vision Language Framework for Safety Violation Detection in Mining Operations**|Jiang Wu et.al|[paper](https://arxiv.org/abs/2510.03666)|-|-|
+|**2026-3-11**|**WalkGPT: Grounded Vision-Language Conversation with Depth-Aware Segmentation for Pedestrian Navigation**|Rafi Ibn Sultan et.al|[paper](https://arxiv.org/abs/2603.10703)|[code](https://sites.google.com/view/walkgpt-26/home)|<details><summary>detail</summary>Accepted by CVPR-2026</details>|
+|**2026-3-11**|**OnFly: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency**|Guiyong Zheng et.al|[paper](https://arxiv.org/abs/2603.10682)|[code](https://github.com/Robotics-STAR-Lab/OnFly)|-|
+|**2026-3-11**|**R4-CGQA: Retrieval-based Vision Language Models for Computer Graphics Image Quality Assessment**|Zhuangzi Li et.al|[paper](https://arxiv.org/abs/2603.10578)|-|-|
+|**2026-3-11**|**CUAAudit: Meta-Evaluation of Vision-Language Models as Auditors of Autonomous Computer-Use Agents**|Marta Sumyk et.al|[paper](https://arxiv.org/abs/2603.10577)|-|-|
+|**2026-3-11**|**DepthCache: Depth-Guided Training-Free Visual Token Merging for Vision-Language-Action Model Inference**|Yuquan Li et.al|[paper](https://arxiv.org/abs/2603.10469)|-|-|
+|**2026-3-10**|**Open-World Task and Motion Planning via Vision-Language Model Generated Constraints**|Nishanth Kumar et.al|[paper](https://arxiv.org/abs/2411.08253)|-|<details><summary>detail</summary>A version of this paper appears in IEEE Robotics and Automation Letters (RA-L) Volume 11</details>|
+|**2026-3-10**|**Overcoming Visual Clutter in Vision Language Action Models via Concept-Gated Visual Distillation**|Sangmim Song et.al|[paper](https://arxiv.org/abs/2603.10340)|-|-|
+|**2026-3-10**|**Adaptive Event Stream Slicing for Open-Vocabulary Event-Based Object Detection via Vision-Language Knowledge Distillation**|Jinchang Zhang et.al|[paper](https://arxiv.org/abs/2510.00681)|-|-|
 
