@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2026.03.29
+## Updated on 2026.03.30
 
 ## source-free
 
@@ -32,6 +32,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-3-27**|**Consistency Beyond Contrast: Enhancing Open-Vocabulary Object Detection Robustness via Contextual Consistency Learning**|Bozhao Li et.al|[paper](https://arxiv.org/abs/2603.26179)|[code](https://github.com/bozhao-li/CCL.)|-|
+|**2026-3-27**|**SDDF: Specificity-Driven Dynamic Focusing for Open-Vocabulary Camouflaged Object Detection**|Jiaming Liang et.al|[paper](https://arxiv.org/abs/2603.26109)|-|<details><summary>detail</summary>Accepted by CVPR2026</details>|
+|**2026-3-27**|**CD-Buffer: Complementary Dual-Buffer Framework for Test-Time Adaptation in Adverse Weather Object Detection**|Youngjun Song et.al|[paper](https://arxiv.org/abs/2603.26092)|-|<details><summary>detail</summary>CVPR 2026</details>|
 |**2026-3-26**|**Knowledge-Guided Failure Prediction: Detecting When Object Detectors Miss Safety-Critical Objects**|Jakob Paul Zimmermann et.al|[paper](https://arxiv.org/abs/2603.25499)|[code](https://gitlab.cc-asp.fraunhofer.de/iosb_public/KGFP.)|<details><summary>detail</summary>MSC Class:68T45</details>|
 |**2026-3-26**|**Knowledge-Guided Adversarial Training for Infrared Object Detection via Thermal Radiation Modeling**|Shiji Zhao et.al|[paper](https://arxiv.org/abs/2603.25170)|-|<details><summary>detail</summary>Accepted for publication in the International Journal of Computer Vision (IJCV)</details>|
 |**2026-3-26**|**CoIn3D: Revisiting Configuration-Invariant Multi-Camera 3D Object Detection**|Zhaonian Kuang et.al|[paper](https://arxiv.org/abs/2603.05042)|-|<details><summary>detail</summary>CVPR 2026 main track</details>|
@@ -44,9 +47,6 @@
 |**2026-3-24**|**FCL-COD: Weakly Supervised Camouflaged Object Detection with Frequency-aware and Contrastive Learning**|Jingchen Ni et.al|[paper](https://arxiv.org/abs/2603.22969)|-|<details><summary>detail</summary>CVPR 2026 Findings</details>|
 |**2026-3-23**|**DisPatch: Disarming Adversarial Patches in Object Detection with Diffusion Models**|Jin Ma et.al|[paper](https://arxiv.org/abs/2509.04597)|-|-|
 |**2026-3-23**|**STENet: Superpixel Token Enhancing Network for RGB-D Salient Object Detection**|Jianlin Chen et.al|[paper](https://arxiv.org/abs/2603.21999)|[code](https://github.com/Mark9010/STENet.)|-|
-|**2026-3-23**|**Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection**|Youbin Kim et.al|[paper](https://arxiv.org/abs/2603.21944)|[code](https://ubin108.github.io/Group3D/.)|-|
-|**2026-3-23**|**Benchmarking Recurrent Event-Based Object Detection for Industrial Multi-Class Recognition on MTEvent**|Lokeshwaran Manohar et.al|[paper](https://arxiv.org/abs/2603.21787)|-|-|
-|**2026-3-23**|**No Dense Tensors Needed: Fully Sparse Object Detection on Event-Camera Voxel Grids**|Mohamad Yazan Sadoun et.al|[paper](https://arxiv.org/abs/2603.21638)|-|<details><summary>detail</summary>29 Pages</details>|
 
 ## domain adaptation
 
@@ -92,19 +92,19 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-3-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al|[paper](https://arxiv.org/abs/2603.25740)|[code](https://dmw-cvpr.github.io/.)|<details><summary>detail</summary>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</details>|
-|**2026-3-26**|**Humans vs Vision-Language Models: A Unified Measure of Narrative Coherence**|Nikolai Ilinykh et.al|[paper](https://arxiv.org/abs/2603.25537)|[code](https://github.com/GU-CLASP/coherence-driven-humans.)|-|
-|**2026-3-26**|**DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation**|Zihao Xin et.al|[paper](https://arxiv.org/abs/2603.13133)|-|-|
-|**2026-3-26**|**HiSpatial: Taming Hierarchical 3D Spatial Understanding in Vision-Language Models**|Huizhi Liang et.al|[paper](https://arxiv.org/abs/2603.25411)|[code](https://microsoft.github.io/HiSpatial)|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
-|**2026-3-26**|**MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation**|Yang Liu et.al|[paper](https://arxiv.org/abs/2603.25406)|-|-|
-|**2026-3-26**|**Shape and Substance: Dual-Layer Side-Channel Attacks on Local Vision-Language Models**|Eyal Hadad et.al|[paper](https://arxiv.org/abs/2603.25403)|-|-|
-|**2026-3-26**|**LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior**|Xinkai Wang et.al|[paper](https://arxiv.org/abs/2603.25399)|[code](https://summerwxk.github.io/lamp-project-page/.)|-|
-|**2026-3-26**|**Gastric-X: A Multimodal Multi-Phase Benchmark Dataset for Advancing Vision-Language Models in Gastric Cancer Analysis**|Sheng Lu et.al|[paper](https://arxiv.org/abs/2603.19516)|-|<details><summary>detail</summary>Computer Vision and Pattern Recognition 2026</details>|
-|**2026-3-26**|**Activation Matters: Test-time Activated Negative Labels for OOD Detection with Vision-Language Models**|Yabin Zhang et.al|[paper](https://arxiv.org/abs/2603.25250)|[code](https://github.com/YBZh/OpenOOD-VLM)|<details><summary>detail</summary>CVPR 2026 main track</details>|
-|**2026-3-26**|**Sparse Visual Thought Circuits in Vision-Language Models**|Yunpeng Zhou et.al|[paper](https://arxiv.org/abs/2603.25075)|-|-|
-|**2026-3-26**|**T-araVLN: Translator for Agricultural Robotic Agents on Vision-and-Language Navigation**|Xiaobei Zhao et.al|[paper](https://arxiv.org/abs/2509.06644)|[code](https://github.com/AlexTraveling/T-araVLN.)|-|
-|**2026-3-26**|**Which Way Does Time Flow? A Psychophysics-Grounded Evaluation for Vision-Language Models**|Shiho Matta et.al|[paper](https://arxiv.org/abs/2510.26241)|-|-|
-|**2026-3-26**|**ThermoAct:Thermal-Aware Vision-Language-Action Models for Robotic Perception and Decision-Making**|Young-Chae Son et.al|[paper](https://arxiv.org/abs/2603.25044)|-|-|
-|**2026-3-26**|**Mechanistically Interpreting Compression in Vision-Language Models**|Veeraraju Elluru et.al|[paper](https://arxiv.org/abs/2603.25035)|-|-|
-|**2026-3-25**|**MoE-GRPO: Optimizing Mixture-of-Experts via Reinforcement Learning in Vision-Language Models**|Dohwan Ko et.al|[paper](https://arxiv.org/abs/2603.24984)|-|<details><summary>detail</summary>CVPR 2026</details>|
+|**2026-3-27**|**VLA-OPD: Bridging Offline SFT and Online RL for Vision-Language-Action Models via On-Policy Distillation**|Zhide Zhong et.al|[paper](https://arxiv.org/abs/2603.26666)|-|-|
+|**2026-3-27**|**Beyond Language: Grounding Referring Expressions with Hand Pointing in Egocentric Vision**|Ling Li et.al|[paper](https://arxiv.org/abs/2603.26646)|-|-|
+|**2026-3-27**|**INSIGHT: Enhancing Autonomous Driving Safety through Vision-Language Models on Context-Aware Hazard Detection and Edge Case Evaluation**|Dianwei Chen et.al|[paper](https://arxiv.org/abs/2502.00262)|-|-|
+|**2026-3-27**|**The Limits of Learning from Pictures and Text: Vision-Language Models and Embodied Scene Understanding**|Gillian Rosenberg et.al|[paper](https://arxiv.org/abs/2603.26589)|-|<details><summary>detail</summary>7 figures</details>|
+|**2026-3-27**|**MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation**|Yang Liu et.al|[paper](https://arxiv.org/abs/2603.25406)|-|-|
+|**2026-3-27**|**Shape and Substance: Dual-Layer Side-Channel Attacks on Local Vision-Language Models**|Eyal Hadad et.al|[paper](https://arxiv.org/abs/2603.25403)|-|-|
+|**2026-3-27**|**HandVQA: Diagnosing and Improving Fine-Grained Spatial Reasoning about Hands in Vision-Language Models**|MD Khalequzzaman Chowdhury Sayem et.al|[paper](https://arxiv.org/abs/2603.26362)|[code](https://kcsayem.github.io/handvqa/)|<details><summary>detail</summary>Accepted in CVPR 2026</details>|
+|**2026-3-27**|**Mitigating the Reasoning Tax in Vision-Language Fine-Tuning with Input-Adaptive Depth Aggregation**|Yiming Ren et.al|[paper](https://arxiv.org/abs/2603.26330)|-|-|
+|**2026-3-27**|**TimeSenCLIP: A Time Series Vision-Language Model for Remote Sensing**|Pallavi Jain et.al|[paper](https://arxiv.org/abs/2508.11919)|-|<details><summary>detail</summary>Accepted (ISPRS Journal of Photogrammetry and Remote Sensing)</details>|
+|**2026-3-27**|**Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding**|Shrinidhi Kumbhar et.al|[paper](https://arxiv.org/abs/2603.26211)|-|<details><summary>detail</summary>CVPR 2026</details>|
+|**2026-3-26**|**Seeing Like Radiologists: Context- and Gaze-Guided Vision-Language Pretraining for Chest X-rays**|Kang Liu et.al|[paper](https://arxiv.org/abs/2603.26049)|[code](https://github.com/mk-runner/CoGaze.)|<details><summary>detail</summary>Code: https://github</details>|
+|**2026-3-26**|**VLAgeBench: Benchmarking Large Vision-Language Models for Zero-Shot Human Age Estimation**|Rakib Hossain Sajib et.al|[paper](https://arxiv.org/abs/2603.26015)|-|-|
+|**2026-3-26**|**FairLLaVA: Fairness-Aware Parameter-Efficient Fine-Tuning for Large Vision-Language Assistants**|Mahesh Bhosale et.al|[paper](https://arxiv.org/abs/2603.26008)|[code](https://github.com/bhosalems/FairLLaVA.)|<details><summary>detail</summary>CVPR 2026</details>|
+|**2026-3-26**|**SOMA: Strategic Orchestration and Memory-Augmented System for Vision-Language-Action Model Robustness via In-Context Adaptation**|Zhuoran Li et.al|[paper](https://arxiv.org/abs/2603.24060)|[code](https://github.com/LZY-1021/SOMA.)|-|
+|**2026-3-26**|**Collision-Aware Vision-Language Learning for End-to-End Driving with Multimodal Infraction Datasets**|Alex Koran et.al|[paper](https://arxiv.org/abs/2603.25946)|-|-|
 
