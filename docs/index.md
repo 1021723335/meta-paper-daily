@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2026.04.16
+## Updated on 2026.04.17
 
 ## source-free
 
@@ -32,6 +32,9 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-16**|**Learning Where to Embed: Noise-Aware Positional Embedding for Query Retrieval in Small-Object Detection**|Yangchen Zeng et.al|[paper](https://arxiv.org/abs/2604.15065)|[code](https://github.com/yidimopozhibai/Noise-Suppressed-Query-Retrieval)|<details><summary>detail</summary>ACM ICMR 2026</details>|
+|**2026-4-16**|**FSDETR: Frequency-Spatial Feature Enhancement for Small Object Detection**|Jianchao Huang et.al|[paper](https://arxiv.org/abs/2604.14884)|[code](https://github.com/YT3DVision/FSDETR.)|-|
+|**2026-4-16**|**Integrating Object Detection, LiDAR-Enhanced Depth Estimation, and Segmentation Models for Railway Environments**|Enrico Francesco Giannico et.al|[paper](https://arxiv.org/abs/2604.14781)|-|<details><summary>detail</summary>Under submission for publication</details>|
 |**2026-4-15**|**HiProto: Hierarchical Prototype Learning for Interpretable Object Detection Under Low-quality Conditions**|Jianlin Xiang et.al|[paper](https://arxiv.org/abs/2604.13981)|[code](https://github.com/xjlDestiny/HiProto.git.)|-|
 |**2026-4-15**|**Efficient Multi-View 3D Object Detection by Dynamic Token Selection and Fine-Tuning**|Danish Nazir et.al|[paper](https://arxiv.org/abs/2604.13586)|-|-|
 |**2026-4-15**|**A Study of Failure Modes in Two-Stage Human-Object Interaction Detection**|Lemeng Wang et.al|[paper](https://arxiv.org/abs/2604.13448)|-|<details><summary>detail</summary>SAUAFG Workshop at CVPR 2026</details>|
@@ -44,9 +47,6 @@
 |**2026-4-13**|**Sparse Hypergraph-Enhanced Frame-Event Object Detection with Fine-Grained MoE**|Wei Bao et.al|[paper](https://arxiv.org/abs/2604.11140)|-|-|
 |**2026-4-13**|**COXNet: Cross-Layer Fusion with Adaptive Alignment and Scale Integration for RGBT Tiny Object Detection**|Peiran Peng et.al|[paper](https://arxiv.org/abs/2508.09533)|-|-|
 |**2026-4-12**|**EviRCOD: Evidence-Guided Probabilistic Decoding for Referring Camouflaged Object Detection**|Ye Wang et.al|[paper](https://arxiv.org/abs/2604.10894)|[code](https://github.com/blueecoffee/EviRCOD.)|-|
-|**2026-4-12**|**Language Prompt vs. Image Enhancement: Boosting Object Detection With CLIP in Hazy Environments**|Jian Pang et.al|[paper](https://arxiv.org/abs/2604.10637)|-|-|
-|**2026-4-12**|**Unified Unsupervised and Sparsely-Supervised 3D Object Detection by Semantic Pseudo-Labeling and Prototype Learning**|Yushen He et.al|[paper](https://arxiv.org/abs/2602.21484)|[code](https://github.com/TossherO/SPL.)|-|
-|**2026-4-11**|**Rethinking Video Human-Object Interaction: Set Prediction over Time for Unified Detection and Anticipation**|Yuanhao Luo et.al|[paper](https://arxiv.org/abs/2604.10397)|-|-|
 
 ## domain adaptation
 
@@ -92,19 +92,19 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-16**|**Why Do Vision Language Models Struggle To Recognize Human Emotions?**|Madhav Agarwal et.al|[paper](https://arxiv.org/abs/2604.15280)|-|-|
+|**2026-4-16**|**VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models**|Huawei Ji et.al|[paper](https://arxiv.org/abs/2604.15188)|-|-|
+|**2026-4-16**|**Reasoning Dynamics and the Limits of Monitoring Modality Reliance in Vision-Language Models**|Danae Sánchez Villegas et.al|[paper](https://arxiv.org/abs/2604.14888)|-|-|
+|**2026-4-16**|**MetaDent: Labeling Clinical Images for Vision-Language Models in Dentistry**|Meng-Xun Li et.al|[paper](https://arxiv.org/abs/2604.14866)|[code](https://menxli.github.io/metadent)|<details><summary>detail</summary>Project website: https://menxli</details>|
+|**2026-4-16**|**Revisiting Compositionality in Dual-Encoder Vision-Language Models: The Role of Inference**|Imanol Miranda et.al|[paper](https://arxiv.org/abs/2604.11496)|-|-|
+|**2026-4-16**|**MEBench: A Novel Benchmark for Understanding Mutual Exclusivity Bias in Vision-Language Models**|Anh Thai et.al|[paper](https://arxiv.org/abs/2505.20122)|[code](http://mebench.github.io/.)|-|
+|**2026-4-16**|**World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems**|Runze Li et.al|[paper](https://arxiv.org/abs/2604.14732)|-|-|
+|**2026-4-16**|**Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models**|Haoyi Sun et.al|[paper](https://arxiv.org/abs/2604.14629)|-|-|
+|**2026-4-16**|**Pay Less Attention to Function Words for Free Robustness of Vision-Language Models**|Qiwei Tian et.al|[paper](https://arxiv.org/abs/2512.07222)|[code](https://github.com/michaeltian108/FDA.)|<details><summary>detail</summary>The paper has been accepted by ICLR26</details>|
+|**2026-4-15**|**H2VLR: Heterogeneous Hypergraph Vision-Language Reasoning for Few-Shot Anomaly Detection**|Jianghong Huang et.al|[paper](https://arxiv.org/abs/2604.14507)|-|-|
+|**2026-4-15**|**SpaceMind: A Modular and Self-Evolving Embodied Vision-Language Agent Framework for Autonomous On-orbit Servicing**|Aodi Wu et.al|[paper](https://arxiv.org/abs/2604.14399)|[code](https://github.com/wuaodi/SpaceMind)|-|
+|**2026-4-15**|**SatBLIP: Context Understanding and Feature Identification from Satellite Imagery with Vision-Language Learning**|Xue Wu et.al|[paper](https://arxiv.org/abs/2604.14373)|-|-|
+|**2026-4-15**|**Seeing Through Experts Eyes A Foundational Vision Language Model Trained on Radiologists Gaze and Reasoning**|Kinhei Lee et.al|[paper](https://arxiv.org/abs/2604.14316)|-|-|
 |**2026-4-15**|**Hierarchical DLO Routing with Reinforcement Learning and In-Context Vision-language Models**|Mingen Li et.al|[paper](https://arxiv.org/abs/2510.19268)|[code](https://icra2026-dloroute.github.io/DLORoute/)|-|
 |**2026-4-15**|**HAMLET: Switch your Vision-Language-Action Model into a History-Aware Policy**|Myungkyu Koo et.al|[paper](https://arxiv.org/abs/2510.00695)|[code](https://myungkyukoo.github.io/hamlet/)|<details><summary>detail</summary>ICLR 2026</details>|
-|**2026-4-15**|**Training-Free Semantic Multi-Object Tracking with Vision-Language Models**|Laurence Bonat et.al|[paper](https://arxiv.org/abs/2604.14074)|-|<details><summary>detail</summary>the 20th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2026)</details>|
-|**2026-4-15**|**Hydra: Unifying Document Retrieval and Generation in a Single Vision-Language Model**|Athos Georgiou et.al|[paper](https://arxiv.org/abs/2603.28554)|-|-|
-|**2026-4-15**|**Reward Design for Physical Reasoning in Vision-Language Models**|Derek Lilienthal et.al|[paper](https://arxiv.org/abs/2604.13993)|-|-|
-|**2026-4-15**|**Democratising Pathology Co-Pilots: An Open Pipeline and Dataset for Whole-Slide Vision-Language Modelling**|Sander Moonemans et.al|[paper](https://arxiv.org/abs/2512.17326)|-|-|
-|**2026-4-15**|**VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors**|Haz Sameen Shahgir et.al|[paper](https://arxiv.org/abs/2604.02486)|-|-|
-|**2026-4-15**|**Gaslight, Gatekeep, V1-V3: Early Visual Cortex Alignment Shields Vision-Language Models from Sycophantic Manipulation**|Arya Shah et.al|[paper](https://arxiv.org/abs/2604.13803)|[code](https://github.com/aryashah2k/Gaslight-Gatekeep-Sycophantic-Manipulation)|-|
-|**2026-4-15**|**Jump-Start Reinforcement Learning with Vision-Language-Action Regularization**|Angelo Moroncelli et.al|[paper](https://arxiv.org/abs/2604.13733)|-|-|
-|**2026-4-15**|**Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning**|Huilin Xu et.al|[paper](https://arxiv.org/abs/2512.08639)|[code](https://github.com/return-sleep/AeroAct.)|<details><summary>detail</summary>Under Review</details>|
-|**2026-4-15**|**Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap**|Hanxuan Chen et.al|[paper](https://arxiv.org/abs/2604.13654)|-|-|
-|**2026-4-15**|**UHR-BAT: Budget-Aware Token Compression Vision-Language model for Ultra-High-Resolution Remote Sensing**|Yunkai Dang et.al|[paper](https://arxiv.org/abs/2604.13565)|[code](https://github.com/Yunkaidang/UHR.)|-|
-|**2026-4-15**|**Addressing Overthinking in Large Vision-Language Models via Gated Perception-Reasoning Optimization**|Xingjian Diao et.al|[paper](https://arxiv.org/abs/2601.04442)|-|<details><summary>detail</summary>Annual Meeting of the Association for Computational Linguistics (ACL 2026)</details>|
-|**2026-4-14**|**A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model**|Kaidong Zhang et.al|[paper](https://arxiv.org/abs/2604.05672)|-|-|
-|**2026-4-14**|**Reading Between the Pixels: Linking Text-Image Embedding Alignment to Typographic Attack Success on Vision-Language Models**|Ravikumar Balakrishnan et.al|[paper](https://arxiv.org/abs/2604.12371)|-|<details><summary>detail</summary>ICLR 2026 Workshop on Agents in the Wild</details>|
 
