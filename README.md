@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2026.04.26
+## Updated on 2026.04.27
 
 ## source-free
 
@@ -32,12 +32,12 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-24**|**ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection**|Haojing Chen et.al|[paper](https://arxiv.org/abs/2603.28584)|-|-|
 |**2026-4-23**|**VFM$^{4}$SDG: Unveiling the Power of VFMs for Single-Domain Generalized Object Detection**|Yupeng Zhang et.al|[paper](https://arxiv.org/abs/2604.21502)|-|-|
 |**2026-4-23**|**UHR-DETR: Efficient End-to-End Small Object Detection for Ultra-High-Resolution Remote Sensing Imagery**|Jingfang Li et.al|[paper](https://arxiv.org/abs/2604.21435)|[code](https://github.com/Li-JingFang/UHR-DETR.)|-|
 |**2026-4-23**|**Fourier Series Coder: A Novel Perspective on Angle Boundary Discontinuity Problem for Oriented Object Detection**|Minghong Wei et.al|[paper](https://arxiv.org/abs/2604.20281)|[code](https://github.com/weiminghong/FSC.)|<details><summary>detail</summary>This work has been submitted to the IEEE for possible publication</details>|
 |**2026-4-22**|**A Probabilistic Framework for Improving Dense Object Detection in Underwater Image Data via Annealing-Based Data Augmentation**|Eleanor Wiesler et.al|[paper](https://arxiv.org/abs/2604.21198)|-|-|
 |**2026-4-22**|**PipeMFL-240K: A Large-scale Dataset and Benchmark for Object Detection in Pipeline Magnetic Flux Leakage Imaging**|Tianyi Qu et.al|[paper](https://arxiv.org/abs/2602.07044)|-|<details><summary>detail</summary>A dataset contains 249</details>|
-|**2026-4-21**|**ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection**|Haojing Chen et.al|[paper](https://arxiv.org/abs/2603.28584)|-|-|
 |**2026-4-21**|**Adaptive Slicing-Assisted Hyper Inference for Enhanced Small Object Detection in High-Resolution Imagery**|Francesco Moretti et.al|[paper](https://arxiv.org/abs/2604.19233)|-|-|
 |**2026-4-20**|**HMR-Net: Hierarchical Modular Routing for Cross-Domain Object Detection in Aerial Images**|Pourya Shamsolmoali et.al|[paper](https://arxiv.org/abs/2604.18866)|-|<details><summary>detail</summary>Submitted to IJCV September 2025</details>|
 |**2026-4-20**|**Uncertainty Quantification in Detection Transformers: Object-Level Calibration and Image-Level Reliability**|Young-Jin Park et.al|[paper](https://arxiv.org/abs/2412.01782)|-|-|
@@ -92,19 +92,19 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-24**|**PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance**|Yupeng Zheng et.al|[paper](https://arxiv.org/abs/2604.20834)|[code](https://getterupper.github.io/PokeVLA)|-|
+|**2026-4-24**|**RedVLA: Physical Red Teaming for Vision-Language-Action Models**|Yuhao Zhang et.al|[paper](https://arxiv.org/abs/2604.22591)|[code](https://redvla.github.io)|-|
+|**2026-4-24**|**OmniVLA-RL: A Vision-Language-Action Model with Spatial Understanding and Online RL**|Haoxiang Jie et.al|[paper](https://arxiv.org/abs/2604.17706)|-|-|
+|**2026-4-24**|**Graph-to-Vision: Multi-graph Understanding and Reasoning using Vision-Language Models**|Qihang Ai et.al|[paper](https://arxiv.org/abs/2503.21435)|-|-|
+|**2026-4-24**|**Towards Safe Mobility: A Unified Transportation Foundation Model enabled by Open-Ended Vision-Language Dataset**|Wenhui Huang et.al|[paper](https://arxiv.org/abs/2604.22260)|-|-|
+|**2026-4-24**|**CodeGraphVLP: Code-as-Planner Meets Semantic-Graph State for Non-Markovian Vision-Language-Action Models**|Khoa Vo et.al|[paper](https://arxiv.org/abs/2604.22238)|-|-|
+|**2026-4-24**|**Clutter-Robust Vision-Language-Action Models through Object-Centric and Geometry Grounding**|Khoa Vo et.al|[paper](https://arxiv.org/abs/2512.22519)|[code](https://uark-aicv.github.io/OBEYED_VLA)|<details><summary>detail</summary>Under review</details>|
+|**2026-4-23**|**V-MAGE: A Game Evaluation Framework for Assessing Vision-Centric Capabilities in Multimodal Large Language Models**|Xiangxi Zheng et.al|[paper](https://arxiv.org/abs/2504.06148)|[code](https://github.com/CSU-JPG/V-MAGE.)|-|
+|**2026-4-23**|**Sum-of-Checks: Structured Reasoning for Surgical Safety with Large Vision-Language Models**|Weiqiu You et.al|[paper](https://arxiv.org/abs/2604.22156)|[code](https://github.com/BrachioLab/SumOfChecks.)|<details><summary>detail</summary>IPCAI 2026 short communication</details>|
+|**2026-4-23**|**Source-Modality Monitoring in Vision-Language Models**|Etha Tianze Hua et.al|[paper](https://arxiv.org/abs/2604.22038)|[code](https://github.com/ethahtz/source-modality-monitoring)|<details><summary>detail</summary>All resources will be available at https://github</details>|
+|**2026-4-23**|**System-Mediated Attention Imbalances Make Vision-Language Models Say Yes**|Tsan Tsai Chan et.al|[paper](https://arxiv.org/abs/2601.12430)|-|<details><summary>detail</summary>ACL Findings 2026</details>|
 |**2026-4-23**|**Ramen: Robust Test-Time Adaptation of Vision-Language Models with Active Sample Selection**|Wenxuan Bao et.al|[paper](https://arxiv.org/abs/2604.21728)|[code](https://github.com/baowenxuan/Ramen)|<details><summary>detail</summary>Accepted by CVPR 2026 (Findings Track)</details>|
 |**2026-4-23**|**Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models**|Mohammed Safi Ur Rahman Khan et.al|[paper](https://arxiv.org/abs/2604.21523)|-|-|
 |**2026-4-23**|**Spec-o3: A Tool-Augmented Vision-Language Agent for Rare Celestial Object Candidate Vetting via Automated Spectral Inspection**|Minghui Jia et.al|[paper](https://arxiv.org/abs/2601.06498)|[code](https://github.com/Maxwell-Jia/spec-o3.)|<details><summary>detail</summary>ACL 2026 Main Conference</details>|
 |**2026-4-23**|**A Deployable Embodied Vision-Language Navigation System with Hierarchical Cognition and Context-Aware Exploration**|Kuan Xu et.al|[paper](https://arxiv.org/abs/2604.21363)|-|-|
-|**2026-4-23**|**Prototype-Based Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al|[paper](https://arxiv.org/abs/2604.21360)|-|-|
-|**2026-4-22**|**SpatiO: Adaptive Test-Time Orchestration of Vision-Language Agents for Spatial Reasoning**|Chan Yeong Hwang et.al|[paper](https://arxiv.org/abs/2604.21190)|-|<details><summary>detail</summary>Technical report</details>|
-|**2026-4-22**|**Foveated Reasoning: Stateful, Action-based Visual Focusing for Vision-Language Models**|Juhong Min et.al|[paper](https://arxiv.org/abs/2604.21079)|-|-|
-|**2026-4-22**|**VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models**|Ravi Ranjan et.al|[paper](https://arxiv.org/abs/2604.03956)|-|-|
-|**2026-4-22**|**PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance**|Yupeng Zheng et.al|[paper](https://arxiv.org/abs/2604.20834)|[code](https://getterupper.github.io/PokeVLA)|-|
-|**2026-4-22**|**OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model**|Qiguang Chen et.al|[paper](https://arxiv.org/abs/2604.20806)|-|<details><summary>detail</summary>ACL 2026 Camera Ready</details>|
-|**2026-4-22**|**CLIP-SVD: Efficient and Interpretable Vision-Language Adaptation via Singular Values**|Taha Koleilat et.al|[paper](https://arxiv.org/abs/2509.03740)|[code](https://github.com/HealthX-Lab/CLIP-SVD.)|<details><summary>detail</summary>TMLR 2026</details>|
-|**2026-4-22**|**Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models**|Shelly Francis-Meretzki et.al|[paper](https://arxiv.org/abs/2604.20472)|-|-|
-|**2026-4-22**|**Cross-Modal Taxonomic Generalization in (Vision-) Language Models**|Tianyang Xu et.al|[paper](https://arxiv.org/abs/2603.07474)|-|<details><summary>detail</summary>ACL 2026 (main conference)</details>|
-|**2026-4-22**|**Mitigating Hallucinations in Large Vision-Language Models without Performance Degradation**|Xingyu Zhu et.al|[paper](https://arxiv.org/abs/2604.20366)|-|<details><summary>detail</summary>ACL 2026 (Oral)</details>|
-|**2026-4-22**|**Object Referring-Guided Scanpath Prediction with Perception-Enhanced Vision-Language Models**|Rong Quan et.al|[paper](https://arxiv.org/abs/2604.20361)|-|<details><summary>detail</summary>ICMR 2026</details>|
 
