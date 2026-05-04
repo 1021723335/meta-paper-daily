@@ -6,12 +6,13 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2026.05.03
+## Updated on 2026.05.04
 
 ## source-free
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-4-30**|**AIDA-ReID: Adaptive Intermediate Domain Adaptation for Generalizable and Source-Free Person Re-Identification**|Sundas Iqbal et.al|[paper](https://arxiv.org/abs/2605.00111)|-|-|
 |**2026-4-29**|**Source-Free Bistable Fluidic Gripper for Size-Selective and Stiffness-Adaptive Grasping**|Zhihang Qin et.al|[paper](https://arxiv.org/abs/2511.03691)|-|<details><summary>detail</summary>Journal ref:Proc</details>|
 |**2026-4-28**|**OT Score: An OT based Confidence Score for Prototype-Assisted Source Free Unsupervised Domain Adaptation**|Yiming Zhang et.al|[paper](https://arxiv.org/abs/2505.11669)|-|-|
 |**2026-4-28**|**PI-TTA: Physics-Informed Source-Free Test-Time Adaptation for Robust Human Activity Recognition on Mobile Devices**|Changyu Li et.al|[paper](https://arxiv.org/abs/2604.25435)|-|-|
@@ -26,12 +27,15 @@
 |**2026-3-19**|**ProCal: Probability Calibration for Neighborhood-Guided Source-Free Domain Adaptation**|Ying Zheng et.al|[paper](https://arxiv.org/abs/2603.18764)|[code](https://github.com/zhengyinghit/ProCal.)|-|
 |**2026-3-12**|**Personalized Feature Translation for Expression Recognition: An Efficient Source-Free Domain Adaptation Method**|Masoumeh Sharafi et.al|[paper](https://arxiv.org/abs/2508.09202)|[code](https://github.com/MasoumehSharafi/SFDA-PFT)|-|
 |**2026-3-10**|**Predictive Spectral Calibration for Source-Free Test-Time Regression**|Nguyen Viet Tuan Kiet et.al|[paper](https://arxiv.org/abs/2603.09338)|-|-|
-|**2026-3-9**|**SPDIM: Source-Free Unsupervised Conditional and Label Shift Adaptation in EEG**|Shanglin Li et.al|[paper](https://arxiv.org/abs/2411.07249)|-|<details><summary>detail</summary>Published at ICLR 2025</details>|
 
 ## object detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-1**|**Robust Fusion of Object-Level V2X for Learned 3D Object Detection**|Lukas Ostendorf et.al|[paper](https://arxiv.org/abs/2605.00595)|-|<details><summary>detail</summary>IEEE VTC 2026-Spring</details>|
+|**2026-5-1**|**Debate-Enhanced Pseudo Labeling and Frequency-Aware Progressive Debiasing for Weakly-Supervised Camouflaged Object Detection with Scribble Annotations**|Jiawei Ge et.al|[paper](https://arxiv.org/abs/2512.20260)|-|-|
+|**2026-5-1**|**Quantization Robustness to Input Degradations for Object Detection**|Toghrul Karimov et.al|[paper](https://arxiv.org/abs/2508.19600)|[code](https://github.com/AllanK24/QRID.)|-|
+|**2026-4-30**|**Real-Time Frame- and Event-based Object Detection with Spiking Neural Networks on Edge Neuromorphic Hardware: Design, Deployment and Benchmark**|Udayanga G. W. K. N. Gamage et.al|[paper](https://arxiv.org/abs/2605.00146)|-|<details><summary>detail</summary>11 figures</details>|
 |**2026-4-30**|**FUN: A Focal U-Net Combining Reconstruction and Object Detection for Snapshot Spectral Imaging**|Dahua Gao et.al|[paper](https://arxiv.org/abs/2604.27653)|[code](https://github.com/ShawnDong98/FUN.)|<details><summary>detail</summary>First work on exploring high-level computer vision tasks in compressive spectral imaging</details>|
 |**2026-4-29**|**ViCrop-Det: Spatial Attention Entropy Guided Cropping for Training-Free Small-Object Detection**|Hui Wang et.al|[paper](https://arxiv.org/abs/2604.26806)|-|-|
 |**2026-4-29**|**QYOLO: Lightweight Object Detection via Quantum Inspired Shared Channel Mixing**|Garvit Kumar Mittal et.al|[paper](https://arxiv.org/abs/2604.26435)|-|-|
@@ -43,15 +47,16 @@
 |**2026-4-25**|**Exploring Hierarchical Consistency and Unbiased Objectness for Open-Vocabulary Object Detection**|Sanghoon Lee et.al|[paper](https://arxiv.org/abs/2604.23344)|[code](https://cvlab.yonsei.ac.kr/projects/HCC)|<details><summary>detail</summary>CVPR 2026 Findings</details>|
 |**2026-4-24**|**Transferable Physical-World Adversarial Patches Against Object Detection in Autonomous Driving**|Zihui Zhu et.al|[paper](https://arxiv.org/abs/2604.23105)|-|-|
 |**2026-4-24**|**ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection**|Haojing Chen et.al|[paper](https://arxiv.org/abs/2603.28584)|-|-|
-|**2026-4-23**|**VFM$^{4}$SDG: Unveiling the Power of VFMs for Single-Domain Generalized Object Detection**|Yupeng Zhang et.al|[paper](https://arxiv.org/abs/2604.21502)|-|-|
-|**2026-4-23**|**UHR-DETR: Efficient End-to-End Small Object Detection for Ultra-High-Resolution Remote Sensing Imagery**|Jingfang Li et.al|[paper](https://arxiv.org/abs/2604.21435)|[code](https://github.com/Li-JingFang/UHR-DETR.)|-|
-|**2026-4-23**|**Fourier Series Coder: A Novel Perspective on Angle Boundary Discontinuity Problem for Oriented Object Detection**|Minghong Wei et.al|[paper](https://arxiv.org/abs/2604.20281)|[code](https://github.com/weiminghong/FSC.)|<details><summary>detail</summary>This work has been submitted to the IEEE for possible publication</details>|
-|**2026-4-22**|**A Probabilistic Framework for Improving Dense Object Detection in Underwater Image Data via Annealing-Based Data Augmentation**|Eleanor Wiesler et.al|[paper](https://arxiv.org/abs/2604.21198)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-1**|**Adaptive Dual-Teacher Distillation with Subnetwork Rectification for Bridging Semantic Gaps in Black-Box Domain Adaptation**|Zhe Zhang et.al|[paper](https://arxiv.org/abs/2603.22908)|-|<details><summary>detail</summary>Under Review</details>|
+|**2026-5-1**|**Lightweight Domain Adaptation of a Large Language Model for Legal Assistance in the Indian Context**|Jatin Gupta et.al|[paper](https://arxiv.org/abs/2505.22003)|[code](https://doi.org/10.48550/arXiv.2505.22003)|-|
+|**2026-5-1**|**Prefer-DAS: Learning from Local Preferences and Sparse Prompts for Domain Adaptive Segmentation of Electron Microscopy**|Jiabao Chen et.al|[paper](https://arxiv.org/abs/2602.19423)|-|-|
+|**2026-5-1**|**Instance-Aware Pseudo-Labeling and Class-Focused Contrastive Learning for Weakly Supervised Domain Adaptive Segmentation of Electron Microscopy**|Shan Xiong et.al|[paper](https://arxiv.org/abs/2510.16450)|-|<details><summary>detail</summary>Accepted by Neuroinformatics</details>|
+|**2026-4-30**|**AIDA-ReID: Adaptive Intermediate Domain Adaptation for Generalizable and Source-Free Person Re-Identification**|Sundas Iqbal et.al|[paper](https://arxiv.org/abs/2605.00111)|-|-|
 |**2026-4-30**|**Auditing Frontier Vision-Language Models for Trustworthy Medical VQA: Grounding Failures, Format Collapse, and Domain Adaptation**|Xupeng Chen et.al|[paper](https://arxiv.org/abs/2604.27720)|-|-|
 |**2026-4-29**|**Domain-Adapted Small Language Models for Reliable Clinical Triage**|Manar Aljohani et.al|[paper](https://arxiv.org/abs/2604.26766)|-|-|
 |**2026-4-28**|**OT Score: An OT based Confidence Score for Prototype-Assisted Source Free Unsupervised Domain Adaptation**|Yiming Zhang et.al|[paper](https://arxiv.org/abs/2505.11669)|-|-|
@@ -62,11 +67,6 @@
 |**2026-4-25**|**Domain-Adapted Fine-Tuning of ECG Foundation Models for Multi-Label Structural Heart Disease Screening**|Duc N. Do et.al|[paper](https://arxiv.org/abs/2604.23385)|-|<details><summary>detail</summary>Canadian AI 2026</details>|
 |**2026-4-23**|**SyMTRS: Benchmark Multi-Task Synthetic Dataset for Depth, Domain Adaptation and Super-Resolution in Aerial Imagery**|Safouane El Ghazouali et.al|[paper](https://arxiv.org/abs/2604.21801)|[code](https://github.com/safouaneelg/SyMTRS.)|-|
 |**2026-4-23**|**Back to Source: Open-Set Continual Test-Time Adaptation via Domain Compensation**|Yingkai Yang et.al|[paper](https://arxiv.org/abs/2604.21772)|-|<details><summary>detail</summary>CVPR 2026</details>|
-|**2026-4-21**|**CoDA: Towards Effective Cross-domain Knowledge Transfer via CoT-guided Domain Adaptation**|Jianzhi Yan et.al|[paper](https://arxiv.org/abs/2604.19488)|-|-|
-|**2026-4-21**|**CLIPoint3D: Language-Grounded Few-Shot Unsupervised 3D Point Cloud Domain Adaptation**|Mainak Singha et.al|[paper](https://arxiv.org/abs/2602.20409)|[code](https://sarthakm320.github.io/CLIPoint3D.)|<details><summary>detail</summary>Accepted in CVPR 2026</details>|
-|**2026-4-21**|**PanDA: Unsupervised Domain Adaptation for Multimodal 3D Panoptic Segmentation in Autonomous Driving**|Yining Pan et.al|[paper](https://arxiv.org/abs/2604.19379)|-|<details><summary>detail</summary>the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2026</details>|
-|**2026-4-21**|**REZE: Representation Regularization for Domain-adaptive Text Embedding Pre-finetuning**|Seungmin Lee et.al|[paper](https://arxiv.org/abs/2604.17257)|-|<details><summary>detail</summary>ACL 2026 Main</details>|
-|**2026-4-20**|**GAIN: Multiplicative Modulation for Domain Adaptation**|Hengshuai Yao et.al|[paper](https://arxiv.org/abs/2604.04516)|-|-|
 
 ## domain generalization
 
@@ -92,19 +92,19 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-5-1**|**Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision-Language Models**|Jiayu Li et.al|[paper](https://arxiv.org/abs/2605.00591)|-|-|
+|**2026-5-1**|**Jailbreaking Vision-Language Models Through the Visual Modality**|Aharon Azulay et.al|[paper](https://arxiv.org/abs/2605.00583)|-|<details><summary>detail</summary>ICML 2026</details>|
+|**2026-5-1**|**VLBiMan: Vision-Language Anchored One-Shot Demonstration Enables Generalizable Bimanual Robotic Manipulation**|Huayi Zhou et.al|[paper](https://arxiv.org/abs/2509.21723)|[code](https://hnuzhy.github.io/projects/VLBiMan/)|<details><summary>detail</summary>accepted by ICLR 2026</details>|
+|**2026-5-1**|**Leveraging Vision-Language Models as Weak Annotators in Active Learning**|Phuong Ngoc Nguyen et.al|[paper](https://arxiv.org/abs/2605.00480)|-|<details><summary>detail</summary>ICIP2026</details>|
+|**2026-5-1**|**Thinking in Text and Images: Interleaved Vision--Language Reasoning Traces for Long-Horizon Robot Manipulation**|Jinkun Liu et.al|[paper](https://arxiv.org/abs/2605.00438)|-|-|
+|**2026-4-30**|**A Survey on Vision-Language-Action Models for Embodied AI**|Yueen Ma et.al|[paper](https://arxiv.org/abs/2405.14093)|[code](https://github.com/yueen-ma/Awesome-VLA.)|<details><summary>detail</summary>Project page: https://github</details>|
+|**2026-4-30**|**Prompt-Induced Score Variance in Zero-Shot Binary Vision-Language Safety Classification**|Charles Weng et.al|[paper](https://arxiv.org/abs/2605.00326)|-|<details><summary>detail</summary>Preprint</details>|
+|**2026-4-30**|**Online Self-Calibration Against Hallucination in Vision-Language Models**|Minghui Chen et.al|[paper](https://arxiv.org/abs/2605.00323)|-|<details><summary>detail</summary>IJCAI 2026</details>|
+|**2026-4-30**|**Embodied Interpretability: Linking Causal Understanding to Generalization in Vision-Language-Action Models**|Hanxin Zhang et.al|[paper](https://arxiv.org/abs/2605.00321)|-|<details><summary>detail</summary>the 43rd International Conference on Machine Learning (ICML 2026)</details>|
+|**2026-4-30**|**RL Token: Bootstrapping Online RL with Vision-Language-Action Models**|Charles Xu et.al|[paper](https://arxiv.org/abs/2604.23073)|-|-|
 |**2026-4-30**|**Benchmarking Large Vision-Language Models on Fine-Grained Image Tasks: A Comprehensive Evaluation**|Hong-Tao Yu et.al|[paper](https://arxiv.org/abs/2504.14988)|[code](https://github.com/SEU-VIPGroup/FG-BMK.)|<details><summary>detail</summary>ICLR 2026</details>|
 |**2026-4-30**|**TransVLM: A Vision-Language Framework and Benchmark for Detecting Any Shot Transitions**|Ce Chen et.al|[paper](https://arxiv.org/abs/2604.27975)|[code](https://www.heygen.com/research))|<details><summary>detail</summary>This work has been deployed to production</details>|
 |**2026-4-30**|**The Effects of Visual Priming on Cooperative Behavior in Vision-Language Models**|Kenneth J. K. Ong et.al|[paper](https://arxiv.org/abs/2604.27953)|-|-|
 |**2026-4-30**|**Dynamic Cluster Data Sampling for Efficient and Long-Tail-Aware Vision-Language Pre-training**|Mingliang Liang et.al|[paper](https://arxiv.org/abs/2604.27932)|-|-|
 |**2026-4-30**|**OmniDrive-R1: Reinforcement-driven Interleaved Multi-modal Chain-of-Thought for Trustworthy Vision-Language Autonomous Driving**|Zhenguo Zhang et.al|[paper](https://arxiv.org/abs/2512.14044)|-|-|
-|**2026-4-30**|**Auditing Frontier Vision-Language Models for Trustworthy Medical VQA: Grounding Failures, Format Collapse, and Domain Adaptation**|Xupeng Chen et.al|[paper](https://arxiv.org/abs/2604.27720)|-|-|
-|**2026-4-30**|**Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining**|Hyeonseo Jang et.al|[paper](https://arxiv.org/abs/2604.27715)|[code](https://github.com/YonseiML/fpp.)|<details><summary>detail</summary>CVPR 2026</details>|
-|**2026-4-30**|**ImagineNav++: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination**|Teng Wang et.al|[paper](https://arxiv.org/abs/2512.17435)|-|-|
-|**2026-4-30**|**SpaAct: Spatially-Activated Transition Learning with Curriculum Adaptation for Vision-Language Navigation**|Pengna Li et.al|[paper](https://arxiv.org/abs/2604.27620)|-|<details><summary>detail</summary>Submmited to ACM MM 2026</details>|
-|**2026-4-30**|**EdgeFM: Efficient Edge Inference for Vision-Language Models**|Mengling Deng et.al|[paper](https://arxiv.org/abs/2604.27476)|-|<details><summary>detail</summary>Technique Report version</details>|
-|**2026-4-30**|**Understanding Adversarial Transferability in Vision-Language Models for Autonomous Driving: A Cross-Architecture Analysis**|David Fernandez et.al|[paper](https://arxiv.org/abs/2604.27414)|-|-|
-|**2026-4-29**|**Judge, Then Drive: A Critic-Centric Vision Language Action Framework for Autonomous Driving**|Lijin Yang et.al|[paper](https://arxiv.org/abs/2604.27366)|-|<details><summary>detail</summary>preprint</details>|
-|**2026-4-29**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Santosh Vasa et.al|[paper](https://arxiv.org/abs/2507.12414)|-|<details><summary>detail</summary>IV 2026 Drive-X Foundation Models for Autonomous Driving (Oral presentation)</details>|
-|**2026-4-29**|**Vision-Language Models Mistake Head Orientation for Gaze Direction: Nonverbal Conversation Cues**|Zory Zhang et.al|[paper](https://arxiv.org/abs/2506.05412)|[code](https://zoryzhang.github.io/gaze/)|<details><summary>detail</summary>Accepted by ACL 2026</details>|
-|**2026-4-29**|**Lost in Space? Vision-Language Models Struggle with Relative Camera Pose Estimation**|Ken Deng et.al|[paper](https://arxiv.org/abs/2601.22228)|-|-|
 
