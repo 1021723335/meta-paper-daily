@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2026.06.28
+## Updated on 2026.06.29
 
 ## source-free
 
@@ -32,6 +32,8 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-26**|**Hippocampus-DETR: An Explicit Memory Object Detection Framework Based on Hippocampus Modeling**|Zhaoning Shi et.al|[paper](https://arxiv.org/abs/2606.27831)|[code](https://github.com/2186cloud/hipnet.)|-|
+|**2026-6-25**|**Radar Guided Camera Verification for Automatic Emergency Braking Rethinking Object Detection in Radar Camera Fusion**|Ram Charan Akula et.al|[paper](https://arxiv.org/abs/2606.27556)|-|-|
 |**2026-6-25**|**Liquid Fusion of Heterogeneous Representations Towards General Salient Object Detection**|Ke Chen et.al|[paper](https://arxiv.org/abs/2606.26849)|[code](https://github.com/cke520/LFNet.)|-|
 |**2026-6-24**|**NegAS: Negative Label Guided Attention and Scoring for Out-of-Distribution Object Detection with Vision-Language Models**|Yingjie Zhang et.al|[paper](https://arxiv.org/abs/2606.22537)|-|<details><summary>detail</summary>Accept to ECCV 2026</details>|
 |**2026-6-24**|**Auto-Labelling-Based Domain Transfer for 3D Object Detection on a Bicycle-Mounted LiDAR Platform**|Mario Finkbeiner et.al|[paper](https://arxiv.org/abs/2606.25652)|-|-|
@@ -45,13 +47,12 @@
 |**2026-6-22**|**From Spatial to Spectral: An Efficient, Frequency-Guided Feature Representation Learner for Small Object Detection**|Yuhan Rui et.al|[paper](https://arxiv.org/abs/2606.23825)|-|-|
 |**2026-6-22**|**Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection**|KunHo Heo et.al|[paper](https://arxiv.org/abs/2606.23069)|[code](https://github.com/VisualScienceLab-KHU/ReSet.)|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
 |**2026-6-21**|**Following the Flow: Advection-Consistent Modeling for Event-based Small Object Detection**|Wen Guo et.al|[paper](https://arxiv.org/abs/2606.22378)|[code](https://github.com/fulongcai/PACT.)|<details><summary>detail</summary>ECCV 2026</details>|
-|**2026-6-19**|**YOLO26 vs. YOLOv8: A Comprehensive Architectural Benchmark of Next-Generation Real-Time Object Detection Models**|Chidera G. Oguine et.al|[paper](https://arxiv.org/abs/2605.24831)|-|-|
-|**2026-6-18**|**U$^2$Mamba: A Two-level Nested U-structure Mamba for Salient Object Detection**|Junhui Li et.al|[paper](https://arxiv.org/abs/2606.20282)|[code](https://github.com/JL021/U2Mamba)|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-6-26**|**SIDA: Synthetic Image Driven Zero-shot Domain Adaptation**|Ye-Chan Kim et.al|[paper](https://arxiv.org/abs/2507.18632)|[code](https://github.com/766O/SIDA)|<details><summary>detail</summary>ACM MM 2025</details>|
 |**2026-6-25**|**Refining Pseudo-Audio Prompts with Speech-Text Alignment for Text-Only Domain Adaptation in LLM-Based ASR**|Ryo Magoshi et.al|[paper](https://arxiv.org/abs/2605.14340)|-|<details><summary>detail</summary>Interspeech 2026</details>|
 |**2026-6-24**|**A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding**|Sen Li et.al|[paper](https://arxiv.org/abs/2606.26078)|-|-|
 |**2026-6-23**|**PETRA: Transforming Web Text for Petroleum-Engineering Domain Adaptation**|Kirill Dubovikov et.al|[paper](https://arxiv.org/abs/2606.24346)|-|-|
@@ -66,7 +67,6 @@
 |**2026-6-19**|**Match: Foundation Models for Semi-supervised Learning and Domain Adaptation in EM**|Marei Freitag et.al|[paper](https://arxiv.org/abs/2606.21605)|-|-|
 |**2026-6-19**|**One Size does not Fit All: Heterogeneous Latent Space Alignment for Unsupervised Domain Adaptation**|Evangelia Koskinioti et.al|[paper](https://arxiv.org/abs/2606.21415)|-|-|
 |**2026-6-19**|**Unsupervised Domain Adaptation for Sim-to-Real Object Pose Estimation with Contrastive Alignment and Pseudo-Label Refinement**|Nidhal Eddine Chenni et.al|[paper](https://arxiv.org/abs/2606.21287)|-|-|
-|**2026-6-17**|**TerraMARS: A Domain-Adapted Small-Language-Model Pipeline for Mars Terraforming Literature**|Jyotsna Singh et.al|[paper](https://arxiv.org/abs/2606.19700)|-|-|
 
 ## domain generalization
 
@@ -92,19 +92,19 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-6-25**|**Mitigating Hallucinations via Inter-Layer Consistency Aggregation in Large Vision-Language Models**|Kai Tang et.al|[paper](https://arxiv.org/abs/2505.12343)|-|-|
-|**2026-6-25**|**History-Conditioned Spatio-Temporal Visual Token Pruning for Efficient Vision-Language Navigation**|Qitong Wang et.al|[paper](https://arxiv.org/abs/2603.06480)|[code](https://wqtwjt1996.github.io/publications/2026-vln.html)|<details><summary>detail</summary>International Conference on Intelligent Robots and Systems (IROS) 2026</details>|
-|**2026-6-25**|**Automating Potential-based Reward Shaping with Vision Language Model Guidance**|Henrik Müller et.al|[paper](https://arxiv.org/abs/2606.27180)|-|-|
-|**2026-6-25**|**PhysReflect-VLA: Physical Feasibility and Self-Reflective Regulation for Reliable Vision-Language-Action Policies**|Jiayu Yang et.al|[paper](https://arxiv.org/abs/2606.27146)|-|-|
-|**2026-6-25**|**PAMAE: Phase-Aware-MoE Action Experts Towards Reliable Flow-Matching Vision-Language-Action Policies**|Jiayu Yang et.al|[paper](https://arxiv.org/abs/2606.27144)|-|-|
-|**2026-6-25**|**GenRecal: Generation after Recalibration from Large to Small Vision-Language Models**|Byung-Kwan Lee et.al|[paper](https://arxiv.org/abs/2506.15681)|[code](https://byungkwanlee.github.io/GenRecal-page/)|<details><summary>detail</summary>Project page: https://byungkwanlee</details>|
-|**2026-6-25**|**Reinforcement Fine-Tuning of Flow-Matching Policies for Vision-Language-Action Models**|Mingyang Lyu et.al|[paper](https://arxiv.org/abs/2510.09976)|-|<details><summary>detail</summary>ICRA 2026</details>|
-|**2026-6-25**|**ForesightSafety-VLA: A Unified Diagnostic Safety Benchmark for Vision-Language-Action Models**|Mingyang Lyu et.al|[paper](https://arxiv.org/abs/2606.27079)|-|-|
-|**2026-6-25**|**6 Fingers, 1 Kidney: Natural Adversarial Medical Images Reveal Critical Weaknesses of Vision-Language Models**|Leon Mayer et.al|[paper](https://arxiv.org/abs/2512.04238)|-|-|
-|**2026-6-25**|**MedPruner: Training-Free Hierarchical Token Pruning for Efficient 3D Medical Image Understanding in Vision-Language Models**|Shengyuan Liu et.al|[paper](https://arxiv.org/abs/2603.11625)|[code](https://github.com/CUHK-AIM-Group/MedPruner.)|-|
-|**2026-6-25**|**Bridging Vision and Language Concepts through Optimal Transport Semantic Flow**|Chenyang Zhang et.al|[paper](https://arxiv.org/abs/2606.26891)|-|-|
-|**2026-6-25**|**GreenRFM: Learning a resource-efficient radiology vision-language foundation model via supervision-centric pre-training**|Yingtai Li et.al|[paper](https://arxiv.org/abs/2603.06467)|-|-|
-|**2026-6-25**|**Improving Vision-Language-Action Model Fine-Tuning with Structured Stage and Keyframe Supervision**|Yuan Xu et.al|[paper](https://arxiv.org/abs/2606.26801)|[code](https://hi-yuanxu.github.io/StaKe-Web/)|-|
-|**2026-6-25**|**SSI-Policy: Learning Structured Scene Interfaces for Vision-Language Robotic Manipulation**|Kaijun Wang et.al|[paper](https://arxiv.org/abs/2606.26800)|-|<details><summary>detail</summary>Accepted by 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</details>|
-|**2026-6-25**|**Improving Reasoning in Vision-Language Models via Perception Verified Self-Training**|Sourabh Sharma et.al|[paper](https://arxiv.org/abs/2606.22158)|-|<details><summary>detail</summary>European Conference on Computer Vision 2026</details>|
+|**2026-6-26**|**An Approach to Enriching Surgical Video Datasets for Fine-Grained Spatial-Temporal Understanding of Vision-Language Models**|Lennart Maack et.al|[paper](https://arxiv.org/abs/2604.00784)|[code](https://lennart-maack.github.io/SurgSTU-project)|-|
+|**2026-6-26**|**Vision-Default, Prior-Override: Causal Mechanisms of Perception-Knowledge Conflict in Vision-Language Models**|Niclas Lietzow et.al|[paper](https://arxiv.org/abs/2606.28273)|-|-|
+|**2026-6-26**|**Image-based Geo-localization for Robotics: Are Black-box Vision-Language Models there yet?**|Sania Waheed et.al|[paper](https://arxiv.org/abs/2501.16947)|-|<details><summary>detail</summary>the ICRA 2026 Workshop on Multi-Modal Spatial AI for Robust Navigation and Open-World Understanding (MM-SpatialAI)</details>|
+|**2026-6-26**|**StereoVLA: Enhancing Vision-Language-Action Models with Stereo Vision**|Shengliang Deng et.al|[paper](https://arxiv.org/abs/2512.21970)|[code](https://shengliangd.github.io/StereoVLA-Webpage.)|-|
+|**2026-6-26**|**Phase Matters: Characterizing Heterogeneous Vision-Language Inference on a Mobile SoC**|Aryama V Murthy et.al|[paper](https://arxiv.org/abs/2606.27906)|-|-|
+|**2026-6-26**|**Let Language Constrain Geometry: Vision-Language Models as Semantic and Spatial Critics for 3D Generation**|Weimin Bai et.al|[paper](https://arxiv.org/abs/2511.14271)|-|<details><summary>detail</summary>arXiv admin note: substantial text overlap with arXiv:2509</details>|
+|**2026-6-26**|**S$^2$-VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation**|Zhipeng Xie et.al|[paper](https://arxiv.org/abs/2606.27872)|-|<details><summary>detail</summary>IJCAI 2026</details>|
+|**2026-6-26**|**SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks**|Ruiqi Song et.al|[paper](https://arxiv.org/abs/2606.27807)|-|<details><summary>detail</summary>Accepted by ICML 2026</details>|
+|**2026-6-26**|**LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models**|Rongxu Cui et.al|[paper](https://arxiv.org/abs/2606.23686)|[code](https://libero-safety.github.io/)|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
+|**2026-6-26**|**Drop-Then-Recovery: How Redundant Are Vision-Language-Action Models?**|Guoheng Sun et.al|[paper](https://arxiv.org/abs/2606.27755)|[code](https://github.com/s1ghhh/VLADrop.)|-|
+|**2026-6-26**|**FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models**|Zijun Lin et.al|[paper](https://arxiv.org/abs/2510.01642)|[code](https://jimntu.github.io/FailSafe)|<details><summary>detail</summary>IROS 2026</details>|
+|**2026-6-25**|**MVPruner: Dynamic Token Pruning for Accelerating Multi-view Vision-Language Models in Autonomous Driving**|Nan Yang et.al|[paper](https://arxiv.org/abs/2606.27660)|-|<details><summary>detail</summary>accepted by ECCV26</details>|
+|**2026-6-25**|**IWP: Token Pruning as Implicit Weight Pruning in Large Vision Language Models**|Dong-Jae Lee et.al|[paper](https://arxiv.org/abs/2604.00757)|-|-|
+|**2026-6-25**|**VLM-Aware Meta-Optic Front-End Design for Frozen Vision-Language Models**|Chanik Kang et.al|[paper](https://arxiv.org/abs/2606.27646)|-|-|
+|**2026-6-25**|**SurgXBench: Explainable Vision-Language Model Benchmark for Surgery**|Jiajun Cheng et.al|[paper](https://arxiv.org/abs/2505.10764)|-|-|
 
