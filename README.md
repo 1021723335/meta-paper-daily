@@ -1,11 +1,12 @@
 ## CV Papers Daily
 - [source-free](#source-free)
+- [object detection](#object-detection)
 - [domain adaptation](#domain-adaptation)
 - [domain generalization](#domain-generalization)
 - [vision language](#vision-language)
 
 
-## Updated on 2026.07.03
+## Updated on 2026.07.04
 
 ## source-free
 
@@ -26,6 +27,26 @@
 |**2026-5-28**|**Improving CLIP Adaptation by Breaking Tail Alignment for Source-Free Cross-Domain Few-Shot Learning**|Shuai Yi et.al|[paper](https://arxiv.org/abs/2605.29776)|[code](https://github.com/shuaiyi308/ATHA.)|<details><summary>detail</summary>Accepted by ICML 2026</details>|
 |**2026-5-25**|**Source-Free Domain Adaptation for Geospatial Point Cloud Semantic Segmentation**|Yuan Gao et.al|[paper](https://arxiv.org/abs/2601.08375)|[code](https://github.com/GYproject/LoGo-SFUDA.)|-|
 |**2026-5-25**|**Addressing Exacerbated Attention Sink for Source-Free Cross-Domain Few-Shot Learning**|Shuai Yi et.al|[paper](https://arxiv.org/abs/2605.25799)|[code](https://github.com/shuaiyi308/TIR.)|<details><summary>detail</summary>Accepted by CVPR 2026</details>|
+
+## object detection
+
+|Date|Title|Authors|PDF|Code|Comments|
+|:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-2**|**Comprehensive Robustness Analysis of LiDAR-based 3D Object Detection in Autonomous Driving**|Adwait Chandorkar et.al|[paper](https://arxiv.org/abs/2607.02074)|-|<details><summary>detail</summary>ECCV 2026 main</details>|
+|**2026-7-2**|**CamoNAS: Neural Architecture Search for Enhanced Camouflaged Object Detection**|Dawei Ren et.al|[paper](https://arxiv.org/abs/2607.01870)|[code](https://github.com/rendaweiSIMIT/CamoNAS.)|<details><summary>detail</summary>Published in The Visual Computer</details>|
+|**2026-7-2**|**C2E: Boosting Ego-Only 3D Object Detection via Multi-Teacher Contrastive Knowledge Distillation**|Jinlong Wang et.al|[paper](https://arxiv.org/abs/2607.01827)|-|-|
+|**2026-7-2**|**Rethinking Conditional Generation for Underwater Salient Object Detection**|Hua Li et.al|[paper](https://arxiv.org/abs/2607.01825)|-|-|
+|**2026-7-2**|**ProCal: Inference-Time Proposal Calibration for Open-Vocabulary Object Detection**|Jae-Ryung Hong et.al|[paper](https://arxiv.org/abs/2607.01759)|-|-|
+|**2026-7-1**|**FCL-COD: Weakly Supervised Camouflaged Object Detection with Frequency-aware and Contrastive Learning**|Jingchen Ni et.al|[paper](https://arxiv.org/abs/2603.22969)|-|<details><summary>detail</summary>CVPR 2026</details>|
+|**2026-7-1**|**Active Learning for Cascaded Object Detection: Balancing Coverage and Uncertainty in Table Extraction Pipelines**|Eliott Thomas et.al|[paper](https://arxiv.org/abs/2607.00747)|-|<details><summary>detail</summary>ICDAR 2026</details>|
+|**2026-7-1**|**A Data Efficiency Study of Synthetic Fog for Object Detection Using the Clear2Fog Pipeline**|Mohamed Ahmed Mohamed et.al|[paper](https://arxiv.org/abs/2605.12608)|[code](https://github.com/mmohamed28/Clear2Fog)|<details><summary>detail</summary>Project code and experimental configs available at https://github</details>|
+|**2026-7-1**|**From Technical Metrics to User Perception: A User Study of a Multimodal Human-Robot Interaction System for Object Detection and Grasping**|Jian Song et.al|[paper](https://arxiv.org/abs/2607.00530)|-|-|
+|**2026-6-30**|**Real-Time Source-Free Object Detection**|Sairam VCR et.al|[paper](https://arxiv.org/abs/2606.31834)|[code](https://github.com/Sairam13001/RT-SFOD/)|<details><summary>detail</summary>ECCV 2026</details>|
+|**2026-6-30**|**HVPNet: A Bio-Inspired Network for General Salient and Camouflaged Object Detection**|Jiawei Xu et.al|[paper](https://arxiv.org/abs/2606.31496)|[code](https://github.com/jiaweiXu1029/HVPNet.)|-|
+|**2026-6-30**|**Domain Adaptive Object Detection via Dual-Stream Bilevel-Cycle Optimization**|Yannan Chen et.al|[paper](https://arxiv.org/abs/2606.31373)|-|-|
+|**2026-6-30**|**DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection**|Gautam Rajendrakumar Gare et.al|[paper](https://arxiv.org/abs/2603.23455)|[code](https://ggare-cmu.github.io/DetPO/)|<details><summary>detail</summary>This work has been accepted to the European Conference on Computer Vision (ECCV) 2026</details>|
+|**2026-6-29**|**Dual Sparse Aggregation Transformer for Multispectral Object Detection**|Wencong Wu et.al|[paper](https://arxiv.org/abs/2606.31015)|[code](https://github.com/WenCongWu/DSAFormer.)|-|
+|**2026-6-29**|**Simple Supervision Is Hard to Beat: A Bitter Lesson from Sparse Target Labels in Domain-Adaptive Object Detection**|Lijun Zhang et.al|[paper](https://arxiv.org/abs/2606.30795)|-|-|
 
 ## domain adaptation
 
