@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2026.07.23
+## Updated on 2026.07.24
 
 ## source-free
 
@@ -32,8 +32,13 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-23**|**A Biomimetic Myoelectric Tentacle Prosthesis with Sensorless Object Detection and Vibrotactile Feedback**|Gabrielle Marion et.al|[paper](https://arxiv.org/abs/2607.09807)|-|-|
+|**2026-7-23**|**Spectral-Spatial Synergistic Guided Network for Hyperspectral Salient Object Detection**|Yanyan Peng et.al|[paper](https://arxiv.org/abs/2607.21032)|-|<details><summary>detail</summary>Accepted by IEEE TMM</details>|
+|**2026-7-23**|**QATMA: Quantization-Aware Training with Multimodal Alignment for Open-Vocabulary Object Detection**|Jinyeong Park et.al|[paper](https://arxiv.org/abs/2603.05964)|-|-|
+|**2026-7-22**|**Fully Rotation-Equivariant Spectral-Spatial Learning for Multispectral Object Detection**|Peng Zhang et.al|[paper](https://arxiv.org/abs/2607.05148)|-|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
 |**2026-7-22**|**G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection**|Yechan Kim et.al|[paper](https://arxiv.org/abs/2607.19942)|[code](https://unique-chan.github.io/G-MAD-Project.)|<details><summary>detail</summary>ACM Multimedia 2026 (OSS)</details>|
 |**2026-7-22**|**MissingBench-Verified: Probing Vision-Language Models' Inability to Detect Missing Object Parts**|Wenqi Marshall Guo et.al|[paper](https://arxiv.org/abs/2607.18673)|-|<details><summary>detail</summary>Submitted to the ECCV 2026 Workshop on Explainable Computer Vision (eXCV)</details>|
+|**2026-7-21**|**AuthProbe: Specification-Driven, Multi-Identity Detection of Broken Object-Level Authorization in Recruitment API**|Jay Barach et.al|[paper](https://arxiv.org/abs/2607.20574)|-|-|
 |**2026-7-21**|**CoGoal3D: Collaborative 3D Object Detection with 3D-Aware Fusion and Refinement**|Zhihao Yang et.al|[paper](https://arxiv.org/abs/2607.19036)|[code](https://github.com/Megalo-f/CoGoal3D.)|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-7-20**|**O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning**|Mei Yuan et.al|[paper](https://arxiv.org/abs/2607.18142)|-|<details><summary>detail</summary>ECCV 2026</details>|
 |**2026-7-19**|**Orthogonal Knowledge Refreshing for Domain-Incremental Object Detection**|Aoting Zhang et.al|[paper](https://arxiv.org/abs/2607.17340)|-|<details><summary>detail</summary>Accepted by ECCV 2026</details>|
@@ -42,11 +47,6 @@
 |**2026-7-17**|**Embodied Active Learning under Limited Annotation and Navigation Budget for Object Detection**|Hadrien Crassous et.al|[paper](https://arxiv.org/abs/2607.15974)|[code](https://mkabouri.github.io/embodied-active-learning-od)|<details><summary>detail</summary>2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</details>|
 |**2026-7-16**|**Towards Domain-Generalized Open-Vocabulary Object Detection: A Progressive Domain-invariant Cross-modal Alignment Method**|Xiaoran Xu et.al|[paper](https://arxiv.org/abs/2603.27556)|-|-|
 |**2026-7-16**|**Weakly-Supervised RGB-D Salient Object Detection via SAM-driven Pseudo Annotation and State Space Interaction-based Diffusion**|Wenqi Si et.al|[paper](https://arxiv.org/abs/2607.15041)|[code](https://github.com/Switch457/WeakS2Diff_SOD.)|-|
-|**2026-7-16**|**OASIS-Map: Object-Level Change Detection in Multi-Session Mapping using Semantic Correspondence Matching**|Haedam Oh et.al|[paper](https://arxiv.org/abs/2607.14899)|[code](https://dynamic.robots.ox.ac.uk/projects/oasis-map/)|-|
-|**2026-7-16**|**Training-Free Metrics for Synthetic Object Detection Data: A Proxy for Detector Performance**|Myeongseok Nam et.al|[paper](https://arxiv.org/abs/2606.19817)|-|-|
-|**2026-7-16**|**Breaking the Model Forgetting Cycle in Long-Incremental 3D Object Detection**|Peisheng Qian et.al|[paper](https://arxiv.org/abs/2607.14560)|[code](https://github.com/qianpeisheng/LDMR.)|<details><summary>detail</summary>ECCV 2026</details>|
-|**2026-7-15**|**HyperShadow: A Benchmark for Detecting 3D Projections of Higher-Dimensional Spatial Objects**|Akshay Sasi et.al|[paper](https://arxiv.org/abs/2607.14419)|[code](https://github.com/AkshaySasi/hypershadow.)|-|
-|**2026-7-15**|**PiVoT: A Variational Solution for Real-time Large-scale Multi-object Detection and Tracking under Heavy Clutter**|Runze Gan et.al|[paper](https://arxiv.org/abs/2607.13891)|-|-|
 
 ## domain adaptation
 
@@ -72,6 +72,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-22**|**Cross-Domain Generalization in Optical Networks via Joint Contrastive and Classification Learning**|Ali Al Housseini et.al|[paper](https://arxiv.org/abs/2607.20666)|-|-|
 |**2026-7-22**|**Multimodal Large Language Models for Remote Sensing Image Understanding: Domain-Specific or General-Purpose?**|Qiwei Ma et.al|[paper](https://arxiv.org/abs/2607.20284)|-|-|
 |**2026-7-21**|**FedS2R: One-Shot Federated Domain Generalization for Synthetic-to-Real Semantic Segmentation in Autonomous Driving**|Tao Lian et.al|[paper](https://arxiv.org/abs/2507.19881)|-|<details><summary>detail</summary>Accepted by IEEE Intelligent Vehicles Symposium (IV) 2026</details>|
 |**2026-7-20**|**Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs**|Yi Tang et.al|[paper](https://arxiv.org/abs/2607.18230)|[code](https://github.com/VILA-Lab/PIXAR-DG)|<details><summary>detail</summary>Our code is available at https://github</details>|
@@ -86,25 +87,24 @@
 |**2026-7-8**|**Comparative Study of Domain-adapted VLMs for General Document Visual Question Answering**|Miguel Lopez-Duran et.al|[paper](https://arxiv.org/abs/2607.07179)|-|-|
 |**2026-7-7**|**Mitigating Domain Shift in Conditioned Floor Plan Generation: Synthetic Pre-training for Data-Efficient Adaptation**|Matthieu Ospici et.al|[paper](https://arxiv.org/abs/2607.06483)|-|-|
 |**2026-7-7**|**Pre-Training on Software Engineering Texts: Effects on Domain Adaptation and General-Language Understanding**|Fabian C. Peña et.al|[paper](https://arxiv.org/abs/2607.06613)|-|-|
-|**2026-7-6**|**SleepBand: Single-Source Domain Generalization for Sleep Staging via Physiologically Structured Spectral Modeling**|Zhi Lu et.al|[paper](https://arxiv.org/abs/2607.04851)|[code](https://github.com/lzcn/sleep-band)|-|
 
 ## vision language
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-7-23**|**Anticipate Before Acting: Future-State-Conditioned Vision-Language Navigation**|Lingfeng Zhang et.al|[paper](https://arxiv.org/abs/2607.18042)|-|-|
+|**2026-7-23**|**When Are Reasoning-Based Guardrails Not Efficient? ResponseGuard: A Fast Vision-Language Guard for Real-Time Moderation**|Dongbin Na et.al|[paper](https://arxiv.org/abs/2607.21401)|[code](https://github.com/ndb796/ResponseGuard.)|-|
+|**2026-7-23**|**When Discourse Pressures Conflict: Information Structure in Vision-Language Model Outputs**|Marcell Fekete et.al|[paper](https://arxiv.org/abs/2605.28346)|-|-|
+|**2026-7-23**|**DART-VLN: Test-Time Memory Decay and Anti-Loop Regularization for Discrete Vision-Language Navigation**|Shaoheng Zhang et.al|[paper](https://arxiv.org/abs/2607.01043)|-|<details><summary>detail</summary>Accepted by the 2026 IEEE International Conference on Systems</details>|
+|**2026-7-23**|**Do Pathology Vision-Language Models Truly See Pathology?**|Chengyang Zhang et.al|[paper](https://arxiv.org/abs/2607.21065)|-|-|
+|**2026-7-23**|**Vision-Language-Policy Model for Dynamic Robot Task Planning**|Jin Wang et.al|[paper](https://arxiv.org/abs/2512.19178)|[code](https://robovlp.github.io/)|-|
+|**2026-7-23**|**GeoThreat: Transferable Targeted Adversarial Attacks on Large Vision-Language Models for Remote Sensing Image Interpretation**|Yimin Fu et.al|[paper](https://arxiv.org/abs/2607.21036)|[code](https://github.com/fuyimin96/GeoThreat)|<details><summary>detail</summary>The code will be released at https://github</details>|
+|**2026-7-23**|**HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving**|Quanfu Yu et.al|[paper](https://arxiv.org/abs/2607.20988)|-|-|
+|**2026-7-22**|**Natural Language to What? A Vision for Intermediate Representations in NL-to-X Querying**|Shengqi Li et.al|[paper](https://arxiv.org/abs/2604.10776)|-|-|
 |**2026-7-22**|**Test-Time Training for Modality Order Consistency in Vision-Language Models**|Aditi Gupta et.al|[paper](https://arxiv.org/abs/2607.20351)|-|-|
 |**2026-7-22**|**VISTA-Bench: Do Vision-Language Models Really Understand Visualized Text as Well as Pure Text?**|Qing'an Liu et.al|[paper](https://arxiv.org/abs/2602.04802)|[code](https://github.com/QingAnLiu/VISTA-Bench.)|-|
 |**2026-7-22**|**ENTRAP-VL: A Taxonomic Probe for Dual Contextual Entrainment in Vision-Language Models**|Karan Goyal et.al|[paper](https://arxiv.org/abs/2607.20092)|-|-|
 |**2026-7-22**|**Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories**| Xiaomi Robotics Team et.al|[paper](https://arxiv.org/abs/2607.15330)|[code](https://robotics.xiaomi.com/xiaomi-robotics-1.html)|<details><summary>detail</summary>Project page: https://robotics</details>|
 |**2026-7-22**|**SOPD-SocialNav: Selective On-Policy Distillation for Vision-Language Social Navigation**|Xinyu Zhang et.al|[paper](https://arxiv.org/abs/2607.19850)|-|<details><summary>detail</summary>This paper has been accepted to 2026 WRC Symposium on Advanced Robotics and Automation (WRC SARA)</details>|
 |**2026-7-22**|**MissingBench-Verified: Probing Vision-Language Models' Inability to Detect Missing Object Parts**|Wenqi Marshall Guo et.al|[paper](https://arxiv.org/abs/2607.18673)|-|<details><summary>detail</summary>Submitted to the ECCV 2026 Workshop on Explainable Computer Vision (eXCV)</details>|
-|**2026-7-22**|**DART-VLN: Test-Time Memory Decay and Anti-Loop Regularization for Discrete Vision-Language Navigation**|Shaoheng Zhang et.al|[paper](https://arxiv.org/abs/2607.01043)|-|<details><summary>detail</summary>Accepted by the 2026 IEEE International Conference on Systems</details>|
-|**2026-7-21**|**Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents**|Guanxiong Chen et.al|[paper](https://arxiv.org/abs/2607.19190)|[code](https://agentic-real2sim.github.io/.)|<details><summary>detail</summary>Project page URL fixed</details>|
-|**2026-7-21**|**Toward a Vision-Language Foundation Model for Medical Data: Multimodal Dataset and Benchmarks for Vietnamese PET/CT Report Generation**|Huu Tien Nguyen et.al|[paper](https://arxiv.org/abs/2509.24739)|[code](https://github.com/AIoT-Lab-BKAI/ViPET-ReportGen.)|<details><summary>detail</summary>39th Conference on Neural Information Processing Systems (NeurIPS 2025) Track on Datasets and Benchmarks</details>|
-|**2026-7-21**|**GhostPrompt: Cross-Image Adversarial Prompt for Vision-Language Models**|Li Zeng et.al|[paper](https://arxiv.org/abs/2607.19683)|[code](https://github.com/Ye-ze-yu/GhostPrompt.)|<details><summary>detail</summary>ACM MM 2026</details>|
-|**2026-7-21**|**BLUE: Semantics-Preserving Video Compression for Efficient Vision-Language Surveillance Analytics**|Shubham Baid et.al|[paper](https://arxiv.org/abs/2607.19515)|-|-|
-|**2026-7-21**|**AIM-CoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning**|Xiping Li et.al|[paper](https://arxiv.org/abs/2509.25699)|[code](https://anonymous.4open.science/r/AIMCoT.)|<details><summary>detail</summary>Accepted by ACL 2026 Main Conference</details>|
-|**2026-7-21**|**PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image**|Dankai Liao et.al|[paper](https://arxiv.org/abs/2607.19261)|-|-|
-|**2026-7-21**|**Read or Ignore? A Unified Benchmark for Typographic-Attack Robustness and Text Recognition in Vision-Language Models**|Futa Waseda et.al|[paper](https://arxiv.org/abs/2512.11899)|[code](https://turingmotors.github.io/rio-vqa/)|<details><summary>detail</summary>ECCV 2026</details>|
-|**2026-7-21**|**One Model, Many Graphs: Learning over Attributed Graphs across Heterogeneous Modalities with Vision-Language Models**|Jiayi Yang et.al|[paper](https://arxiv.org/abs/2607.19128)|[code](https://github.com/Jo-eyang/OMG-VLM.)|-|
 
