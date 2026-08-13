@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2026.08.12
+## Updated on 2026.08.13
 
 ## source-free
 
@@ -32,6 +32,10 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-12**|**Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs**|Yung-Hsu Yang et.al|[paper](https://arxiv.org/abs/2608.12179)|[code](https://royyang0714.github.io/Map-Det3D.)|<details><summary>detail</summary>ECCV 2026</details>|
+|**2026-8-12**|**LoDA: A Level of Detection Aware Method and a Multimodal Sensing Benchmark for Object Level Change Detection**|Haitian Wang et.al|[paper](https://arxiv.org/abs/2608.05356)|-|-|
+|**2026-8-12**|**EGM-Det: Entropy-Guided Multimodal Adaptive Fusion for UAV RGB-IR Object Detection**|Cunzheng Fan et.al|[paper](https://arxiv.org/abs/2608.11685)|-|-|
+|**2026-8-11**|**ProtoHGF-Net: Prototype HyperGraph Fusion with Intra-modal Calibration for RGBT Object Detection**|Xiangqi Chen et.al|[paper](https://arxiv.org/abs/2608.11595)|[code](https://github.com/ZiMo-Chen/ProtoHGF)|<details><summary>detail</summary>ACM MM 2026</details>|
 |**2026-8-11**|**Is There Really a Camouflaged Object? Towards Realistic Camouflaged Object Detection**|Huafeng Chen et.al|[paper](https://arxiv.org/abs/2608.11135)|[code](https://github.com/2231122/OPCOD.)|-|
 |**2026-8-11**|**A Comparative Evaluation of Deep Learning Object Detection Models on a Real-World Multi-Plant Dataset from Africa**|Ismail Ismail Tijjani et.al|[paper](https://arxiv.org/abs/2608.11053)|-|-|
 |**2026-8-11**|**InterPruner: Interactive Structured Pruning via Taylor-Implicit Criterion and Language-Prior Modulator for Multimodal Object Detection**|Qi Ming et.al|[paper](https://arxiv.org/abs/2608.10724)|-|-|
@@ -43,15 +47,12 @@
 |**2026-8-9**|**HyperDet: 3D Object Detection with Hyper 4D Radar Point Clouds**|Yichun Xiao et.al|[paper](https://arxiv.org/abs/2602.11554)|-|-|
 |**2026-8-8**|**Certainty Is Redundant: Token Sparsification for Efficient Camouflaged Object Detection with Vision Foundation Models**|Yuhan Gao et.al|[paper](https://arxiv.org/abs/2604.16854)|-|-|
 |**2026-8-8**|**LAD-COD: Language-Aligned Dense Perception for Camouflaged Object Detection**|Shangye Song et.al|[paper](https://arxiv.org/abs/2608.07941)|-|-|
-|**2026-8-7**|**Same Attention, Different Truths: Put Logit-Lens over Visual Attention to Detect and Mitigate LVLM Object Hallucination**|Zichuan Wang et.al|[paper](https://arxiv.org/abs/2608.07302)|-|<details><summary>detail</summary>CVPR2026 Highlight</details>|
-|**2026-8-7**|**RegionDet: A Benchmark for Region Detection Beyond Object Instances**|Liang Wan et.al|[paper](https://arxiv.org/abs/2608.06850)|-|-|
-|**2026-8-7**|**ECAD: Expanding Class-Agnostic Detection Beyond Thing-Centric Objectness**|Liang Wan et.al|[paper](https://arxiv.org/abs/2608.06841)|-|-|
-|**2026-8-7**|**YOLOv14: Adaptive Real-Time Object Detection for Diverse Imaging Conditions**|Jinling Jia et.al|[paper](https://arxiv.org/abs/2608.04720)|-|-|
 
 ## domain adaptation
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-12**|**How Far from Clinical Deployment? Evaluating the Complete Unsupervised Domain Adaptation Pipeline in Medical Imaging**|Yiheng Xiong et.al|[paper](https://arxiv.org/abs/2608.12035)|-|-|
 |**2026-8-11**|**Diffract: Spectral View of LLM Domain Adaptation**|Nikita Borodin et.al|[paper](https://arxiv.org/abs/2608.10850)|[code](https://github.com/Risk-AI-Research/diffract)|<details><summary>detail</summary>ICML 2026</details>|
 |**2026-8-10**|**Unsupervised Domain Adaptation for Multitask Image Analysis in Realistic Context with Extreme Label Shift; Application to the CTAO first Large Sized Telescope**|Michaël Dell'aiera et.al|[paper](https://arxiv.org/abs/2608.09630)|-|<details><summary>detail</summary>This is the accepted version of the article published in Astronomy and Computing</details>|
 |**2026-8-10**|**GeoPhysAdapter: Scale-Matched Geophysical Adaptation for Cross-Domain Landslide Mapping with Vision Foundation Models**|Zhihang Liu et.al|[paper](https://arxiv.org/abs/2608.09325)|[code](https://github.com/Liu-Zhihang/geophysadapter.)|-|
@@ -66,12 +67,14 @@
 |**2026-8-5**|**COSMO: Consensus-Driven Shift Modulation for Source-Free Domain Adaptation**|Bo Li et.al|[paper](https://arxiv.org/abs/2608.04604)|-|-|
 |**2026-8-5**|**AdaptAgent: A Multi-agent, Domain-Guided Reasoning Framework for Code Adaptation**|Xiaokai Rong et.al|[paper](https://arxiv.org/abs/2608.04459)|-|-|
 |**2026-8-4**|**Unsupervised Adversarial Domain Adaptation for Uterine layer Segmentation: From Labeled Cine to Unlabeled Dynamic EPI MRI**|Smiti Tripathy et.al|[paper](https://arxiv.org/abs/2608.03762)|-|-|
-|**2026-8-4**|**Efficient unsupervised domain adaptation via self-supervised vision transformer and synergistic cross-domain alignment**|Ali Abedi et.al|[paper](https://arxiv.org/abs/2407.21311)|-|-|
 
 ## domain generalization
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-12**|**Reconfiguring Geovisualization in the Age of Generative AI: Insights from Domain Experts**|Mengyi Wei et.al|[paper](https://arxiv.org/abs/2608.12059)|-|-|
+|**2026-8-12**|**D3D-GEN: Robot-Aware Domain-Grounded Interactive 3D World Generation for Social Robotics**|Anh Duc Do et.al|[paper](https://arxiv.org/abs/2608.11876)|-|-|
+|**2026-8-11**|**Dialogue-Aware Video-to-Music Generation Using Public Domain Film Collections**|Haven Kim et.al|[paper](https://arxiv.org/abs/2608.11576)|[code](https://huggingface.co/datasets/McAuley-Lab/OSSL-v2.)|-|
 |**2026-8-11**|**FedCGR: Federated Cross-Domain Generative Recommendation**|Zhuodong Liu et.al|[paper](https://arxiv.org/abs/2608.10929)|-|<details><summary>detail</summary>CIKM 2026</details>|
 |**2026-8-11**|**BPG: Balancing Plasticity and Generalization for Domain Incremental Learning**|Qiang Wang et.al|[paper](https://arxiv.org/abs/2608.10804)|-|-|
 |**2026-8-10**|**BreastMammo and DenseMammo: Benchmarks for Mammography Domain Generalization**|Hongyi Pan et.al|[paper](https://arxiv.org/abs/2608.10271)|-|<details><summary>detail</summary>This paper was accepted to the MICCAI 2026 workshop Deep-Brea3th</details>|
@@ -84,27 +87,24 @@
 |**2026-8-5**|**CrossHallu: Do Hallucination Signals Generalize Across Languages and Domains in Large Language Model's Internals?**|Aisha Alansari et.al|[paper](https://arxiv.org/abs/2607.04029)|[code](https://github.com/aishaalansari57/CrossHal.)|-|
 |**2026-8-5**|**Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains**|Ayoub Kirouane et.al|[paper](https://arxiv.org/abs/2608.05138)|-|-|
 |**2026-8-5**|**CSGen: A Multi-Domain Curvilinear Structure Generation Model via Hierarchical Multimodal Diffusion**|Zhe Shan et.al|[paper](https://arxiv.org/abs/2608.04655)|[code](https://github.com/ShanZard/CSGen.)|<details><summary>detail</summary>ACM MM 2026</details>|
-|**2026-8-4**|**Free-Lunch Augmentation by Revisiting Diffusion-Based Data Generation for Cross-Domain Few-Shot Object Detection**|Zijian Zhuang et.al|[paper](https://arxiv.org/abs/2608.04394)|[code](https://github.com/zzzzj311-droid/Free-Lunch-SITN)|-|
-|**2026-8-3**|**Dual-Resolution Attention-Gated Deep Learning with Ordinal Regression for Diabetic Retinopathy Grading: A Quantified Assessment of Cross-Domain Generalization**|Afshan Hashmi et.al|[paper](https://arxiv.org/abs/2604.17341)|-|<details><summary>detail</summary>v2: added multi-seed ablation</details>|
-|**2026-8-3**|**EntailLLM: Verifying LLM-Generated Vulnerability Discovery Paths with Domain Knowledge via Logic Programming**|Kaustuv Mukherji et.al|[paper](https://arxiv.org/abs/2608.01763)|-|-|
 
 ## vision language
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-8-11**|**Progressive Semantic Communication for Efficient Edge-Cloud Vision-Language Models**|Cyril Shih-Huan Hsu et.al|[paper](https://arxiv.org/abs/2604.26508)|[code](https://github.com/open-ep/ProSemComVLM.)|<details><summary>detail</summary>Accepted for publication in the 2026 IEEE Global Communications Conference (GLOBECOM)</details>|
-|**2026-8-11**|**Vision-Language-Motion Maps: An Open-Vocabulary, Uncertainty-Aware, Queryable Motion Attribute for 3D Scene Maps**|Dibyendu Ghosh et.al|[paper](https://arxiv.org/abs/2607.16173)|-|-|
-|**2026-8-11**|**When Visual Signals Mislead: A Mechanistic Study of Attribute Hallucination in Vision-Language Models**|Yufei Zhang et.al|[paper](https://arxiv.org/abs/2608.11024)|-|-|
-|**2026-8-11**|**XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving**| Foundation Model Team et.al|[paper](https://arxiv.org/abs/2608.10976)|-|-|
-|**2026-8-11**|**Multi-View Relational Distillation for Spatial Reasoning with Vision-Language Models**|Kiet T. Nguyen et.al|[paper](https://arxiv.org/abs/2608.10864)|-|-|
-|**2026-8-11**|**Neural Introspection Gating for Adaptive KV-Cache Reuse in Vision-Language-Action Models**|Zhijie Wu et.al|[paper](https://arxiv.org/abs/2608.10824)|[code](https://zjw4321.github.io/neural-introspection-gating-page/)|-|
-|**2026-8-11**|**Hybrid Token Compression for Vision-Language Models**|Jusheng Zhang et.al|[paper](https://arxiv.org/abs/2512.08240)|[code](https://github.com/jushengzhang/HybridToken-VLM)|<details><summary>detail</summary>CVPR 2026</details>|
-|**2026-8-11**|**Beyond False Stability: High-Noise Drift Gating for Test-Time Adversarial Defenses in Vision-Language Models**|Hashmat Shadab Malik et.al|[paper](https://arxiv.org/abs/2606.03730)|-|<details><summary>detail</summary>Journal ref:The 37th British Machine Vision Conference (BMVC) 2026</details>|
-|**2026-8-11**|**MedUP: Awakening Unified Understanding and Perception in Medical Vision-Language Models**|Yuan Wang et.al|[paper](https://arxiv.org/abs/2608.10635)|-|-|
-|**2026-8-11**|**Dynamic Context Adapters: Efficiently Infusing History into Vision-and-Language Models**|Yuhang Song et.al|[paper](https://arxiv.org/abs/2608.10525)|-|-|
-|**2026-8-11**|**HoloQ-VLA: Uniform W4A4 Quantization of Vision-Language-Action Models**|Xinyu Wang et.al|[paper](https://arxiv.org/abs/2605.28803)|-|-|
-|**2026-8-11**|**Lost in Reconstruction: Aligning Action Representations with Language in Vision-Language-Action Models**|Li Wenjie et.al|[paper](https://arxiv.org/abs/2608.10484)|-|-|
-|**2026-8-10**|**Logit Lens Supervision for Patch-Level Explanations in Vision-Language Models**|Parsa Esmaeilkhani et.al|[paper](https://arxiv.org/abs/2602.01530)|-|-|
-|**2026-8-10**|**Majorization-Guided Test-Time Adaptation for Vision-Language Models under Modality-Specific Shift**|Lixian Chen et.al|[paper](https://arxiv.org/abs/2604.24602)|[code](https://mg-mtta.github.io/.)|<details><summary>detail</summary>Accepted by ACM MM 2026</details>|
-|**2026-8-10**|**VisEditBench: Can Vision-Language Models Edit Visualization Code from Multimodal Feedback?**|Mizanur Rahman et.al|[paper](https://arxiv.org/abs/2608.10408)|[code](https://github.com/vis-nlp/VisEditBench.)|-|
+|**2026-8-12**|**DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation**|Yan Deng et.al|[paper](https://arxiv.org/abs/2608.12308)|-|-|
+|**2026-8-12**|**MuseVLA: An Adaptive Multimodal Sensing Vision-Language-Action Model for Robotic Manipulation**|Xingyuming Liu et.al|[paper](https://arxiv.org/abs/2606.17598)|[code](https://github.com/microsoft/MuseVLA.)|-|
+|**2026-8-12**|**DaViNCi: A Dataset Towards Outdoor Vision-and-Language Navigation with Continuous Actions and Dynamic Elements**|Zihao Xie et.al|[paper](https://arxiv.org/abs/2608.11901)|[code](https://xzh0312.github.io/DaViNCi/.)|-|
+|**2026-8-12**|**VLM2Rec: Resolving Modality Collapse in Vision-Language Model Embedders for Multimodal Sequential Recommendation**|Junyoung Kim et.al|[paper](https://arxiv.org/abs/2603.17450)|-|-|
+|**2026-8-12**|**VANE: Reliable Test-Time Training for Vision-Language-Action Models via Future Visual Representation Prediction**|Hongjin Ji et.al|[paper](https://arxiv.org/abs/2608.09448)|-|-|
+|**2026-8-12**|**A Simple Efficiency Incremental Learning Framework via Vision-Language Model with Nonlinear Multi-Adapters**|Haihua Luo et.al|[paper](https://arxiv.org/abs/2603.11211)|-|-|
+|**2026-8-12**|**How China-Origin Vision-Language Models Move from Refusal to Reframing in State Alignment**|Guang Yang et.al|[paper](https://arxiv.org/abs/2608.11816)|-|-|
+|**2026-8-12**|**Robotic Manipulation is Vision-to-Geometry Mapping: Vision-Geometry Backbones over Language and Video Models**|Zijian Song et.al|[paper](https://arxiv.org/abs/2604.12908)|[code](https://hcplab-sysu.github.io/VisionGeometryActionModel.)|<details><summary>detail</summary>ACM Multimedia 2026</details>|
+|**2026-8-12**|**RLinf-VLA: A Unified and Efficient Framework for Reinforcement Learning of Vision-Language-Action Models**|Hongzhi Zang et.al|[paper](https://arxiv.org/abs/2510.06710)|[code](https://github.com/RLinf/RLinf)|<details><summary>detail</summary>RSS 2026</details>|
+|**2026-8-12**|**RoboHarness: A Memory-Augmented Policy Harness for Vision-Language-Action Model Robustness via In-Context Adaptation**|Zhuoran Li et.al|[paper](https://arxiv.org/abs/2603.24060)|[code](https://github.com/LZY-1021/RoboHarness.)|-|
+|**2026-8-12**|**HUGIN: Enhancing Vision-Language Planning for Autonomous Logistics Sorting**|Xikai Sun et.al|[paper](https://arxiv.org/abs/2608.11692)|-|-|
+|**2026-8-12**|**StellaVLA: In-Context Structured Demonstration for Generalizable Vision-Language-Action Models**|Siyu Xu et.al|[paper](https://arxiv.org/abs/2608.11671)|-|-|
+|**2026-8-11**|**CT-$Δ$Bench: A Benchmark for Longitudinal 3D Medical Imaging Difference Reporting with Vision-Language Models**|Kegeng Tang et.al|[paper](https://arxiv.org/abs/2608.11534)|-|<details><summary>detail</summary>Accepted by COLM 2026</details>|
+|**2026-8-11**|**Test-Time Hallucination Control in Large Vision-Language Models**|Mehran Tamjidi et.al|[paper](https://arxiv.org/abs/2608.11474)|[code](https://github.com/Mehran-TAM/TTH)|<details><summary>detail</summary>ECCV 2026 MUCG</details>|
+|**2026-8-11**|**Ortho2CAD: 3D CAD generation from orthographic drawings using vision language models**|Aditya Joglekar et.al|[paper](https://arxiv.org/abs/2607.08891)|[code](https://github.com/AdityaJoglekar/Ortho2CAD.)|-|
 
