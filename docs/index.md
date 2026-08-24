@@ -6,12 +6,13 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2026.08.23
+## Updated on 2026.08.24
 
 ## source-free
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-21**|**Source-Free MT Evaluation Is Not MT Evaluation**|Baban Gain et.al|[paper](https://arxiv.org/abs/2608.20925)|-|-|
 |**2026-8-10**|**Forgetting-Resistant and Lesion-Aware Source-Free Domain Adaptive Fundus Image Analysis with Vision-Language Model**|Zheang Huai et.al|[paper](https://arxiv.org/abs/2602.19471)|-|<details><summary>detail</summary>Some experimental results in Section 3 are based on comparisons that may not be entirely fair</details>|
 |**2026-8-6**|**Source-Free Detection and Impact Analysis of Compiler Optimization Problems in Mobile Applications**|Han Hu et.al|[paper](https://arxiv.org/abs/2606.23512)|-|-|
 |**2026-8-6**|**When Semantics Saturate or Emerge: Adaptation-Conditional Semantic Utility in Source-Free Cross-Domain Few-Shot Learning**|Wei Liu et.al|[paper](https://arxiv.org/abs/2608.06673)|-|-|
@@ -26,12 +27,16 @@
 |**2026-7-22**|**Towards Practical Emotion Recognition: An Unsupervised Source-Free Approach for EEG Domain Adaptation**|Md Niaz Imtiaz et.al|[paper](https://arxiv.org/abs/2504.03707)|[code](https://github.com/RyersonMultimediaLab/EmotionRecognitionSF-UDA)|<details><summary>detail</summary>Accepted: IEEE Transactions on Affective Computing</details>|
 |**2026-7-20**|**LFM: Leveraging Foundation Models for Source-Free Universal Domain Adaptation**|Jing Li et.al|[paper](https://arxiv.org/abs/2607.17653)|[code](https://github.com/iamjingli/LFM.)|<details><summary>detail</summary>Accepted by IEEE Transactions on Multimedia (2026)</details>|
 |**2026-7-16**|**SloMo-Fast: Slow-Momentum and Fast-Adaptive Teachers for Source-Free Continual Test-Time Adaptation**|Md Akil Raihan Iftee et.al|[paper](https://arxiv.org/abs/2511.18468)|-|-|
-|**2026-7-12**|**Separating Expert Retention from Autonomous Source Inference in Raw-ECG-Replay-Free Continual ECG Deployment**|Yufan Lu et.al|[paper](https://arxiv.org/abs/2607.01674)|[code](https://github.com/yufanlu221/IRFE-ECG.)|<details><summary>detail</summary>Submitted to BIBM 2026</details>|
 
 ## object detection
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-21**|**A2DINOv3: Rethinking Multi-Modal Object Detection via Socialized Collaboration**|Jiekang Feng et.al|[paper](https://arxiv.org/abs/2608.21099)|-|-|
+|**2026-8-21**|**SuppreSensing: Expert-Guided Feature Recalibration and Discrepancy Augmentation for Multimodal Object Detection**|Xin Wu et.al|[paper](https://arxiv.org/abs/2608.20944)|-|-|
+|**2026-8-21**|**Semantically Compatible Knowledge Distillation for Cross-Domain Object Detection with Vision Foundation Models**|Qifeng Zhang et.al|[paper](https://arxiv.org/abs/2608.20916)|-|-|
+|**2026-8-20**|**Privacy-Preserving Object Detection for Vision Transformer-Based Models**|Homare Sueyoshi et.al|[paper](https://arxiv.org/abs/2608.20712)|-|-|
+|**2026-8-20**|**Vision Foundation Model Driven Foreground-Aware Pseudo-LiDAR Generation for Monocular 3D Object Detection**|Bonan Ding et.al|[paper](https://arxiv.org/abs/2404.09431)|-|-|
 |**2026-8-20**|**YOLOv14: Adaptive Real-Time Object Detection for Diverse Imaging Conditions**|Jian Lu et.al|[paper](https://arxiv.org/abs/2608.04720)|[code](https://github.com/zhangcbb/yolov14.)|<details><summary>detail</summary>Sorry</details>|
 |**2026-8-20**|**Open-Vocabulary 3D Object Detection with Co-Distillation Discovery and Dual Guidance Robust Training**|Shangbo Yuan et.al|[paper](https://arxiv.org/abs/2608.19973)|[code](https://github.com/shangboyuan/Co-3DGT)|<details><summary>detail</summary>Accepted by ECCV26</details>|
 |**2026-8-19**|**Detecting Backdoors in Object Detection via Pre-NMS Prediction Distribution Shift**|Longtian Wang et.al|[paper](https://arxiv.org/abs/2608.19088)|-|-|
@@ -42,11 +47,6 @@
 |**2026-8-16**|**AdROD: HyperNetwork-based Adversarially Robust Object Detection for Autonomous Driving**|Yuting Wu et.al|[paper](https://arxiv.org/abs/2608.16031)|-|-|
 |**2026-8-15**|**Degraded Infrared Small Object Detection via Degradation-Adapted Physics-Guided Restoration**|Xinkai Lu et.al|[paper](https://arxiv.org/abs/2608.09311)|-|<details><summary>detail</summary>Accept by ICIG2026 (Oral)</details>|
 |**2026-8-15**|**Boundary-Aligned Contribution Routing for Robust Optical--SAR Object Detection**|Haifa Zhang et.al|[paper](https://arxiv.org/abs/2608.15261)|-|-|
-|**2026-8-15**|**G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection**|Yechan Kim et.al|[paper](https://arxiv.org/abs/2607.19942)|[code](https://unique-chan.github.io/G-MAD-Project.)|<details><summary>detail</summary>ACM Multimedia 2026 (Supplementary Material Included)</details>|
-|**2026-8-14**|**PIEDet: Prototype-Driven Intrinsically Explainable Object Detection**|Jianlin Xiang et.al|[paper](https://arxiv.org/abs/2604.13981)|-|-|
-|**2026-8-14**|**A Systematic Comparison of Training Objectives for Out-of-Distribution Detection in Image Classification**|Furkan Genç et.al|[paper](https://arxiv.org/abs/2603.07571)|-|<details><summary>detail</summary>the ECCV 2026 Workshop on Uncertainty Quantification for Computer Vision</details>|
-|**2026-8-14**|**IRGNN: Efficient Invariant Radar Graph Neural Network for Radar Point Cloud Object Detection**|Xiao Guo et.al|[paper](https://arxiv.org/abs/2608.14394)|-|<details><summary>detail</summary>ICONIP 2026</details>|
-|**2026-8-14**|**PISA: A Pseudo-Individual Source-Domain Feature Adaptation Framework for Test-Time Open-Vocabulary Object Detection**|Ziyan He et.al|[paper](https://arxiv.org/abs/2608.14142)|-|-|
 
 ## domain adaptation
 
@@ -92,19 +92,19 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-8-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li et.al|[paper](https://arxiv.org/abs/2608.21247)|-|-|
+|**2026-8-21**|**Toward Vision Language Model-based Assessment of Clinical Quality and Usability of LGE-MR Images for Cardiac Ablation Planning**|Bipasha Kundu et.al|[paper](https://arxiv.org/abs/2608.21180)|-|-|
+|**2026-8-21**|**CFM: Language-aligned Concept Foundation Model for Vision**|Kai Wittenmayer et.al|[paper](https://arxiv.org/abs/2601.13798)|[code](https://github.com/kawi19/CFM.)|<details><summary>detail</summary>Accepted as a Spotlight at ECCV 2026</details>|
+|**2026-8-21**|**Roadside-Cooperative Autonomous Driving: From Data Platform to Vision-Language End-to-End Reasoning**|Yitao Xu et.al|[paper](https://arxiv.org/abs/2608.21032)|-|-|
+|**2026-8-21**|**Belief Without Behavior: Measuring the Translation of Theory of Mind into Coordinated Social Action in Vision-Language Models**|Tonglin Yan et.al|[paper](https://arxiv.org/abs/2608.20975)|-|-|
+|**2026-8-21**|**CertVLA: Certified Defense against Physical Visual Attacks for Vision-Language-Action Models**|Hui Lu et.al|[paper](https://arxiv.org/abs/2608.20791)|-|-|
+|**2026-8-21**|**CARD: Diagnosing Belief to Action Routing Failures in Vision Language Models**|Souptik Kumar Majumdar et.al|[paper](https://arxiv.org/abs/2608.20763)|-|-|
+|**2026-8-20**|**AffordAny: Open-World 3D Affordance Grounding from Monocular RGB Images via Vision-Language-Guided Geometric Reasoning**|Junqi Wu et.al|[paper](https://arxiv.org/abs/2608.20720)|[code](https://github.com/lzlfwow/AffordAny.)|<details><summary>detail</summary>The code and dataset are publicly available</details>|
+|**2026-8-20**|**Logic-VLA: A Temporal Logic Conditioned Vision-Language-Action Model**|Celina Shiyu Wang et.al|[paper](https://arxiv.org/abs/2608.20556)|-|-|
 |**2026-8-20**|**EATR-Stereo: Embodiment-Aware Token Routing of Paired Stereo Evidence for Humanoid Vision-Language-Action Control**|Songwei Wu et.al|[paper](https://arxiv.org/abs/2608.17453)|-|-|
 |**2026-8-20**|**Generalist Vision-Language Models for Fast Radio Burst detection: a zero-shot benchmark against a specialized detector**|Raiff H. Santos et.al|[paper](https://arxiv.org/abs/2607.07382)|-|-|
 |**2026-8-20**|**MPCoT: Reward-Guided Multi-Path Latent Reasoning for Test-Time Scalable Vision-Language-Action**|Boyang Zhang et.al|[paper](https://arxiv.org/abs/2606.06245)|-|-|
 |**2026-8-20**|**SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation**|Xiaobei Zhao et.al|[paper](https://arxiv.org/abs/2510.14357)|[code](https://github.com/AlexTraveling/SUM-AgriVLN.)|-|
 |**2026-8-20**|**Evidence-Gated Task and Motion Planning with Vision-Language Models**|Tsunehiko Tanaka et.al|[paper](https://arxiv.org/abs/2608.20084)|-|-|
 |**2026-8-20**|**From Street View Imagery to Street Quality Indicators: Vision Language Inference for the Suburban 15-minute City**|Joan Perez et.al|[paper](https://arxiv.org/abs/2608.20026)|-|-|
-|**2026-8-20**|**Towards Clinically Faithful Medical Image Captioning via Enhanced Vision-Language Alignment**|Yunseo Lee et.al|[paper](https://arxiv.org/abs/2608.19825)|-|-|
-|**2026-8-20**|**Answer-Level Trust Selection for Physical Vision-Language Reasoning**|Rongyu Yu et.al|[paper](https://arxiv.org/abs/2608.19807)|-|<details><summary>detail</summary>Preprint</details>|
-|**2026-8-20**|**TempJail: Temporal Jailbreak Attack against Large Vision-Language Models via Subtitle Scheduling**|Ling Zhou et.al|[paper](https://arxiv.org/abs/2608.19737)|-|-|
-|**2026-8-20**|**Calibrated Triage, Not Autonomy: Confidence Estimation for Medical Vision-Language Models**|Reza Khanmohammadi et.al|[paper](https://arxiv.org/abs/2606.15910)|-|-|
-|**2026-8-19**|**HBVLA: Pushing 1-Bit Post-Training Quantization for Vision-Language-Action Models**|Xin Yan et.al|[paper](https://arxiv.org/abs/2602.13710)|-|-|
-|**2026-8-19**|**CADRE: Stable, Parameter Efficient Adaptation of Medical Vision Language Models with Bounded Forgetting and Prior Drift**|Rishabh Jha et.al|[paper](https://arxiv.org/abs/2606.23487)|-|-|
-|**2026-8-19**|**ReWEIGH the Evidence: Calibrating Token-Level Ordinal Visual Evidence to Mitigate Hallucinations in Large Vision-Language Models**|Jihae Jeong et.al|[paper](https://arxiv.org/abs/2608.19075)|-|-|
-|**2026-8-19**|**Uncertainty-Aware Art-Historical Dating with Vision-Language Models**|Stefanie Schneider et.al|[paper](https://arxiv.org/abs/2608.18984)|-|-|
-|**2026-8-19**|**Breaking the weakest link to evade vision language models**|Ilan Zini et.al|[paper](https://arxiv.org/abs/2608.18938)|-|-|
 
