@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2026.09.15
+## Updated on 2026.09.16
 
 ## source-free
 
@@ -32,6 +32,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-9-15**|**CFGPNet: Cross-Attention-Based Fused Gradient Programmed Network Framework for Multispectral Object Detection**|Nima Hatami et.al|[paper](https://arxiv.org/abs/2608.06205)|[code](https://github.com/NimaHatami99/CFGPNet.)|<details><summary>detail</summary>v2: Revised version after addressing reviewer comments</details>|
 |**2026-9-14**|**From Words to Wavelengths: VLMs for Few-Shot Multispectral Object Detection**|Manuel Nkegoum et.al|[paper](https://arxiv.org/abs/2512.15971)|-|-|
 |**2026-9-13**|**ESAFusion: LiDAR--4-D Radar Fusion via Local Geometric Complementation and Multiscale Adaptive Interaction for 3-D Object Detection**|Gang Ma et.al|[paper](https://arxiv.org/abs/2609.14619)|[code](https://github.com/SenJieHu549/ESAFusion.)|-|
 |**2026-9-13**|**Small Object Detection in Drone Aerial Imagery with LAF-YOLOv10**|Quratulain Nayeem et.al|[paper](https://arxiv.org/abs/2609.14560)|[code](https://github.com/Mudassiruddin7/Small-Object-Detection-in-UAV-Imagery.)|-|
@@ -46,7 +47,6 @@
 |**2026-9-10**|**Single-Query Person-Centric Bimanual Hand-Object Interaction Detection**|Jonghyun Kim et.al|[paper](https://arxiv.org/abs/2609.12155)|[code](https://lgecto-ail-vil.github.io/SingleQuery-BHOI/)|<details><summary>detail</summary>ECCV2026</details>|
 |**2026-9-10**|**MC-DeTra: Motion-Consistent Joint Object Detection and Socially-Aware Trajectory Forecasting in Bird's-Eye-View Images**|Vladislav Diuzhev et.al|[paper](https://arxiv.org/abs/2609.11717)|[code](https://github.com/diuzhevVlad/MC-DeTra.)|-|
 |**2026-9-10**|**HGSQ: Heatmap-Guided Sparse Query Detector for Real-Time Aerial Small Object Detection**|Yangchen Zeng et.al|[paper](https://arxiv.org/abs/2609.13306)|-|<details><summary>detail</summary>3 figures and 7 tables</details>|
-|**2026-9-10**|**A Multi-Modal Perception Pipeline for Object Detection and Tracking in Autonomous Racing**|Davide Malvezzi et.al|[paper](https://arxiv.org/abs/2609.08338)|-|-|
 
 ## domain adaptation
 
@@ -92,19 +92,19 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-9-14**|**Beyond Single-Axis Testing: Paired Evaluation of Compound Robustness in Vision-Language-Action Policies**|Hiroki Sawada et.al|[paper](https://arxiv.org/abs/2609.15940)|-|-|
-|**2026-9-14**|**Beyond Accuracy: Robustness, Cost, and Governance Trade-offs for Vision-Language Models in Templated Document Extraction**|Kushal Patel et.al|[paper](https://arxiv.org/abs/2609.15706)|-|-|
-|**2026-9-14**|**Don't Send What You Don't Need: Question-Guided Token Pruning as a Privacy Defense for Vision-Language Models**|Md Khalid Syfullah et.al|[paper](https://arxiv.org/abs/2609.15671)|-|-|
-|**2026-9-14**|**Human-Grounded Calibration for Long-Text Image-Text Congruence in Vision-Language Models**|Alessandro Gambetti et.al|[paper](https://arxiv.org/abs/2609.15640)|-|<details><summary>detail</summary>3 figures</details>|
-|**2026-9-14**|**CAC-VLA: Context-Gated Action Conditioning for Vision-Language-Action Models**|Yifu Xiong et.al|[paper](https://arxiv.org/abs/2607.04816)|-|-|
-|**2026-9-14**|**A Unified Vision-Language Model for PSMA PET/CT Report Generation, Visual Question Answering, and Lesion Segmentation**|Yang Xing et.al|[paper](https://arxiv.org/abs/2609.15603)|-|-|
-|**2026-9-14**|**Solving the Needle-in-a-Haystack Problem in Mammography Vision-Language Model with Differentiable Subset Sampling**|Young Seok Jeon et.al|[paper](https://arxiv.org/abs/2609.03085)|[code](https://github.com/Youngseok0001/TopKSigLIP.)|-|
-|**2026-9-14**|**MANGO: Automated Multi-Agent Test Oracle Generation for Vision-Language-Action Models**|Pablo Valle et.al|[paper](https://arxiv.org/abs/2606.24815)|-|-|
-|**2026-9-14**|**Perturbation-Based Epistemic Uncertainty for Failure Detection in Vision-Language-Action Models**|Yousung Lee et.al|[paper](https://arxiv.org/abs/2606.20754)|-|-|
-|**2026-9-14**|**MARE: Multimodal Alignment and Reinforcement for Explainable Deepfake Detection via Vision-Language Models**|Wenbo Xu et.al|[paper](https://arxiv.org/abs/2601.20433)|-|-|
-|**2026-9-14**|**Where Am I? Semantic Map Grounding via Vision-Language Models for Multi-Modal Localization**|Suraj Borate et.al|[paper](https://arxiv.org/abs/2607.01079)|-|<details><summary>detail</summary>Some of the results that we have submitted</details>|
-|**2026-9-14**|**AMALIA-VL: A Native European Portuguese Open-Source Vision and Language Model**|Diogo Glória-Silva et.al|[paper](https://arxiv.org/abs/2606.19100)|-|-|
-|**2026-9-14**|**HANCLIP: A Family of Hyperbolic Angular Negation Vision Language Models**|Hoang-Bao Le et.al|[paper](https://arxiv.org/abs/2606.23843)|-|-|
-|**2026-9-14**|**Rethinking Correctness for Uncertainty Estimation in Clinical Prediction with Vision-Language Models**|Mingcheng Zhu et.al|[paper](https://arxiv.org/abs/2609.15180)|-|-|
-|**2026-9-14**|**Understanding the Effects of Distractors on Reasoning Vision-Language Models**|Jiyun Bae et.al|[paper](https://arxiv.org/abs/2511.21397)|-|<details><summary>detail</summary>EMNLP 2026</details>|
+|**2026-9-15**|**ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation**|Vicky Feliren et.al|[paper](https://arxiv.org/abs/2609.17499)|-|-|
+|**2026-9-15**|**BrainFocus: EEG-Guided ROI Selection for Efficient Vision-Language Models**|Yihui Peng et.al|[paper](https://arxiv.org/abs/2609.17443)|-|-|
+|**2026-9-15**|**Vroom-Vroom at SHROOM-Visions: A Multi-Judge Committee for Detecting Hallucinated Spans in Vision-Language Outputs**|Toqeer Ehsan et.al|[paper](https://arxiv.org/abs/2609.17327)|-|<details><summary>detail</summary>UncertaiNLP 2026 @ EMNLP</details>|
+|**2026-9-15**|**FADE: Mitigating Hallucinations by Reducing Language-Prior Dominance in Large Vision-Language Models**|Yichen Guo et.al|[paper](https://arxiv.org/abs/2606.29431)|-|-|
+|**2026-9-15**|**SWIM: Vision-Language-Grounded Soft Whole-Body Interactive Manipulation**|Tingcong Liu et.al|[paper](https://arxiv.org/abs/2609.17035)|-|-|
+|**2026-9-15**|**MANGO: Automated Multi-Agent Test Oracle Generation for Vision-Language-Action Models**|Pablo Valle et.al|[paper](https://arxiv.org/abs/2606.24815)|-|-|
+|**2026-9-15**|**sensVLA: Spatially-Grounded Vision-Language-Action Model for Autonomous Wheel Loader**|Gopi Krishna Erabati et.al|[paper](https://arxiv.org/abs/2609.17021)|-|<details><summary>detail</summary>ICRA 2026: From Data to Decisions: VLA Pipelines for Real Robots</details>|
+|**2026-9-15**|**Search-Based Metamorphic Testing of Vision-Language Models in Autonomous Underwater Robotic Software**|Muhammad Yousaf et.al|[paper](https://arxiv.org/abs/2609.17007)|-|-|
+|**2026-9-15**|**AMALIA-VL: A Native European Portuguese Open-Source Vision and Language Model**|Diogo Glória-Silva et.al|[paper](https://arxiv.org/abs/2606.19100)|-|-|
+|**2026-9-15**|**TecoPrompt: Temporal-Conservative Prompt Learning for Vision-Language Models**|Zeyi Shao et.al|[paper](https://arxiv.org/abs/2609.16858)|[code](https://github.com/haji-mimi/TecoPrompt)|<details><summary>detail</summary>ECCV 2026 (Main Conference)</details>|
+|**2026-9-15**|**RefGlitch-Bench: A Benchmark for Reference-based Gameplay Glitch Detection with Vision-Language Models**|Yakun Yu et.al|[paper](https://arxiv.org/abs/2604.11082)|[code](https://github.com/PipiZong/RefGlitch-Bench.git.)|-|
+|**2026-9-15**|**EVEREST:Endogenous Vision-Language Reinforcement Reasoning Exploration for Urban Socio-Semantic Segmentation**|Qixiu Li et.al|[paper](https://arxiv.org/abs/2608.24640)|[code](https://github.com/TechCloud-x/EVEREST.)|-|
+|**2026-9-15**|**Vision-Language Models for Criterion-Level Grading of Handwritten Examinations in Outcome-Based Education**|Asif Hasan Tonmoy et.al|[paper](https://arxiv.org/abs/2609.14284)|-|-|
+|**2026-9-15**|**Efficient Quantization-Aware Distillation with Cross-Modal Alignment for Edge Vision-Language Models**|Jinwoo Jeon et.al|[paper](https://arxiv.org/abs/2609.16689)|-|-|
+|**2026-9-15**|**Mechanism-Level Evaluation for Vision-Language Models: Controlled Activation-Replacement Diagnosis of Gender Bias**|Zhipeng Zhao et.al|[paper](https://arxiv.org/abs/2609.16651)|[code](https://github.com/zhaozhipeng1997/CARD-GenderBias.)|<details><summary>detail</summary>EMNLP 2026</details>|
 
