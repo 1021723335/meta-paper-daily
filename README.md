@@ -6,7 +6,7 @@
 - [vision language](#vision-language)
 
 
-## Updated on 2026.10.06
+## Updated on 2026.10.07
 
 ## source-free
 
@@ -32,6 +32,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-6**|**Sparse2comm: Towards Robust Cooperative 3D Object Detection**|Lei Yang et.al|[paper](https://arxiv.org/abs/2610.08573)|[code](https://github.com/yanglei18/Sparse2comm)|-|
 |**2026-10-5**|**GS-Pool: Object-Level Change Detection in 3D Gaussian Splatting**|Boaz Keren-Gil et.al|[paper](https://arxiv.org/abs/2610.06688)|-|-|
 |**2026-10-5**|**XS-VID: A Large-Scale Benchmark for Small Object Detection and Tracking in Videos**|Jiahao Guo et.al|[paper](https://arxiv.org/abs/2407.18137)|[code](https://gjhhust.github.io/XS-VID/,)|<details><summary>detail</summary>Accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</details>|
 |**2026-10-5**|**Harnessing Multimodal Large Language Models for Training-Free Human-Object Interaction Detection**|Zhaolin Cai et.al|[paper](https://arxiv.org/abs/2610.06394)|-|-|
@@ -46,7 +47,6 @@
 |**2026-9-30**|**Hyperspectral Image Dataset for Benchmarking on Salient Object Detection**|Nevrez Imamoglu et.al|[paper](https://arxiv.org/abs/1806.11314)|[code](https://github.com/nevrez/HS-SOD;)|-|
 |**2026-9-29**|**Towards Formal Verification of Deep Neural Networks for Object Detection**|Avraham Raviv et.al|[paper](https://arxiv.org/abs/2407.01295)|-|<details><summary>detail</summary>NASA Formal Methods (NFM) 2026</details>|
 |**2026-9-29**|**Consensus-Aware Multi-Source Fusion for Reference-Guided Camouflaged Object Detection**|Junyang Xia et.al|[paper](https://arxiv.org/abs/2609.38747)|-|-|
-|**2026-9-29**|**GA-EIRFS: A Geometry-Augmented Repeat-Factor Sampling Method for Long-Tailed LiDAR 3D Object Detection**|Taufiq Ahmed et.al|[paper](https://arxiv.org/abs/2609.38116)|[code](https://github.com/Multimodal-Sensing-Lab/GA-EIRFS.)|-|
 
 ## domain adaptation
 
@@ -72,6 +72,7 @@
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
+|**2026-10-6**|**Knowing When Not to Answer: Cross-Domain and Multi-Turn Generalization of Latent Underspecification Signals**|Jerzy Kamiński et.al|[paper](https://arxiv.org/abs/2610.08413)|-|-|
 |**2026-10-5**|**Can Domain Generalization be Guaranteed in Small-Sample Learning?**|Hong Zheng et.al|[paper](https://arxiv.org/abs/2609.39512)|-|-|
 |**2026-10-5**|**Reliability-Aware Checkpoint Selection for Domain Generalization**|Jinshi Liu et.al|[paper](https://arxiv.org/abs/2609.39934)|[code](https://github.com/Jjjjjjh666/Reliability-Aware-DG)|-|
 |**2026-10-4**|**CoDG-Net: Structure-Guided Style Diffusion and Collaborative Learning to Mitigate Catastrophic Forgetting in Medical Image Domain Generalization**|Yucheng Song et.al|[paper](https://arxiv.org/abs/2610.05053)|[code](https://github.com/wangprocess/CoDG-Net.)|<details><summary>detail</summary>Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence Main Track</details>|
@@ -86,25 +87,24 @@
 |**2026-9-28**|**Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study**|Hao Dong et.al|[paper](https://arxiv.org/abs/2605.06643)|-|<details><summary>detail</summary>NeurIPS 2026</details>|
 |**2026-9-28**|**Domain-Incremental Learning for Generative Speech Enhancement**|Manjunath Mulimani et.al|[paper](https://arxiv.org/abs/2609.34901)|-|<details><summary>detail</summary>Submitted to the IEEE International Conference of Acoustics</details>|
 |**2026-9-28**|**Gravity Falls: A Comparative Analysis of Domain-Generation Algorithm (DGA) Detection Methods for Mobile Device Spearphishing**|Adam Dorian Wong et.al|[paper](https://arxiv.org/abs/2603.03270)|-|-|
-|**2026-9-28**|**Learning to Select Source Domains: Proxy-Rewarded Policy Optimization for Molecular OOD Generalization**|Zhuohao Lin et.al|[paper](https://arxiv.org/abs/2605.13932)|-|-|
 
 ## vision language
 
 |Date|Title|Authors|PDF|Code|Comments|
 |:------|:---------------------|:---|:-|:-|:---|
-|**2026-10-5**|**Wiring Matters: Injection Topology and Initialization of Affordance Heads in Vision-Language-Action Policies**|Zijian An et.al|[paper](https://arxiv.org/abs/2610.06318)|-|-|
-|**2026-10-5**|**VLA-ZO: Fast Zeroth-Order Adaptation for Vision-Language-Action Models**|Jaemin Kim et.al|[paper](https://arxiv.org/abs/2610.06271)|-|-|
-|**2026-10-5**|**Encoded but Not in Control: Revealing the Grounding Gap in Vision-Language Robot Policies**|Shaohan Jiang et.al|[paper](https://arxiv.org/abs/2610.06235)|-|-|
-|**2026-10-5**|**Transcoders Trace Visual Grounding and Hallucinations in Vision-Language Models**|Dimitrios Damianos et.al|[paper](https://arxiv.org/abs/2605.22902)|-|<details><summary>detail</summary>Later experiments showed that the reported results are not correct</details>|
-|**2026-10-5**|**Arm-wise Compositional Generalization in Dual-Arm Vision-Language-Action Models**|Zaibin Zhang et.al|[paper](https://arxiv.org/abs/2610.06184)|-|<details><summary>detail</summary>Technical Report</details>|
-|**2026-10-5**|**Premover: Fast Vision-Language-Action Control via Early Execution During Instruction Delivery**|Joonha Park et.al|[paper](https://arxiv.org/abs/2605.12160)|-|-|
-|**2026-10-5**|**MMLongCite: A Benchmark for Evaluating Faithfulness of Long-Context Vision-Language Models**|Keyan Zhou et.al|[paper](https://arxiv.org/abs/2510.13276)|-|-|
-|**2026-10-5**|**InstructTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models**|Xunguang Wang et.al|[paper](https://arxiv.org/abs/2312.01886)|[code](https://github.com/xunguangwang/InstructTA.)|<details><summary>detail</summary>Accepted by Cybersecurity 2026</details>|
-|**2026-10-4**|**You Cannot Photograph the Same Street Twice: Reliability Limits in Vision-Language Measurement of Urban Change**|Kaizhen Tan et.al|[paper](https://arxiv.org/abs/2609.00649)|-|-|
-|**2026-10-4**|**Token-World: World Modeling in Vision-Language Model Token Space for Robot Manipulation**|Chuyao Fu et.al|[paper](https://arxiv.org/abs/2610.00575)|[code](https://chuyaofu.github.io/Token-World/.)|<details><summary>detail</summary>Submitted to IEEE International Conference on Robotics and Automation (ICRA) 2027</details>|
-|**2026-10-4**|**When to Switch: Reliable Action-Chunk Extension for Vision-Language-Action Models**|Seonghoon Yu et.al|[paper](https://arxiv.org/abs/2610.05719)|[code](https://github.com/Seonghoon-Yu/RACE-VLA)|<details><summary>detail</summary>Pre-print</details>|
-|**2026-10-4**|**Vision-Language Model Confidence Is Not a Property of the Answer**|Reza Khanmohammadi et.al|[paper](https://arxiv.org/abs/2608.06571)|-|-|
-|**2026-10-4**|**CineMR: Tool-Integrated Vision-Language Reasoning for Quantitative Cardiac MRI Assessment**|Kunyang Li et.al|[paper](https://arxiv.org/abs/2610.01166)|[code](https://github.com/AI-MIND-Lab/CineMR.)|<details><summary>detail</summary>Code</details>|
-|**2026-10-4**|**StageVLN: Spatial and Trajectory Auxiliary Guidance for Efficient Vision-Language Navigation**|Anh Dao et.al|[paper](https://arxiv.org/abs/2610.05664)|-|-|
-|**2026-10-4**|**Visual Grounding Safety in Vision-Language Models**|Erfan Shayegani et.al|[paper](https://arxiv.org/abs/2610.05637)|-|-|
+|**2026-10-6**|**SpaTime: Streaming Vision-Language Models for Spatio-temporal Reasoning**|Hairong Yin et.al|[paper](https://arxiv.org/abs/2610.08713)|-|-|
+|**2026-10-6**|**The Dual Mechanisms of Spatial Variable Binding in Vision-Language Models**|Kelly Cui et.al|[paper](https://arxiv.org/abs/2603.22278)|-|-|
+|**2026-10-6**|**WareFly-VLA: A Vision-Language-Action Framework for UAV Navigation and Human Tracking in Smart Warehouses**|Thinh D. Le et.al|[paper](https://arxiv.org/abs/2610.08526)|-|-|
+|**2026-10-6**|**Knee3DVLM: Dual-Sequence Full-Volume Vision-Language Modeling for Comprehensive Knee MRI Assessment**|Maryam Baizhigitova et.al|[paper](https://arxiv.org/abs/2610.08482)|-|-|
+|**2026-10-6**|**Vision Is Not Overhead: One-Pass Block Drafting for Lossless Speculative Decoding in Vision-Language Models**|Jungseob Lee et.al|[paper](https://arxiv.org/abs/2609.00355)|[code](https://github.com/js-lee-AI/GLANCE.)|-|
+|**2026-10-6**|**ActTune: Action-Aware Precision and GPU Operating-Point Adaptation for Energy-Efficient Vision-Language-Action Inference**|Zou Qingyun et.al|[paper](https://arxiv.org/abs/2610.08444)|-|-|
+|**2026-10-6**|**GeoPID: Decomposing and Steering Visual Information in Vision-Language Models**|Seulgi Kim et.al|[paper](https://arxiv.org/abs/2610.08401)|-|<details><summary>detail</summary>Under Review</details>|
+|**2026-10-6**|**Guided Action Flow: Value-Guided Sampling for Frozen Vision-Language-Action Policies**|Liuhaichen Yang et.al|[paper](https://arxiv.org/abs/2607.02092)|-|-|
+|**2026-10-6**|**Event-Driven Proactive Robot Assistance through Vision-Language Reasoning**|Fengkai Liu et.al|[paper](https://arxiv.org/abs/2610.08344)|-|-|
+|**2026-10-6**|**Transferable Spatial Temporal Coherence Adversarial Attack on Black-Box Vision Language Models for Autonomous Driving**|Heyam Bin Jahlan Areej Alhothali Abeer Alhothali et.al|[paper](https://arxiv.org/abs/2610.08331)|-|-|
+|**2026-10-6**|**Quantum Entangled Multimodal Fusion Networks (QEMFN): Resource-Aware Hybrid Vision-Language Fusion via Trainable Entanglement**|Srikar Alla et.al|[paper](https://arxiv.org/abs/2610.08216)|-|-|
+|**2026-10-6**|**ViDAL: A Visual Dynamics-Grounded Action Latent Space for Vision-Language-Action Models**|Yuan Xu et.al|[paper](https://arxiv.org/abs/2610.08150)|-|-|
+|**2026-10-6**|**VLA-ACL: Action-Consistent Visual Token Pruning for Efficient Vision-Language-Action Models**|Owen Du et.al|[paper](https://arxiv.org/abs/2610.08133)|[code](https://github.com/du-owen/VLA-ACL.)|-|
+|**2026-10-6**|**A Safe Action Is Not Enough: Feasible-Future Decoding for Vision-Language-Action Policies**|Tu Nguyen et.al|[paper](https://arxiv.org/abs/2610.05166)|-|-|
+|**2026-10-6**|**Adapting Vision-Language-Action Models to Unknown Visual Disruptions During Execution**|Ahin Lee et.al|[paper](https://arxiv.org/abs/2610.07946)|-|-|
 
